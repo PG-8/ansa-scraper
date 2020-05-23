@@ -28,7 +28,7 @@ const extractResult = (scrape) => {
 
 readContent(function (err, content) {
 	fs.appendFileSync(
-		'readyToPush.txt',
-		`${currentDate.map((el) => el)} - ${extractResult(content)}\n`
+		'README.md',
+		`- ${currentDate.map((el) => el)} : ${extractResult(content)}\n`
 	)
 })
