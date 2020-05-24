@@ -1,7 +1,6 @@
 # shitty-ansa-scraper
-run `./script.sh` inside the root of the repo.. ✨ magic..
 
-### The list below auto-updates every ~20 minutes with a cron job scheduled with crontab on my Virtual Private Server
-*The content below is not curated, nor intended to be:*
+### The list below is auto-updated every 20 minutes by a crontab job which is scheduled on my Virtual Private Server
+*The content below is not curated, nor intended to be. Emphasis on shitty*
 
-- 24/5/2020 at 20:52 -> Calano malati e decessi, In Lombardia serve verifica
+- 24/5/2020 at 21:00 -> Calano malati e decessi, In Lombardia serve verifica

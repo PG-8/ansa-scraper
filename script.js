@@ -30,6 +30,6 @@ const extractResult = (scrape) => {
 readContent(function (err, content) {
 	fs.appendFileSync(
 		'/home/pg-8/programming/shitty-ansa-scraper/README.md',
-		`- ${(currentDate.map((el) => el)).toString().replace(/,/g, '/')} at ${currentTime[0]}:${currentTime[1]} -> ${extractResult(content)}\n`
+		`- ${(currentDate.map((el) => el)).toString().replace(/,/g, '/')} at ${(currentTime[0] === 0)? '00': currentTime[0]}:${(currentTime[1] === 0)? '00': currentTime[1]} -> ${extractResult(content)}\n`
 	)
 })
