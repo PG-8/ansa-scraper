@@ -2,6 +2,7 @@ const fs = require('fs')
 
 const date = new Date()
 const currentDate = [date.getDate(), date.getMonth() + 1, date.getFullYear()]
+const currentTime = [date.getHours(), date.getMinutes()]
 
 function readContent(callback) {
 	fs.readFile('/home/pg-8/programming/shitty-ansa-scraper/scrape.txt', 'UTF-8', function (err, content) {
@@ -29,6 +30,6 @@ const extractResult = (scrape) => {
 readContent(function (err, content) {
 	fs.appendFileSync(
 		'/home/pg-8/programming/shitty-ansa-scraper/README.md',
-		`- ${(currentDate.map((el) => el)).toString().replace(/,/g, '/')} -> ${extractResult(content)}\n`
+		`- ${(currentDate.map((el) => el)).toString().replace(/,/g, '/')} at ${currentTime[0]}:${currentTime[1]} -> ${extractResult(content)}\n`
 	)
 })
