@@ -4,3 +4,4 @@
 *The content below is not curated, nor intended to be. Emphasis on shitty*
 
 - 24/5/2020 at 21:00 -> Calano malati e decessi, In Lombardia serve verifica
+- 24/5/2020 at 21:20 -> Calano malati e decessi, In Lombardia serve verifica
