@@ -5,3 +5,4 @@ run `./script.sh` inside the root of the repo.. ✨ magic..
 - 24,5,2020 : A Napoli lungomare bloccato 'Notte di follia fino alle 4'
 - 24,5,2020 : A Napoli lungomare bloccato 'Notte di follia fino alle 4'
 - 24,5,2020 : 'Stop escalation di annunci' Aiscat: 'Il governo decida'
+- 24,5,2020 : Tensione ad Hong Kong Cariche e scontri, 150 arresti
