@@ -4,7 +4,7 @@ const date = new Date()
 const currentDate = [date.getDate(), date.getMonth() + 1, date.getFullYear()]
 
 function readContent(callback) {
-	fs.readFile('scrape.txt', 'UTF-8', function (err, content) {
+	fs.readFile('/home/pg-8/programming/shitty-ansa-scraper/scrape.txt', 'UTF-8', function (err, content) {
 		if (err) return callback(err)
 		callback(null, content)
 	})
@@ -28,7 +28,7 @@ const extractResult = (scrape) => {
 
 readContent(function (err, content) {
 	fs.appendFileSync(
-		'README.md',
+		'/home/pg-8/programming/shitty-ansa-scraper/README.md',
 		`- ${currentDate.map((el) => el)} : ${extractResult(content)}\n`
 	)
 })
