@@ -54,3 +54,4 @@
 - 25/5/2020 at 13:00 -> Al via i test sierologici,, al lavoro 21 centri regionali
 - 25/5/2020 at 13:20 -> Al via i test sierologici,, al lavoro 21 centri regionali
 - 25/5/2020 at 13:40 -> Al via i test sierologici,, al lavoro 21 centri regionali
+- 25/5/2020 at 14:00 -> Al via i test sierologici,, al lavoro 21 centri regionali
