@@ -52,3 +52,4 @@
 - 25/5/2020 at 12:20 -> Boccia: 'Se va avanti così , niente mobilità tra Regioni'
 - 25/5/2020 at 12:40 -> Al via i test sierologici,, al lavoro 21 centri regionali
 - 25/5/2020 at 13:00 -> Al via i test sierologici,, al lavoro 21 centri regionali
+- 25/5/2020 at 13:20 -> Al via i test sierologici,, al lavoro 21 centri regionali
