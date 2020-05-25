@@ -40,3 +40,4 @@
 - 25/5/2020 at 8:20 -> Calano malati e decessi, In Lombardia serve verifica
 - 25/5/2020 at 8:40 -> Accordo nella maggioranza, il concorso dopo l'estate
 - 25/5/2020 at 9:00 -> Accordo sulla scuola, , il concorso dopo l'estate
+- 25/5/2020 at 9:20 -> Accordo sulla scuola, , il concorso dopo l'estate
