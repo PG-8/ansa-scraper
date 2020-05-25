@@ -8,3 +8,11 @@
 - 25/5/2020 at 21:15 -> La movida divide i sindaci scontro sugli assistenti civici
 - 25/5/2020 at 21:30 -> La movida divide i sindaci scontro sugli assistenti civici
 - 25/5/2020 at 21:45 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 22:00 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 22:15 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 22:30 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 22:45 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 23:00 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 23:15 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 23:30 -> Scontro su guardie civiche Governo: 'Sì a sorveglianza'
+- 25/5/2020 at 23:45 -> Scontro sulle guardie civiche Governo: 'Sì a sorveglianza'
