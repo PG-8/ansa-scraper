@@ -37,3 +37,4 @@
 - 25/5/2020 at 7:20 -> Calano malati e decessi, In Lombardia serve verifica
 - 25/5/2020 at 7:40 -> Calano malati e decessi, In Lombardia serve verifica
 - 25/5/2020 at 8:00 -> Calano malati e decessi, In Lombardia serve verifica
+- 25/5/2020 at 8:20 -> Calano malati e decessi, In Lombardia serve verifica
