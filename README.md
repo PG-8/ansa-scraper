@@ -41,3 +41,4 @@
 - 25/5/2020 at 8:40 -> Accordo nella maggioranza, il concorso dopo l'estate
 - 25/5/2020 at 9:00 -> Accordo sulla scuola, , il concorso dopo l'estate
 - 25/5/2020 at 9:20 -> Accordo sulla scuola, , il concorso dopo l'estate
+- 25/5/2020 at 9:40 -> Accordo sulla scuola, , il concorso dopo l'estate
