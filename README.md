@@ -49,3 +49,4 @@
 - 25/5/2020 at 11:20 -> Boccia: 'Se va avanti così , niente mobilità tra Regioni'
 - 25/5/2020 at 11:40 -> Boccia: 'Se va avanti così , niente mobilità tra Regioni'
 - 25/5/2020 at 12:00 -> Boccia: 'Se va avanti così , niente mobilità tra Regioni'
+- 25/5/2020 at 12:20 -> Boccia: 'Se va avanti così , niente mobilità tra Regioni'
