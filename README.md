@@ -88,3 +88,11 @@
 - 26/5/2020 at 17:15 -> L'orientamento del governo, Election day il 20 settembre
 - 26/5/2020 at 17:30 -> L'orientamento del governo, Election day il 20 settembre
 - 26/5/2020 at 17:45 -> 'Prevedibile una seconda ondata, il Paese sia pronto'
+- 26/5/2020 at 18:00 -> 'A settembre le scuole, riapriranno per tutti'
+- 26/5/2020 at 18:15 -> In 24 ore 78 vittime, mai così poche dal 2 marzo
+- 26/5/2020 at 18:30 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 18:45 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 19:00 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 19:15 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 19:30 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 19:45 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
