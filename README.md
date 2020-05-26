@@ -72,3 +72,11 @@
 - 26/5/2020 at 13:15 -> Regioni, linee guida per terme e professioni montagna 
 - 26/5/2020 at 13:30 -> No al processo a Salvini , Iv non partecipa al voto
 - 26/5/2020 at 13:45 -> No al processo a Salvini , Iv non partecipa al voto
+- 26/5/2020 at 14:00 -> Prime 7300 chiamate, , il 60% è indeciso sul test
+- 26/5/2020 at 14:15 -> Prime 7300 chiamate, , il 60% è indeciso sul test
+- 26/5/2020 at 14:30 -> Prime 7300 chiamate, , il 60% è indeciso sul test
+- 26/5/2020 at 14:45 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 15:00 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 15:15 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 15:30 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 15:45 -> L'orientamento del governo, Election day il 20 settembre
