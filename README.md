@@ -96,3 +96,11 @@
 - 26/5/2020 at 19:15 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
 - 26/5/2020 at 19:30 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
 - 26/5/2020 at 19:45 -> Sono 78 le vittime in 24 ore, mai così poche dal 2 marzo
+- 26/5/2020 at 20:00 -> Spostamenti, si aspetta il 29, 'Attenti a seconda ondata'
+- 26/5/2020 at 20:15 -> Spostamenti, si aspetta il 29, 'Attenti a seconda ondata'
+- 26/5/2020 at 20:30 -> Spostamenti, si aspetta il 29, 'Attenti a seconda ondata'
+- 26/5/2020 at 20:45 -> Spostamenti, si aspetta il 29, 'Attenti a seconda ondata'
+- 26/5/2020 at 21:00 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 26/5/2020 at 21:15 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 26/5/2020 at 21:30 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 26/5/2020 at 21:45 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
