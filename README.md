@@ -64,3 +64,11 @@
 - 26/5/2020 at 11:15 -> La Giunta decide su Salvini Italia Viva: 'Non votiamo'
 - 26/5/2020 at 11:30 -> La Giunta decide su Salvini Italia Viva: 'Non votiamo'
 - 26/5/2020 at 11:45 -> La Giunta decide su Salvini Italia Viva: 'Non votiamo'
+- 26/5/2020 at 12:00 -> No al processo a Salvini Italia Viva non ha votato
+- 26/5/2020 at 12:15 -> No al processo a Salvini Italia Viva non ha votato
+- 26/5/2020 at 12:30 -> No al processo a Salvini Italia Viva non ha votato
+- 26/5/2020 at 12:45 -> No al processo a Salvini Italia Viva non ha votato
+- 26/5/2020 at 13:00 -> No al processo a Salvini Italia Viva non ha votato
+- 26/5/2020 at 13:15 -> Regioni, linee guida per terme e professioni montagna 
+- 26/5/2020 at 13:30 -> No al processo a Salvini , Iv non partecipa al voto
+- 26/5/2020 at 13:45 -> No al processo a Salvini , Iv non partecipa al voto
