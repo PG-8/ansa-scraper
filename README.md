@@ -80,3 +80,11 @@
 - 26/5/2020 at 15:15 -> L'orientamento del governo, Election day il 20 settembre
 - 26/5/2020 at 15:30 -> L'orientamento del governo, Election day il 20 settembre
 - 26/5/2020 at 15:45 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 16:00 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 16:15 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 16:30 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 16:45 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 17:00 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 17:15 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 17:30 -> L'orientamento del governo, Election day il 20 settembre
+- 26/5/2020 at 17:45 -> 'Prevedibile una seconda ondata, il Paese sia pronto'
