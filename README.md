@@ -160,3 +160,11 @@
 - 27/5/2020 at 11:15 -> Alle elementari stop ai voti,, ritorneranno i giudizi
 - 27/5/2020 at 11:30 -> Alle elementari stop ai voti,, ritorneranno i giudizi
 - 27/5/2020 at 11:45 -> Minacce e insulti sui social, scorta per ministra Azzolina
+- 27/5/2020 at 12:00 -> Minacce e insulti sui social, scorta per ministra Azzolina
+- 27/5/2020 at 12:15 -> Recovery Fund da 750 mld Gentiloni: 'E' una svolta'
+- 27/5/2020 at 12:30 -> Recovery Fund da 750 mld Gentiloni: 'E' una svolta'
+- 27/5/2020 at 12:45 -> Recovery Fund da 750 mld Gentiloni: 'E' una svolta'
+- 27/5/2020 at 13:00 -> Un piano Ue da 750 miliardi , All'Italia la quota più alta
+- 27/5/2020 at 13:15 -> Maxi piano da 750 miliardi , All'Italia la quota più alta
+- 27/5/2020 at 13:30 -> A proposito della notizia su Silvia Romano
+- 27/5/2020 at 13:45 -> A proposito della notizia su Silvia Romano
