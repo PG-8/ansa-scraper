@@ -176,3 +176,11 @@
 - 27/5/2020 at 15:15 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
 - 27/5/2020 at 15:30 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
 - 27/5/2020 at 15:45 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
+- 27/5/2020 at 16:00 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
+- 27/5/2020 at 16:15 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
+- 27/5/2020 at 16:30 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
+- 27/5/2020 at 16:45 -> Maxi piano da 750 miliardi Conte: ottimo segnale da Ue
+- 27/5/2020 at 17:00 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 17:15 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 17:30 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 17:45 -> Sospetto positivo al Bologna,, stop allenamenti squadra
