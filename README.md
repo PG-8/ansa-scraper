@@ -152,3 +152,11 @@
 - 27/5/2020 at 9:15 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
 - 27/5/2020 at 9:30 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
 - 27/5/2020 at 9:45 -> La Prefettura di Varese , mette Fontana sotto scorta
+- 27/5/2020 at 10:00 -> La Prefettura di Varese , mette Fontana sotto scorta
+- 27/5/2020 at 10:15 -> La Prefettura di Varese , mette Fontana sotto scorta
+- 27/5/2020 at 10:30 -> Alle elementari stop ai voti,, ritorneranno i giudizi
+- 27/5/2020 at 10:45 -> Alle elementari stop ai voti,, ritorneranno i giudizi
+- 27/5/2020 at 11:00 -> Alle elementari stop ai voti,, ritorneranno i giudizi
+- 27/5/2020 at 11:15 -> Alle elementari stop ai voti,, ritorneranno i giudizi
+- 27/5/2020 at 11:30 -> Alle elementari stop ai voti,, ritorneranno i giudizi
+- 27/5/2020 at 11:45 -> Minacce e insulti sui social, scorta per ministra Azzolina
