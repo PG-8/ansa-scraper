@@ -184,3 +184,11 @@
 - 27/5/2020 at 17:15 -> Sospetto positivo al Bologna,, stop allenamenti squadra
 - 27/5/2020 at 17:30 -> Sospetto positivo al Bologna,, stop allenamenti squadra
 - 27/5/2020 at 17:45 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 18:00 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 18:15 -> Sospetto positivo al Bologna,, stop allenamenti squadra
+- 27/5/2020 at 18:30 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 27/5/2020 at 18:45 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 27/5/2020 at 19:00 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 27/5/2020 at 19:15 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 27/5/2020 at 19:30 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 27/5/2020 at 19:45 -> Risale il numero dei morti, Giù i malati, più contagiati
