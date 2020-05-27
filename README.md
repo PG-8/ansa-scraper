@@ -144,3 +144,11 @@
 - 27/5/2020 at 7:15 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
 - 27/5/2020 at 7:30 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
 - 27/5/2020 at 7:45 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 27/5/2020 at 8:00 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 27/5/2020 at 8:15 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 27/5/2020 at 8:30 -> 'Se l'Italia è a basso rischio, il 3 giugno si riparte'
+- 27/5/2020 at 8:45 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
+- 27/5/2020 at 9:00 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
+- 27/5/2020 at 9:15 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
+- 27/5/2020 at 9:30 -> Il piano Marshall è pronto, proposta da 2.000 miliardi
+- 27/5/2020 at 9:45 -> La Prefettura di Varese , mette Fontana sotto scorta
