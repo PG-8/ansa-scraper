@@ -288,3 +288,11 @@
 - 28/5/2020 at 19:15 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
 - 28/5/2020 at 19:30 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
 - 28/5/2020 at 19:45 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 20:00 -> Serie A riparte il 20 giugno, Forse prima la Coppa Italia
+- 28/5/2020 at 20:15 -> Serie A riparte il 20 giugno, Forse prima la Coppa Italia
+- 28/5/2020 at 20:30 -> Serie A riparte il 20 giugno, Forse prima la Coppa Italia
+- 28/5/2020 at 20:45 -> Serie A riparte il 20 giugno, Forse prima la Coppa Italia
+- 28/5/2020 at 21:00 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 28/5/2020 at 21:15 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 28/5/2020 at 21:30 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 28/5/2020 at 21:45 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
