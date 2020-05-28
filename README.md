@@ -208,3 +208,11 @@
 - 27/5/2020 at 23:15 -> Risale il numero dei morti, Giù i malati, più contagiati
 - 27/5/2020 at 23:30 -> Risale il numero dei morti, Giù i malati, più contagiati
 - 27/5/2020 at 23:45 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 00:00 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 00:15 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 00:30 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 00:45 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 1:00 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 1:15 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 1:30 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 1:45 -> Risale il numero dei morti, Giù i malati, più contagiati
