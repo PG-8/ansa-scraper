@@ -251,3 +251,8 @@
 - 28/5/2020 at 10:00 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
 - 28/5/2020 at 10:15 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
 - 28/5/2020 at 10:30 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 10:45 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 11:00 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 11:15 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 11:30 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 11:45 -> Boccia, passaporto sanitario è contro la Costituzione
