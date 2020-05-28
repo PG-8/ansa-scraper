@@ -256,3 +256,11 @@
 - 28/5/2020 at 11:15 -> Boccia, passaporto sanitario è contro la Costituzione
 - 28/5/2020 at 11:30 -> Boccia, passaporto sanitario è contro la Costituzione
 - 28/5/2020 at 11:45 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 12:00 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 12:15 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 12:30 -> Boccia, passaporto sanitario è contro la Costituzione
+- 28/5/2020 at 12:45 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 13:00 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 13:15 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 13:30 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 13:45 -> Seul richiude, boom contagi Lockdown per due settimane
