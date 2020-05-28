@@ -272,3 +272,11 @@
 - 28/5/2020 at 15:15 -> Seul richiude, boom contagi Lockdown per due settimane
 - 28/5/2020 at 15:30 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
 - 28/5/2020 at 15:45 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 16:00 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 16:15 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 16:30 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 16:45 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 17:00 -> 'Lombardia aggiusta i dati' , scontro tra Regione e Gimbe
+- 28/5/2020 at 17:15 -> 'Lombardia aggiusta i dati' , scontro tra Regione e Gimbe
+- 28/5/2020 at 17:30 -> I top manager della Thyssen hanno chiesto la semilibertà
+- 28/5/2020 at 17:45 -> I top manager della Thyssen hanno chiesto la semilibertà
