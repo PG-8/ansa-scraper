@@ -280,3 +280,11 @@
 - 28/5/2020 at 17:15 -> 'Lombardia aggiusta i dati' , scontro tra Regione e Gimbe
 - 28/5/2020 at 17:30 -> I top manager della Thyssen hanno chiesto la semilibertà
 - 28/5/2020 at 17:45 -> I top manager della Thyssen hanno chiesto la semilibertà
+- 28/5/2020 at 18:00 -> I top manager della Thyssen hanno chiesto la semilibertà
+- 28/5/2020 at 18:15 -> 'I lombardi liberi dal 3', Scontro Regione-Gimbe
+- 28/5/2020 at 18:30 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 18:45 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 19:00 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 19:15 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 19:30 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
+- 28/5/2020 at 19:45 -> 593 casi, 64% in Lombardia Otto regioni senza vittime
