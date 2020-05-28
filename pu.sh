@@ -1,4 +1,4 @@
-cd /home/pg-8/programming/shitty-ansa-scraper
+cd /home/pg-8/programming/ansa-scraper
 git add README.md
 git commit -m 'commit message'
 git push

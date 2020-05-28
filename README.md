@@ -1,6 +1,6 @@
-### The list below is auto-updated every 15 minutes and pushed every 2 hours on the repository's README by a crontab job which is scheduled on my Virtual Private Server
+### The list below is auto-updated every 15 minutes and pushed every 2 hours on the repository's README by a crontab job running on a Virtual Private Server
 
-*The content below is not curated, nor intended to be. Emphasis on shitty*
+*The content below is not curated, nor intended to be*
 
 
 - 25/5/2020 at 20:45 -> La movida divide i sindaci scontro sugli assistenti civici
@@ -240,3 +240,14 @@
 - 28/5/2020 at 7:15 -> Risale il numero dei morti, Giù i malati, più contagiati
 - 28/5/2020 at 7:30 -> Risale il numero dei morti, Giù i malati, più contagiati
 - 28/5/2020 at 7:45 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 8:00 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 8:15 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 8:30 -> Risale il numero dei morti, Giù i malati, più contagiati
+- 28/5/2020 at 8:45 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 9:00 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 9:15 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 9:30 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 9:45 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 10:00 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 10:15 -> Sviluppo sostenibile: ASviS, ecco la strada per la ripresa
+- 28/5/2020 at 10:30 -> Boccia, passaporto sanitario è contro la Costituzione
