@@ -264,3 +264,11 @@
 - 28/5/2020 at 13:15 -> Seul richiude, boom contagi Lockdown per due settimane
 - 28/5/2020 at 13:30 -> Seul richiude, boom contagi Lockdown per due settimane
 - 28/5/2020 at 13:45 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 14:00 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 14:15 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 14:30 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 14:45 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 15:00 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 15:15 -> Seul richiude, boom contagi Lockdown per due settimane
+- 28/5/2020 at 15:30 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
+- 28/5/2020 at 15:45 -> Piemonte,Lombardia,Liguria, Gimbe: 'Apertura rischiosa'
