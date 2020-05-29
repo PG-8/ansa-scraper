@@ -376,3 +376,11 @@
 - 29/5/2020 at 17:15 -> Grecia riapre, non all'Italia Zaia: non siamo lebbrosario
 - 29/5/2020 at 17:30 -> Caporalato sui rider, commissariata Uber Italy
 - 29/5/2020 at 17:45 -> Caporalato sui rider, commissariata Uber Italy
+- 29/5/2020 at 18:00 -> Caporalato sui rider, commissariata Uber Italy
+- 29/5/2020 at 18:15 -> Fase 2 'Trend incoraggiante', Giù contagi, 68% Lombardia
+- 29/5/2020 at 18:30 -> Fase 2 'Trend incoraggiante', Giù i casi, 68% in Lombardia
+- 29/5/2020 at 18:45 -> Fase 2 'Trend incoraggiante', Giù i casi, 68% in Lombardia
+- 29/5/2020 at 19:00 -> Fase 2 'Trend incoraggiante', Giù i casi, 68% in Lombardia
+- 29/5/2020 at 19:15 -> Fase 2 'Trend incoraggiante', Giù i casi, 68% in Lombardia
+- 29/5/2020 at 19:30 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 19:45 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
