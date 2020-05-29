@@ -336,3 +336,11 @@
 - 29/5/2020 at 7:15 -> Minneapolis,ancora proteste Incendiato il commissariato
 - 29/5/2020 at 7:30 -> Minneapolis,ancora proteste Incendiato il commissariato
 - 29/5/2020 at 7:45 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 8:00 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 8:15 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 8:30 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 8:45 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 9:00 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 9:15 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 9:30 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 9:45 -> Minneapolis,ancora proteste Incendiato il commissariato
