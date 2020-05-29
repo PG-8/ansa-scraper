@@ -304,3 +304,11 @@
 - 28/5/2020 at 23:15 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
 - 28/5/2020 at 23:30 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
 - 28/5/2020 at 23:45 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 00:00 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 00:15 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 00:30 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 00:45 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 1:00 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 1:15 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 1:30 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
+- 29/5/2020 at 1:45 -> Serie A riparte il 20 giugno, La Coppa Italia torna dal 13
