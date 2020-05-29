@@ -384,3 +384,11 @@
 - 29/5/2020 at 19:15 -> Fase 2 'Trend incoraggiante', Giù i casi, 68% in Lombardia
 - 29/5/2020 at 19:30 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
 - 29/5/2020 at 19:45 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 20:00 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 20:15 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 20:30 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 20:45 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 21:00 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 21:15 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 21:30 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
+- 29/5/2020 at 21:45 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
