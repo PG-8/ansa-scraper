@@ -344,3 +344,11 @@
 - 29/5/2020 at 9:15 -> Minneapolis,ancora proteste Incendiato il commissariato
 - 29/5/2020 at 9:30 -> Minneapolis,ancora proteste Incendiato il commissariato
 - 29/5/2020 at 9:45 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 10:00 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 10:15 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 10:30 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 10:45 -> Minneapolis,ancora proteste Incendiato il commissariato
+- 29/5/2020 at 11:00 -> Visco: 'Estrema incertezza, , ma insieme ce la faremo'
+- 29/5/2020 at 11:15 -> Forum ANSA, Malato: 'Interventi siano rapidi'
+- 29/5/2020 at 11:30 -> Forum ANSA, Malato: 'Interventi siano rapidi'
+- 29/5/2020 at 11:45 -> Forum ANSA, Malato: 'Interventi siano rapidi'
