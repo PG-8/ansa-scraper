@@ -392,3 +392,11 @@
 - 29/5/2020 at 21:15 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
 - 29/5/2020 at 21:30 -> 'Nessuna situazione critica', Conte, vertice sulle aperture
 - 29/5/2020 at 21:45 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 22:00 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 22:15 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 22:30 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 22:45 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 23:00 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 23:15 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 23:30 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
+- 29/5/2020 at 23:45 -> Sì a spostamenti tra regioni, 'Dal 3 giugno, nessun rinvio'
