@@ -440,3 +440,11 @@
 - 30/5/2020 at 9:15 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
 - 30/5/2020 at 9:30 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
 - 30/5/2020 at 9:45 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 10:00 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 10:15 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 10:30 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 10:45 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 11:00 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 11:15 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
+- 30/5/2020 at 11:30 -> Spari contro i manifestanti , ucciso 19enne a Detroit
+- 30/5/2020 at 11:45 -> Spari contro i manifestanti , ucciso 19enne a Detroit
