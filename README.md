@@ -472,3 +472,11 @@
 - 30/5/2020 at 17:15 -> 'Non capisco apertura a tutti, Faremo più controlli e test'
 - 30/5/2020 at 17:30 -> 'Non capisco apertura a tutti, Faremo più controlli e test'
 - 30/5/2020 at 17:45 -> 'Non capisco apertura a tutti, Faremo più controlli e test'
+- 30/5/2020 at 18:00 -> 'Non capisco apertura a tutti, Faremo più controlli e test'
+- 30/5/2020 at 18:15 -> 'Non capisco apertura a tutti, Faremo più controlli e test'
+- 30/5/2020 at 18:30 -> Le Dolomiti riaprono a turisti e biker, impianti in funzione
+- 30/5/2020 at 18:45 -> Crescono le vittime, 33mila, In calo i contagi e le terapie
+- 30/5/2020 at 19:00 -> Crescono le vittime, 33mila, In calo i contagi e le terapie
+- 30/5/2020 at 19:15 -> Crescono le vittime, 33mila, In calo i contagi e le terapie
+- 30/5/2020 at 19:30 -> Crescono le vittime, 33mila, In calo i contagi e le terapie
+- 30/5/2020 at 19:45 -> Crescono le vittime, 33mila, In calo i contagi e le terapie
