@@ -448,3 +448,11 @@
 - 30/5/2020 at 11:15 -> Sì a spostamenti tra regioni, 'Dal  3 giugno nessun rinvio'
 - 30/5/2020 at 11:30 -> Spari contro i manifestanti , ucciso 19enne a Detroit
 - 30/5/2020 at 11:45 -> Spari contro i manifestanti , ucciso 19enne a Detroit
+- 30/5/2020 at 12:00 -> Spari contro i manifestanti , ucciso 19enne a Detroit
+- 30/5/2020 at 12:15 -> 'Non siamo un lazzaretto, missione a Berlino e Atene'
+- 30/5/2020 at 12:30 -> 'Non siamo un lazzaretto, missione a Berlino e Atene'
+- 30/5/2020 at 12:45 -> 'Non siamo un lazzaretto, missione a Berlino e Atene'
+- 30/5/2020 at 13:00 -> 'Non siamo un lazzaretto, missione a Berlino e Atene'
+- 30/5/2020 at 13:15 -> 'Non siamo un lazzaretto, missione a Berlino e Atene'
+- 30/5/2020 at 13:30 -> Medici in fuga, in 8 anni 9.000 emigrati all'estero
+- 30/5/2020 at 13:45 -> Medici in fuga, in 8 anni 9.000 emigrati all'estero
