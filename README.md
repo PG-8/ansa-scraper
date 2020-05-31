@@ -536,3 +536,11 @@
 - 31/5/2020 at 9:15 -> Un morto a Indianapolis, Il coprifuoco in 25 città
 - 31/5/2020 at 9:30 -> Un morto a Indianapolis, Il coprifuoco in 25 città
 - 31/5/2020 at 9:45 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 10:00 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 10:15 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 10:30 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 10:45 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 11:00 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 11:15 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 11:30 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 11:45 -> Un agente pugnalato al collo, A Jacksonville, è ricoverato
