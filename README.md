@@ -528,3 +528,11 @@
 - 31/5/2020 at 7:15 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
 - 31/5/2020 at 7:30 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
 - 31/5/2020 at 7:45 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 8:00 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 8:15 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 8:30 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 8:45 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 9:00 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 9:15 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 9:30 -> Un morto a Indianapolis, Il coprifuoco in 25 città
+- 31/5/2020 at 9:45 -> Un morto a Indianapolis, Il coprifuoco in 25 città
