@@ -560,3 +560,11 @@
 - 31/5/2020 at 15:15 -> Test dalle zone 'a rischio', Ira di Zaia: 'Non ci vede più'
 - 31/5/2020 at 15:30 -> Test dalle zone 'a rischio', Ira di Zaia: 'Non ci vede più'
 - 31/5/2020 at 15:45 -> Test dalle zone 'a rischio', Ira di Zaia: 'Non ci vede più'
+- 31/5/2020 at 16:00 -> Test dalle zone 'a rischio', Ira di Zaia: 'Non ci vede più'
+- 31/5/2020 at 16:15 -> Test dalle zone 'a rischio', Ira di Zaia: 'Non ci vede più'
+- 31/5/2020 at 16:30 -> 'Parole Bonomi ingenerose, , un patto con le forze sociali'
+- 31/5/2020 at 16:45 -> 'Parole Bonomi ingenerose, , un patto con le forze sociali'
+- 31/5/2020 at 17:00 -> 'Parole Bonomi ingenerose, , un patto con le forze sociali'
+- 31/5/2020 at 17:15 -> 'Parole Bonomi ingenerose, , un patto con le forze sociali'
+- 31/5/2020 at 17:30 -> Test dalle zone 'a rischio'
+- 31/5/2020 at 17:45 -> Test dalle zone 'a rischio', La rabbia dei governatori
