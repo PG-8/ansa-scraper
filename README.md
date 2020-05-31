@@ -568,3 +568,11 @@
 - 31/5/2020 at 17:15 -> 'Parole Bonomi ingenerose, , un patto con le forze sociali'
 - 31/5/2020 at 17:30 -> Test dalle zone 'a rischio'
 - 31/5/2020 at 17:45 -> Test dalle zone 'a rischio', La rabbia dei governatori
+- 31/5/2020 at 18:00 -> Test dalle regioni 'a rischio', La replica: non siamo untori
+- 31/5/2020 at 18:15 -> Coronavirus: 355 contagiati in più, 59% in Lombardia
+- 31/5/2020 at 18:30 -> Coronavirus: 355 contagiati in più, 59% in Lombardia
+- 31/5/2020 at 18:45 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
+- 31/5/2020 at 19:00 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
+- 31/5/2020 at 19:15 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
+- 31/5/2020 at 19:30 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
+- 31/5/2020 at 19:45 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
