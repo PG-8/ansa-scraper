@@ -576,3 +576,11 @@
 - 31/5/2020 at 19:15 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
 - 31/5/2020 at 19:30 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
 - 31/5/2020 at 19:45 -> 2 Giugno: Fontana, Mattarella a Codogno segno di fiducia
+- 31/5/2020 at 20:00 -> Zangrillo: 'Il coronavirus clinicamente non esiste più'
+- 31/5/2020 at 20:15 -> Zangrillo: 'Il coronavirus clinicamente non esiste più'
+- 31/5/2020 at 20:30 -> Zangrillo: 'Il coronavirus clinicamente non esiste più'
+- 31/5/2020 at 20:45 -> Zangrillo: 'Il coronavirus clinicamente non esiste più'
+- 31/5/2020 at 21:00 -> L'America brucia per George, Oltre sessanta agenti feriti
+- 31/5/2020 at 21:15 -> L'America brucia per George, Oltre sessanta agenti feriti
+- 31/5/2020 at 21:30 -> L'America brucia per George, Oltre sessanta agenti feriti
+- 31/5/2020 at 21:45 -> L'America brucia per George, Oltre sessanta agenti feriti
