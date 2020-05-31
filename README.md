@@ -520,3 +520,11 @@
 - 31/5/2020 at 5:15 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
 - 31/5/2020 at 5:30 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
 - 31/5/2020 at 5:45 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 6:00 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 6:15 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 6:30 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 6:45 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 7:00 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 7:15 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 7:30 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
+- 31/5/2020 at 7:45 -> Lanciata la Crew Dragon,, inizia una nuova era spaziale
