@@ -640,3 +640,11 @@
 - 1/6/2020 at 11:15 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
 - 1/6/2020 at 11:30 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
 - 1/6/2020 at 11:45 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 12:00 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 12:15 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 12:30 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 12:45 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 13:00 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 13:15 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 13:30 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 13:45 -> Da oggi si scarica dagli Store Da mercoledì partono i test
