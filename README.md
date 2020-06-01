@@ -632,3 +632,11 @@
 - 1/6/2020 at 9:15 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 1/6/2020 at 9:30 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 1/6/2020 at 9:45 -> Gentiloni su Recovery plan,  , dai negoziati solo lievi cambi
+- 1/6/2020 at 10:00 -> Gentiloni su Recovery plan, , dai negoziati solo lievi cambi
+- 1/6/2020 at 10:15 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 10:30 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 10:45 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 11:00 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 11:15 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 11:30 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
+- 1/6/2020 at 11:45 -> Bonaccini sulla riapertura: 'Qualche rischio va preso'
