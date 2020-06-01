@@ -664,3 +664,11 @@
 - 1/6/2020 at 17:15 -> La protesta infiamma gli Usa La Casa Bianca assediata
 - 1/6/2020 at 17:30 -> Due morti e un ferito in Iowa La Casa Bianca assediata
 - 1/6/2020 at 17:45 -> Due morti e un ferito in Iowa La Casa Bianca assediata
+- 1/6/2020 at 18:00 -> Tre morti nelle ultime 24 ore La Casa Bianca assediata
+- 1/6/2020 at 18:15 -> Tre morti nelle ultime 24 ore La Casa Bianca assediata
+- 1/6/2020 at 18:30 -> Giù i contagi, 178 in 24 ore , Il 28% dei casi in Lombardia
+- 1/6/2020 at 18:45 -> Giù i contagi, 178 in 24 ore , Il 28% dei casi in Lombardia
+- 1/6/2020 at 19:00 -> Giù i contagi, 178 in 24 ore , Dato minore dal 26 febbraio
+- 1/6/2020 at 19:15 -> 'Un 2 giugno con dolore , serve una rinascita civile'
+- 1/6/2020 at 19:30 -> 'Un 2 giugno con dolore , ma serve una rinascita civile'
+- 1/6/2020 at 19:45 -> 'Serve uno sforzo comune,, non ci si può dividere ora'
