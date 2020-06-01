@@ -592,3 +592,11 @@
 - 31/5/2020 at 23:15 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 31/5/2020 at 23:30 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 31/5/2020 at 23:45 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 00:00 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 00:15 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 00:30 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 00:45 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 1:00 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 1:15 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 1:30 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 1:45 -> 'Il virus non esiste più', Zangrillo crea un caso
