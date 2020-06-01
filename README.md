@@ -624,3 +624,11 @@
 - 1/6/2020 at 7:15 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 1/6/2020 at 7:30 -> 'Il virus non esiste più', Zangrillo crea un caso
 - 1/6/2020 at 7:45 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 8:00 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 8:15 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 8:30 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 8:45 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 9:00 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 9:15 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 9:30 -> 'Il virus non esiste più', Zangrillo crea un caso
+- 1/6/2020 at 9:45 -> Gentiloni su Recovery plan,  , dai negoziati solo lievi cambi
