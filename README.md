@@ -656,3 +656,11 @@
 - 1/6/2020 at 15:15 -> Agenti del Secret Service, feriti durante gli scontri
 - 1/6/2020 at 15:30 -> Agenti del Secret Service, feriti durante gli scontri
 - 1/6/2020 at 15:45 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 16:00 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 16:15 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 16:30 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 16:45 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 17:00 -> La protesta infiamma gli Usa La Casa Bianca assediata
+- 1/6/2020 at 17:15 -> La protesta infiamma gli Usa La Casa Bianca assediata
+- 1/6/2020 at 17:30 -> Due morti e un ferito in Iowa La Casa Bianca assediata
+- 1/6/2020 at 17:45 -> Due morti e un ferito in Iowa La Casa Bianca assediata
