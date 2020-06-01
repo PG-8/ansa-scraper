@@ -648,3 +648,11 @@
 - 1/6/2020 at 13:15 -> Da oggi si scarica dagli Store Da mercoledì partono i test
 - 1/6/2020 at 13:30 -> Da oggi si scarica dagli Store Da mercoledì partono i test
 - 1/6/2020 at 13:45 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 14:00 -> Da oggi si scarica dagli Store Da mercoledì partono i test
+- 1/6/2020 at 14:15 -> La solidarietà con la protesta di molti agenti di polizia
+- 1/6/2020 at 14:30 -> La solidarietà con la protesta di molti agenti di polizia
+- 1/6/2020 at 14:45 -> La solidarietà con la protesta di molti agenti di polizia
+- 1/6/2020 at 15:00 -> La solidarietà con la protesta di molti agenti di polizia
+- 1/6/2020 at 15:15 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 15:30 -> Agenti del Secret Service, feriti durante gli scontri
+- 1/6/2020 at 15:45 -> Agenti del Secret Service, feriti durante gli scontri
