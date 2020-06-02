@@ -736,3 +736,11 @@
 - 2/6/2020 at 11:15 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
 - 2/6/2020 at 11:30 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
 - 2/6/2020 at 11:45 -> 'Crisi esige unità e coesione', Mattarella giunto a Codogno
+- 2/6/2020 at 12:00 -> 'Crisi esige unità e coesione', Mattarella giunto a Codogno
+- 2/6/2020 at 12:15 -> Mattarella a Codogno, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 12:30 -> Mattarella a Codogno, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 12:45 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 13:00 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 13:15 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 13:30 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
+- 2/6/2020 at 13:45 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
