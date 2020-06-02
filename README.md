@@ -696,3 +696,11 @@
 - 2/6/2020 at 1:15 -> L'autopsia della famiglia 'George è morto per asfissia'
 - 2/6/2020 at 1:30 -> L'autopsia della famiglia 'George è morto per asfissia'
 - 2/6/2020 at 1:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 2:00 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 2:15 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 2:30 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 2:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 3:00 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 3:15 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 3:30 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 3:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
