@@ -720,3 +720,11 @@
 - 2/6/2020 at 7:15 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
 - 2/6/2020 at 7:30 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
 - 2/6/2020 at 7:45 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 8:00 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 8:15 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 8:30 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 8:45 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 9:00 -> Proteste in Usa, altri 2 morti, Trump: mobiliterò l'esercito
+- 2/6/2020 at 9:15 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 9:30 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 9:45 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
