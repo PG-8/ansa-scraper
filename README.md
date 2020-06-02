@@ -728,3 +728,11 @@
 - 2/6/2020 at 9:15 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
 - 2/6/2020 at 9:30 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
 - 2/6/2020 at 9:45 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 10:00 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 10:15 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 10:30 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 10:45 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 11:00 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 11:15 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 11:30 -> Mattarella: 'Crisi esige unità, responsabilità, coesione'
+- 2/6/2020 at 11:45 -> 'Crisi esige unità e coesione', Mattarella giunto a Codogno
