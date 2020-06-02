@@ -704,3 +704,11 @@
 - 2/6/2020 at 3:15 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
 - 2/6/2020 at 3:30 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
 - 2/6/2020 at 3:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 4:00 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 4:15 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 4:30 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 4:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 5:00 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 5:15 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 5:30 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
+- 2/6/2020 at 5:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
