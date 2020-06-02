@@ -768,3 +768,11 @@
 - 2/6/2020 at 19:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
 - 2/6/2020 at 19:30 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
 - 2/6/2020 at 19:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 20:00 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 20:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 20:30 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 20:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 21:00 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 21:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 21:30 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 21:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
