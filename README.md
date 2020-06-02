@@ -760,3 +760,11 @@
 - 2/6/2020 at 17:15 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
 - 2/6/2020 at 17:30 -> Applausi per Mattarella, 'Riparte l'Italia del coraggio'
 - 2/6/2020 at 17:45 -> Le carte riservate dell'Oms, 'La Cina nascose i dati'
+- 2/6/2020 at 18:00 -> Le carte riservate dell'Oms, 'La Cina nascose i dati'
+- 2/6/2020 at 18:15 -> Su i contagi, 318 in 24 ore, Sono 8 le regioni senza casi
+- 2/6/2020 at 18:30 -> Salgono i contagi, 318 in più , Sono 8 le regioni senza casi
+- 2/6/2020 at 18:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 19:00 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 19:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 19:30 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 2/6/2020 at 19:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
