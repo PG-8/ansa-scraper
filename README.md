@@ -688,3 +688,11 @@
 - 1/6/2020 at 23:15 -> 'Serve uno sforzo comune,, non ci si può dividere ora'
 - 1/6/2020 at 23:30 -> L'autopsia della famiglia 'George è morto per asfissia'
 - 1/6/2020 at 23:45 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 00:00 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 00:15 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 00:30 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 00:45 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 1:00 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 1:15 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 1:30 -> L'autopsia della famiglia 'George è morto per asfissia'
+- 2/6/2020 at 1:45 -> La protesta infiamma gli Usa, Trump: mobiliterò l'esercito
