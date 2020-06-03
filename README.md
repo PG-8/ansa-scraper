@@ -872,3 +872,11 @@
 - 3/6/2020 at 21:15 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
 - 3/6/2020 at 21:30 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
 - 3/6/2020 at 21:45 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
+- 3/6/2020 at 22:00 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
+- 3/6/2020 at 22:15 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 22:30 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 22:45 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 23:00 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 23:15 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 23:30 -> George Floyd, ora l'accusa , è omicidio volontario
+- 3/6/2020 at 23:45 -> George Floyd, ora l'accusa , è omicidio volontario
