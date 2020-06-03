@@ -848,3 +848,11 @@
 - 3/6/2020 at 15:15 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
 - 3/6/2020 at 15:30 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
 - 3/6/2020 at 15:45 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
+- 3/6/2020 at 16:00 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
+- 3/6/2020 at 16:15 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
+- 3/6/2020 at 16:30 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 16:45 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 17:00 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 17:15 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 17:30 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 17:45 -> Austria non riapre il confine Tensione Roma-Vienna
