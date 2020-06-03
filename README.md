@@ -824,3 +824,11 @@
 - 3/6/2020 at 9:15 -> Italia libera dal lockdown , Tutte le regioni riaprono
 - 3/6/2020 at 9:30 -> Italia libera dal lockdown , Tutte le regioni riaprono
 - 3/6/2020 at 9:45 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 10:00 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 10:15 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 10:30 -> Istat, crollano  gli occupati Effetto Covid. Boom inattivi
+- 3/6/2020 at 10:45 -> Istat, crollano  gli occupati Effetto Covid. Boom inattivi
+- 3/6/2020 at 11:00 -> Istat, crollano  gli occupati Effetto Covid. Boom inattivi
+- 3/6/2020 at 11:15 -> Istat, crollano  gli occupati Effetto Covid. Boom inattivi
+- 3/6/2020 at 11:30 -> Istat, crollano  gli occupati Effetto Covid. Boom inattivi
+- 3/6/2020 at 11:45 -> Premiati gli 'eroi' del Covid Ecco perché e chi sono
