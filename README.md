@@ -816,3 +816,11 @@
 - 3/6/2020 at 7:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
 - 3/6/2020 at 7:30 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
 - 3/6/2020 at 7:45 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 3/6/2020 at 8:00 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 3/6/2020 at 8:15 -> Salgono i contagi, 318 in più, Sono 8 le regioni senza casi
+- 3/6/2020 at 8:30 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 8:45 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 9:00 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 9:15 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 9:30 -> Italia libera dal lockdown , Tutte le regioni riaprono
+- 3/6/2020 at 9:45 -> Italia libera dal lockdown , Tutte le regioni riaprono
