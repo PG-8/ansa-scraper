@@ -856,3 +856,11 @@
 - 3/6/2020 at 17:15 -> Austria non riapre il confine Tensione Roma-Vienna
 - 3/6/2020 at 17:30 -> Austria non riapre il confine Tensione Roma-Vienna
 - 3/6/2020 at 17:45 -> Austria non riapre il confine Tensione Roma-Vienna
+- 3/6/2020 at 18:00 -> Capo Pentagono: 'Uccisione di Floyd un crimine orribile'
+- 3/6/2020 at 18:15 -> Capo Pentagono: 'Uccisione di Floyd un crimine orribile'
+- 3/6/2020 at 18:30 -> Capo Pentagono: 'Uccisione di Floyd un crimine orribile'
+- 3/6/2020 at 18:45 -> Forum ANSA, i libri nel mondo con Laura Donnini
+- 3/6/2020 at 19:00 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
+- 3/6/2020 at 19:15 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
+- 3/6/2020 at 19:30 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
+- 3/6/2020 at 19:45 -> Conte: 'Ridisegnare il Paese,, fisco iniquo, serve riforma'
