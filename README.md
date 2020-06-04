@@ -960,3 +960,11 @@
 - 4/6/2020 at 19:15 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
 - 4/6/2020 at 19:30 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
 - 4/6/2020 at 19:45 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 20:00 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 20:15 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 20:30 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 20:45 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 21:00 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 21:15 -> Canti e ricordi per Floyd , In nigliaia a Minneapolis
+- 4/6/2020 at 21:30 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 21:45 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
