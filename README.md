@@ -920,3 +920,11 @@
 - 4/6/2020 at 9:15 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
 - 4/6/2020 at 9:30 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
 - 4/6/2020 at 9:45 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 10:00 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 10:15 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 10:30 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 10:45 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 11:00 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 11:15 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 11:30 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 11:45 -> Ospedale di Codogno, , riapre il pronto soccorso
