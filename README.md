@@ -952,3 +952,11 @@
 - 4/6/2020 at 17:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
 - 4/6/2020 at 17:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
 - 4/6/2020 at 17:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 18:00 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 18:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 18:30 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 18:45 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 19:00 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 19:15 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 19:30 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
+- 4/6/2020 at 19:45 -> Sono 177 i nuovi contagi, Trend in calo, 88 i morti
