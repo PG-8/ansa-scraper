@@ -912,3 +912,11 @@
 - 4/6/2020 at 7:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
 - 4/6/2020 at 7:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
 - 4/6/2020 at 7:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 8:00 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 8:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 8:30 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
+- 4/6/2020 at 8:45 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
+- 4/6/2020 at 9:00 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
+- 4/6/2020 at 9:15 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
+- 4/6/2020 at 9:30 -> Brasile,1.349 morti in 24 ore, Record di casi in Messico
+- 4/6/2020 at 9:45 -> Ospedale di Codogno, , riapre il pronto soccorso
