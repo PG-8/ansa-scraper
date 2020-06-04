@@ -904,3 +904,11 @@
 - 4/6/2020 at 5:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
 - 4/6/2020 at 5:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
 - 4/6/2020 at 5:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 6:00 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 6:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 6:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 6:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 7:00 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 7:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 7:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 7:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
