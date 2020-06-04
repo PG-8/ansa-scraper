@@ -880,3 +880,11 @@
 - 3/6/2020 at 23:15 -> George Floyd, ora l'accusa , è omicidio volontario
 - 3/6/2020 at 23:30 -> George Floyd, ora l'accusa , è omicidio volontario
 - 3/6/2020 at 23:45 -> George Floyd, ora l'accusa , è omicidio volontario
+- 4/6/2020 at 00:00 -> George Floyd, ora l'accusa , è omicidio volontario
+- 4/6/2020 at 00:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 00:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 00:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 1:00 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 1:15 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 1:30 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
+- 4/6/2020 at 1:45 -> Floyd, è omicidio volontario, Snapchat 'censura' Trump
