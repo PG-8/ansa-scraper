@@ -968,3 +968,11 @@
 - 4/6/2020 at 21:15 -> Canti e ricordi per Floyd , In nigliaia a Minneapolis
 - 4/6/2020 at 21:30 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
 - 4/6/2020 at 21:45 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 22:00 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 22:15 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 22:30 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 22:45 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 23:00 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 23:15 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 23:30 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
+- 4/6/2020 at 23:45 -> Canti e ricordi per Floyd , In migliaia a Minneapolis
