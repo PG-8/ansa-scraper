@@ -936,3 +936,11 @@
 - 4/6/2020 at 13:15 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
 - 4/6/2020 at 13:30 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
 - 4/6/2020 at 13:45 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
+- 4/6/2020 at 14:00 -> Riaperto il pronto soccorso,, un caso sospetto a Codogno
+- 4/6/2020 at 14:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 14:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 14:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 15:00 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 15:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 15:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 15:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
