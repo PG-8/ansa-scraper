@@ -928,3 +928,11 @@
 - 4/6/2020 at 11:15 -> Ospedale di Codogno, , riapre il pronto soccorso
 - 4/6/2020 at 11:30 -> Ospedale di Codogno, , riapre il pronto soccorso
 - 4/6/2020 at 11:45 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 12:00 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 12:15 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 12:30 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 12:45 -> Ospedale di Codogno, , riapre il pronto soccorso
+- 4/6/2020 at 13:00 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
+- 4/6/2020 at 13:15 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
+- 4/6/2020 at 13:30 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
+- 4/6/2020 at 13:45 -> Arcuri: 'Al 31/12 tampone , per un terzo degli italiani'
