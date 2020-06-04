@@ -944,3 +944,11 @@
 - 4/6/2020 at 15:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
 - 4/6/2020 at 15:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
 - 4/6/2020 at 15:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 16:00 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 16:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 16:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 16:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 17:00 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 17:15 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 17:30 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
+- 4/6/2020 at 17:45 -> Bce rilancia il Qe pandemico, altri 600 miliardi di euro
