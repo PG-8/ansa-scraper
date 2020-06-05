@@ -1040,3 +1040,11 @@
 - 5/6/2020 at 15:15 -> 'Non nominate i nostri cari all'inaugurazione del ponte'
 - 5/6/2020 at 15:30 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
 - 5/6/2020 at 15:45 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
+- 5/6/2020 at 16:00 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
+- 5/6/2020 at 16:15 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
+- 5/6/2020 at 16:30 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
+- 5/6/2020 at 16:45 -> Il vaccino raccomandato , e gratis ai bimbi e da 60 anni
+- 5/6/2020 at 17:00 -> Lettera Conte-Sanchez a Ue: 'Coordinare i confini aperti'
+- 5/6/2020 at 17:15 -> Lettera Conte-Sanchez a Ue: 'Coordinare i confini aperti'
+- 5/6/2020 at 17:30 -> Lettera Conte-Sanchez a Ue: 'Coordinare i confini aperti'
+- 5/6/2020 at 17:45 -> Conte e Sanchez a Bruxelles: 'Riaprire le frontiere presto'
