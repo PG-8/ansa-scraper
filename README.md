@@ -1016,3 +1016,11 @@
 - 5/6/2020 at 9:15 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
 - 5/6/2020 at 9:30 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
 - 5/6/2020 at 9:45 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 10:00 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 10:15 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 10:30 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 10:45 -> Vendite al dettaglio in calo , Tiene il cibo. Boom on line
+- 5/6/2020 at 11:00 -> Vendite al dettaglio in calo , Tiene il cibo. Boom on line
+- 5/6/2020 at 11:15 -> Vendite al dettaglio in calo , Tiene il cibo. Boom on line
+- 5/6/2020 at 11:30 -> Mattarella: 'Tra natura e vita un legame imprescindibile'
+- 5/6/2020 at 11:45 -> Mattarella: 'Tra natura e vita un legame imprescindibile'
