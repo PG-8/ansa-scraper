@@ -984,3 +984,11 @@
 - 5/6/2020 at 1:15 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
 - 5/6/2020 at 1:30 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
 - 5/6/2020 at 1:45 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 2:00 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 2:15 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 2:30 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 2:45 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 3:00 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 3:15 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 3:30 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 3:45 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
