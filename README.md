@@ -1008,3 +1008,11 @@
 - 5/6/2020 at 7:15 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
 - 5/6/2020 at 7:30 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
 - 5/6/2020 at 7:45 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 8:00 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 8:15 -> Conte: 'Si torna in presenza', Ipotesi divisori tra i banchi
+- 5/6/2020 at 8:30 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 8:45 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 9:00 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 9:15 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 9:30 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
+- 5/6/2020 at 9:45 -> Oltre 6,6 milioni di casi, Il Brasile supera l'Italia
