@@ -1064,3 +1064,11 @@
 - 5/6/2020 at 21:15 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
 - 5/6/2020 at 21:30 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
 - 5/6/2020 at 21:45 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 22:00 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 22:15 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 22:30 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 22:45 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 23:00 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 23:15 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 23:30 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
+- 5/6/2020 at 23:45 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
