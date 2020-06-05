@@ -1048,3 +1048,11 @@
 - 5/6/2020 at 17:15 -> Lettera Conte-Sanchez a Ue: 'Coordinare i confini aperti'
 - 5/6/2020 at 17:30 -> Lettera Conte-Sanchez a Ue: 'Coordinare i confini aperti'
 - 5/6/2020 at 17:45 -> Conte e Sanchez a Bruxelles: 'Riaprire le frontiere presto'
+- 5/6/2020 at 18:00 -> Conte e Sanchez a Bruxelles: 'Riaprire le frontiere presto'
+- 5/6/2020 at 18:15 -> Conte e Sanchez a Bruxelles: 'Riaprire le frontiere presto'
+- 5/6/2020 at 18:30 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 18:45 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 19:00 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 19:15 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 19:30 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
+- 5/6/2020 at 19:45 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
