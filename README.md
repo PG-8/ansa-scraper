@@ -1080,3 +1080,11 @@
 - 6/6/2020 at 1:15 -> Scuola, maratona notturna, La seduta ripresa alle 24
 - 6/6/2020 at 1:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
 - 6/6/2020 at 1:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 2:00 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 2:15 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 2:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 2:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 3:00 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 3:15 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 3:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 3:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
