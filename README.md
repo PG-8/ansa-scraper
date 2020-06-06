@@ -1112,3 +1112,11 @@
 - 6/6/2020 at 9:15 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
 - 6/6/2020 at 9:30 -> Oltre 6,7 milioni di casi, 395mila morti nel mondo
 - 6/6/2020 at 9:45 -> 6,7 milioni di casi nel mondo, le vittime sono oltre 395mila
+- 6/6/2020 at 10:00 -> 6,7 milioni di casi nel mondo, le vittime sono oltre 395mila
+- 6/6/2020 at 10:15 -> 6,7 milioni di casi nel mondo, le vittime sono oltre 395mila
+- 6/6/2020 at 10:30 -> 6,7 milioni di casi nel mondo, le vittime sono oltre 395mila
+- 6/6/2020 at 10:45 -> Spunta nuovo video, morto afroamericano dopo il fermo
+- 6/6/2020 at 11:00 -> Spunta nuovo video, morto afroamericano dopo il fermo
+- 6/6/2020 at 11:15 -> Spunta nuovo video, morto afroamericano dopo il fermo
+- 6/6/2020 at 11:30 -> Spunta nuovo video, morto afroamericano dopo il fermo
+- 6/6/2020 at 11:45 -> Spunta nuovo video, morto afroamericano dopo il fermo
