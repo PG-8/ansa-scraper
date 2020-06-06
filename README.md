@@ -1144,3 +1144,11 @@
 - 6/6/2020 at 17:15 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
 - 6/6/2020 at 17:30 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
 - 6/6/2020 at 17:45 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 18:00 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 18:15 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 18:30 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 18:45 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 19:00 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 19:15 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 19:30 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 19:45 -> Tornano a calare i contagi, , cinque Regioni a zero casi
