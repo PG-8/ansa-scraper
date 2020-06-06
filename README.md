@@ -1160,3 +1160,11 @@
 - 6/6/2020 at 21:15 -> In migliaia a Washington, , sfila l'America anti-razzista
 - 6/6/2020 at 21:30 -> In migliaia a Washington, , sfila l'America anti-razzista
 - 6/6/2020 at 21:45 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 22:00 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 22:15 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 22:30 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 22:45 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 23:00 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 6/6/2020 at 23:15 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 6/6/2020 at 23:30 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 6/6/2020 at 23:45 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
