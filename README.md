@@ -1152,3 +1152,11 @@
 - 6/6/2020 at 19:15 -> Tornano a calare i contagi, , cinque Regioni a zero casi
 - 6/6/2020 at 19:30 -> Tornano a calare i contagi, , cinque Regioni a zero casi
 - 6/6/2020 at 19:45 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 20:00 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 20:15 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 20:30 -> Tornano a calare i contagi, , cinque Regioni a zero casi
+- 6/6/2020 at 20:45 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 21:00 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 21:15 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 21:30 -> In migliaia a Washington, , sfila l'America anti-razzista
+- 6/6/2020 at 21:45 -> In migliaia a Washington, , sfila l'America anti-razzista
