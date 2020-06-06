@@ -1136,3 +1136,11 @@
 - 6/6/2020 at 15:15 -> L'epidemia non è finita , ma da Regioni dati positivi
 - 6/6/2020 at 15:30 -> L'epidemia non è finita , ma da Regioni dati positivi
 - 6/6/2020 at 15:45 -> L'epidemia non è finita , ma da Regioni dati positivi
+- 6/6/2020 at 16:00 -> Scatta il bonus sugli affitti, , arriva un aiuto alle imprese
+- 6/6/2020 at 16:15 -> Scatta il bonus sugli affitti, , arriva un aiuto alle imprese
+- 6/6/2020 at 16:30 -> Ultrà e Fn, disordini a Roma Lancio di oggetti in piazza
+- 6/6/2020 at 16:45 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 17:00 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 17:15 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 17:30 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
+- 6/6/2020 at 17:45 -> Ultrà e Fn, cori 'Duce, Duce' Lancio di bottiglie in piazza
