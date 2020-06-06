@@ -1072,3 +1072,11 @@
 - 5/6/2020 at 23:15 -> Risalgono contagi, 518 in più, Nessun decesso in 9 Regioni
 - 5/6/2020 at 23:30 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
 - 5/6/2020 at 23:45 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
+- 6/6/2020 at 00:00 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
+- 6/6/2020 at 00:15 -> , Scuola, maratona notturna<br />La seduta riprenderà alle 24
+- 6/6/2020 at 00:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 00:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 1:00 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 1:15 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 1:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 1:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
