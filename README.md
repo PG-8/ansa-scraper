@@ -1104,3 +1104,11 @@
 - 6/6/2020 at 7:15 -> Scuola, maratona notturna, La seduta ripresa alle 24
 - 6/6/2020 at 7:30 -> Scuola, maratona notturna, La seduta ripresa alle 24
 - 6/6/2020 at 7:45 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 8:00 -> Scuola, maratona notturna, La seduta ripresa alle 24
+- 6/6/2020 at 8:15 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
+- 6/6/2020 at 8:30 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
+- 6/6/2020 at 8:45 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
+- 6/6/2020 at 9:00 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
+- 6/6/2020 at 9:15 -> Scuola, maratona notturna, Oggi il voto finale sul decreto
+- 6/6/2020 at 9:30 -> Oltre 6,7 milioni di casi, 395mila morti nel mondo
+- 6/6/2020 at 9:45 -> 6,7 milioni di casi nel mondo, le vittime sono oltre 395mila
