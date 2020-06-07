@@ -1240,3 +1240,11 @@
 - 7/6/2020 at 17:15 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
 - 7/6/2020 at 17:30 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
 - 7/6/2020 at 17:45 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 18:00 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 18:15 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 18:30 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 18:45 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 19:00 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 19:15 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 19:30 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 19:45 -> Continua il calo dei contagi Sei le Regioni a zero casi
