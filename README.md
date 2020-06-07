@@ -1224,3 +1224,11 @@
 - 7/6/2020 at 13:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
 - 7/6/2020 at 13:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
 - 7/6/2020 at 13:45 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 14:00 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 14:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 14:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 14:45 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 15:00 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 15:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 15:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 15:45 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
