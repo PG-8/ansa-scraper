@@ -1216,3 +1216,11 @@
 - 7/6/2020 at 11:15 -> 'L'autonomia delle Regioni è fondamento democrazia'
 - 7/6/2020 at 11:30 -> 'L'autonomia delle Regioni è fondamento democrazia'
 - 7/6/2020 at 11:45 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 12:00 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 12:15 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 12:30 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 12:45 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 13:00 -> Tutti in ginocchio per Floyd Anche Roma è anti-razzista
+- 7/6/2020 at 13:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 13:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 13:45 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
