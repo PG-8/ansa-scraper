@@ -1200,3 +1200,11 @@
 - 7/6/2020 at 7:15 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
 - 7/6/2020 at 7:30 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
 - 7/6/2020 at 7:45 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 7/6/2020 at 8:00 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 7/6/2020 at 8:15 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 7/6/2020 at 8:30 -> Migliaia a Washington e NY, , 'L'America vuole respirare'
+- 7/6/2020 at 8:45 -> Migliaia a Washington e NY , 'L'America vuole respirare'
+- 7/6/2020 at 9:00 -> Migliaia a Washington e NY , 'L'America vuole respirare'
+- 7/6/2020 at 9:15 -> Migliaia a Washington e NY , 'L'America vuole respirare'
+- 7/6/2020 at 9:30 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 9:45 -> Da Washington a New York,, la marcia contro il razzismo
