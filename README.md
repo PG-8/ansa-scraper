@@ -1232,3 +1232,11 @@
 - 7/6/2020 at 15:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
 - 7/6/2020 at 15:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
 - 7/6/2020 at 15:45 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 16:00 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 16:15 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 16:30 -> Tutti in ginocchio per Floyd, Da Roma stop al razzismo
+- 7/6/2020 at 16:45 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 17:00 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 17:15 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 17:30 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
+- 7/6/2020 at 17:45 -> Arcuri: 'Emergenza virus finisce solo il con vaccino'
