@@ -1256,3 +1256,11 @@
 - 7/6/2020 at 21:15 -> Continua il calo dei contagi Sei le Regioni a zero casi
 - 7/6/2020 at 21:30 -> Continua il calo dei contagi Sei le Regioni a zero casi
 - 7/6/2020 at 21:45 -> Continua il calo dei contagi Sei le Regioni a zero casi
+- 7/6/2020 at 22:00 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 22:15 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 22:30 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 22:45 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 23:00 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 23:15 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 23:30 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 7/6/2020 at 23:45 -> Conte lima piano di ripresa, Resta la tensione con il Pd
