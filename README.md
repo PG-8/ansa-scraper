@@ -1208,3 +1208,11 @@
 - 7/6/2020 at 9:15 -> Migliaia a Washington e NY , 'L'America vuole respirare'
 - 7/6/2020 at 9:30 -> Da Washington a New York,, la marcia contro il razzismo
 - 7/6/2020 at 9:45 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 10:00 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 10:15 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 10:30 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 10:45 -> Da Washington a New York,, la marcia contro il razzismo
+- 7/6/2020 at 11:00 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 11:15 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 11:30 -> 'L'autonomia delle Regioni è fondamento democrazia'
+- 7/6/2020 at 11:45 -> 'L'autonomia delle Regioni è fondamento democrazia'
