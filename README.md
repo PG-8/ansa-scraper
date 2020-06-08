@@ -1264,3 +1264,11 @@
 - 7/6/2020 at 23:15 -> Conte lima piano di ripresa, Resta la tensione con il Pd
 - 7/6/2020 at 23:30 -> Conte lima piano di ripresa, Resta la tensione con il Pd
 - 7/6/2020 at 23:45 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 8/6/2020 at 00:00 -> Conte lima piano di ripresa, Resta la tensione con il Pd
+- 8/6/2020 at 00:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 00:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 00:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 1:00 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 1:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 1:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 1:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
