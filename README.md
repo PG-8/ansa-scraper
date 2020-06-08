@@ -1312,3 +1312,11 @@
 - 8/6/2020 at 11:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
 - 8/6/2020 at 11:30 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
 - 8/6/2020 at 11:45 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 12:00 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 12:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 12:30 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 12:45 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 13:00 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 13:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 13:30 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 13:45 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
