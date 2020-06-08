@@ -1336,3 +1336,11 @@
 - 8/6/2020 at 17:15 -> Immuni, risolto il problema Si scarica anche su  Huawei
 - 8/6/2020 at 17:30 -> Immuni, risolto il problema Si scarica anche su  Huawei
 - 8/6/2020 at 17:45 -> Immuni, risolto il problema Si scarica anche su  Huawei
+- 8/6/2020 at 18:00 -> Immuni, risolto il problema Si scarica anche su  Huawei
+- 8/6/2020 at 18:15 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 18:30 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 18:45 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 19:00 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 19:15 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 19:30 -> Le nuove vittime sono 65, I contagiati sono 280 in più
+- 8/6/2020 at 19:45 -> Il Piano Colao per un'Italia più forte, resiliente ed equa 
