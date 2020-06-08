@@ -1328,3 +1328,11 @@
 - 8/6/2020 at 15:15 -> Il piano di Colao a Conte, Sei punti per rilancio
 - 8/6/2020 at 15:30 -> Il piano di Colao a Conte, Sei punti per rilancio
 - 8/6/2020 at 15:45 -> Il piano di Colao a Conte, Sei punti per il rilancio
+- 8/6/2020 at 16:00 -> Il piano di Colao a Conte, Sei punti per il rilancio
+- 8/6/2020 at 16:15 -> Il piano di Colao a Conte, Sei punti per il rilancio
+- 8/6/2020 at 16:30 -> Il piano di Colao a Conte, Sei punti per il rilancio
+- 8/6/2020 at 16:45 -> Il piano di Colao a Conte, Sei punti per il rilancio
+- 8/6/2020 at 17:00 -> Immuni, risolto il problema Si scarica anche su  Huawei
+- 8/6/2020 at 17:15 -> Immuni, risolto il problema Si scarica anche su  Huawei
+- 8/6/2020 at 17:30 -> Immuni, risolto il problema Si scarica anche su  Huawei
+- 8/6/2020 at 17:45 -> Immuni, risolto il problema Si scarica anche su  Huawei
