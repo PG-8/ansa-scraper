@@ -1272,3 +1272,11 @@
 - 8/6/2020 at 1:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
 - 8/6/2020 at 1:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
 - 8/6/2020 at 1:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 2:00 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 2:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 2:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 2:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 3:00 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 3:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 3:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 3:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
