@@ -1296,3 +1296,11 @@
 - 8/6/2020 at 7:15 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
 - 8/6/2020 at 7:30 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
 - 8/6/2020 at 7:45 -> Al via oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 8:00 -> Al via da oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 8:15 -> Al via da oggi l'app Immuni, , in azione in 4 regioni pilota
+- 8/6/2020 at 8:30 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
+- 8/6/2020 at 8:45 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
+- 8/6/2020 at 9:00 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
+- 8/6/2020 at 9:15 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
+- 8/6/2020 at 9:30 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
+- 8/6/2020 at 9:45 -> Mani su giochi e scommesse , Otto arrestati a Palermo
