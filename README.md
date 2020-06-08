@@ -1352,3 +1352,11 @@
 - 8/6/2020 at 21:15 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
 - 8/6/2020 at 21:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
 - 8/6/2020 at 21:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 22:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 22:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 22:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 22:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 23:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 23:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 23:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 23:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
