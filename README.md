@@ -1344,3 +1344,11 @@
 - 8/6/2020 at 19:15 -> Le nuove vittime sono 65, I contagiati sono 280 in più
 - 8/6/2020 at 19:30 -> Le nuove vittime sono 65, I contagiati sono 280 in più
 - 8/6/2020 at 19:45 -> Il Piano Colao per un'Italia più forte, resiliente ed equa 
+- 8/6/2020 at 20:00 -> Il Piano Colao per un'Italia più forte, resiliente ed equa 
+- 8/6/2020 at 20:15 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
+- 8/6/2020 at 20:30 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
+- 8/6/2020 at 20:45 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
+- 8/6/2020 at 21:00 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
+- 8/6/2020 at 21:15 -> Piano Colao: rinviare saldo imposte 2019 e acconto 2020
+- 8/6/2020 at 21:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 8/6/2020 at 21:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
