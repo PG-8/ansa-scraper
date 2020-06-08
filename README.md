@@ -1320,3 +1320,11 @@
 - 8/6/2020 at 13:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
 - 8/6/2020 at 13:30 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
 - 8/6/2020 at 13:45 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 14:00 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 14:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 14:30 -> Il piano di Colao a Conte, Sei punti per rilancio
+- 8/6/2020 at 14:45 -> Il piano di Colao a Conte, Sei punti per rilancio
+- 8/6/2020 at 15:00 -> Il piano di Colao a Conte, Sei punti per rilancio
+- 8/6/2020 at 15:15 -> Il piano di Colao a Conte, Sei punti per rilancio
+- 8/6/2020 at 15:30 -> Il piano di Colao a Conte, Sei punti per rilancio
+- 8/6/2020 at 15:45 -> Il piano di Colao a Conte, Sei punti per il rilancio
