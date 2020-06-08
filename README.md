@@ -1304,3 +1304,11 @@
 - 8/6/2020 at 9:15 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
 - 8/6/2020 at 9:30 -> Al via da oggi l'app Immuni, , sperimentazione in 4 regioni
 - 8/6/2020 at 9:45 -> Mani su giochi e scommesse , Otto arrestati a Palermo
+- 8/6/2020 at 10:00 -> Mani su giochi e scommesse , Otto arrestati a Palermo
+- 8/6/2020 at 10:15 -> Mani su giochi e scommesse , Otto arrestati a Palermo
+- 8/6/2020 at 10:30 -> Mani su giochi e scommesse , Otto arrestati a Palermo
+- 8/6/2020 at 10:45 -> Mani su giochi e scommesse , Otto arrestati a Palermo
+- 8/6/2020 at 11:00 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 11:15 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 11:30 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
+- 8/6/2020 at 11:45 -> Pil giù al -8,3% nel 2020, Parziale ripresa nel 2021
