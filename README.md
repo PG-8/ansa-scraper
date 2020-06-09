@@ -1416,3 +1416,11 @@
 - 9/6/2020 at 13:15 -> Harvard, gli ospedali di Wuhan affollati già a agosto
 - 9/6/2020 at 13:30 -> Dalla fine di giugno , si potrà andare in Grecia
 - 9/6/2020 at 13:45 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 14:00 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 14:15 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 14:30 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 14:45 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 15:00 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 15:15 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 15:30 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 15:45 -> Dalla fine di giugno , si potrà andare in Grecia
