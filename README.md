@@ -1424,3 +1424,11 @@
 - 9/6/2020 at 15:15 -> Dalla fine di giugno , si potrà andare in Grecia
 - 9/6/2020 at 15:30 -> Dalla fine di giugno , si potrà andare in Grecia
 - 9/6/2020 at 15:45 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 16:00 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 16:15 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 16:30 -> Afromericano soffocato , da agenti di polizia in Texas
+- 9/6/2020 at 16:45 -> Afroamericano soffocato , da agenti di polizia in Texas
+- 9/6/2020 at 17:00 -> Afroamericano soffocato , durante un arresto in Texas
+- 9/6/2020 at 17:15 -> Afroamericano soffocato , durante un arresto in Texas
+- 9/6/2020 at 17:30 -> Afroamericano soffocato , durante un arresto in Texas
+- 9/6/2020 at 17:45 -> Afroamericano soffocato , durante un arresto in Texas
