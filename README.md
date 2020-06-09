@@ -1384,3 +1384,11 @@
 - 9/6/2020 at 5:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
 - 9/6/2020 at 5:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
 - 9/6/2020 at 5:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 6:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 6:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 6:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 6:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 7:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 7:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 7:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 7:45 -> Ucciso altro afroamericano, da un agente. Spunta video
