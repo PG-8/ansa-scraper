@@ -1360,3 +1360,11 @@
 - 8/6/2020 at 23:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
 - 8/6/2020 at 23:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
 - 8/6/2020 at 23:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 00:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 00:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 00:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 00:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 1:00 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 1:15 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 1:30 -> Rinvio tasse, rinnovo contratti a termine e più 5G
+- 9/6/2020 at 1:45 -> Rinvio tasse, rinnovo contratti a termine e più 5G
