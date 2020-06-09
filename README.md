@@ -1432,3 +1432,11 @@
 - 9/6/2020 at 17:15 -> Afroamericano soffocato , durante un arresto in Texas
 - 9/6/2020 at 17:30 -> Afroamericano soffocato , durante un arresto in Texas
 - 9/6/2020 at 17:45 -> Afroamericano soffocato , durante un arresto in Texas
+- 9/6/2020 at 18:00 -> Afroamericano soffocato , durante un arresto in Texas
+- 9/6/2020 at 18:15 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 18:30 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 18:45 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 19:00 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 19:15 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 19:30 -> In un giorno 79 vittime, , 283 contagiati in più
+- 9/6/2020 at 19:45 -> Morì sfuggendo a uno stupro Imputati assolti in appello
