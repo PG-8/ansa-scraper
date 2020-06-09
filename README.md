@@ -1408,3 +1408,11 @@
 - 9/6/2020 at 11:15 -> Ucciso altro afroamericano, da un agente. Spunta video
 - 9/6/2020 at 11:30 -> Ucciso altro afroamericano, da un agente. Spunta video
 - 9/6/2020 at 11:45 -> Blitz anti-camorra,  Indagato il senatore Cesaro
+- 9/6/2020 at 12:00 -> Blitz anti-camorra,  Indagato il senatore Cesaro
+- 9/6/2020 at 12:15 -> Blitz anti-camorra,  Indagato il senatore Cesaro
+- 9/6/2020 at 12:30 -> Blitz anti-camorra,  Indagato il senatore Cesaro
+- 9/6/2020 at 12:45 -> Blitz anti-camorra,  Indagato il senatore Cesaro
+- 9/6/2020 at 13:00 -> Harvard, gli ospedali di Wuhan affollati già a ottobre
+- 9/6/2020 at 13:15 -> Harvard, gli ospedali di Wuhan affollati già a agosto
+- 9/6/2020 at 13:30 -> Dalla fine di giugno , si potrà andare in Grecia
+- 9/6/2020 at 13:45 -> Dalla fine di giugno , si potrà andare in Grecia
