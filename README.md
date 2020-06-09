@@ -1400,3 +1400,11 @@
 - 9/6/2020 at 9:15 -> Ucciso altro afroamericano, da un agente. Spunta video
 - 9/6/2020 at 9:30 -> Ucciso altro afroamericano, da un agente. Spunta video
 - 9/6/2020 at 9:45 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 10:00 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 10:15 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 10:30 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 10:45 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 11:00 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 11:15 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 11:30 -> Ucciso altro afroamericano, da un agente. Spunta video
+- 9/6/2020 at 11:45 -> Blitz anti-camorra,  Indagato il senatore Cesaro
