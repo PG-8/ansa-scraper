@@ -1440,3 +1440,11 @@
 - 9/6/2020 at 19:15 -> In un giorno 79 vittime, , 283 contagiati in più
 - 9/6/2020 at 19:30 -> In un giorno 79 vittime, , 283 contagiati in più
 - 9/6/2020 at 19:45 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 20:00 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 20:15 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 20:30 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 20:45 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 21:00 -> Morì sfuggendo a uno stupro Imputati assolti in appello
+- 9/6/2020 at 21:15 -> Conte prepara Stati generali, resta la tensione nel governo
+- 9/6/2020 at 21:30 -> Verso gli Stati generali, , resta la tensione nel governo
+- 9/6/2020 at 21:45 -> Verso gli Stati generali, , resta la tensione nel governo
