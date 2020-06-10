@@ -1496,3 +1496,11 @@
 - 10/6/2020 at 9:15 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
 - 10/6/2020 at 9:30 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
 - 10/6/2020 at 9:45 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 10:00 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 10:15 -> Ricciardi: 'Verso produzione del vaccino Covid in Italia'
+- 10/6/2020 at 10:30 -> Ricciardi: 'Produrremo il vaccino per il Covid in Italia'
+- 10/6/2020 at 10:45 -> Ricciardi: 'Produrremo il vaccino per il Covid in Italia'
+- 10/6/2020 at 11:00 -> Il Pil dell'Italia giù del 14% , con nuova ondata del virus
+- 10/6/2020 at 11:15 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
+- 10/6/2020 at 11:30 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
+- 10/6/2020 at 11:45 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
