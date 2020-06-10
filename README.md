@@ -1520,3 +1520,11 @@
 - 10/6/2020 at 15:15 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
 - 10/6/2020 at 15:30 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
 - 10/6/2020 at 15:45 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 16:00 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 16:15 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 16:30 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 16:45 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 17:00 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 17:15 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 17:30 -> 'Serve scostamento 8-10mld', L'allarme di Visco sul lavoro
+- 10/6/2020 at 17:45 -> 'Serve scostamento 8-10mld', L'allarme di Visco sul lavoro
