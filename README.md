@@ -1504,3 +1504,11 @@
 - 10/6/2020 at 11:15 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
 - 10/6/2020 at 11:30 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
 - 10/6/2020 at 11:45 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
+- 10/6/2020 at 12:00 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
+- 10/6/2020 at 12:15 -> Il Pil dell'Italia giù del 14%, con nuova ondata del virus
+- 10/6/2020 at 12:30 -> Mattarella a Vo' Euganeo, aprirà l'anno scolastico
+- 10/6/2020 at 12:45 -> Mattarella a Vo' Euganeo, aprirà l'anno scolastico
+- 10/6/2020 at 13:00 -> Mattarella a Vo' Euganeo, aprirà l'anno scolastico
+- 10/6/2020 at 13:15 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 13:30 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 13:45 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
