@@ -1528,3 +1528,11 @@
 - 10/6/2020 at 17:15 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
 - 10/6/2020 at 17:30 -> 'Serve scostamento 8-10mld', L'allarme di Visco sul lavoro
 - 10/6/2020 at 17:45 -> 'Serve scostamento 8-10mld', L'allarme di Visco sul lavoro
+- 10/6/2020 at 18:00 -> 'Serve scostamento 8-10mld', L'allarme di Visco sul lavoro
+- 10/6/2020 at 18:15 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 18:30 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 18:45 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 19:00 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 19:15 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 19:30 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
+- 10/6/2020 at 19:45 -> Conte dai pm venerdì , 'Non sono preoccupato'
