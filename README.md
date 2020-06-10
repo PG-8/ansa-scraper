@@ -1536,3 +1536,11 @@
 - 10/6/2020 at 19:15 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
 - 10/6/2020 at 19:30 -> Sette regioni senza contagi, Sono 202,in Lombardia 49%
 - 10/6/2020 at 19:45 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 20:00 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 20:15 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 20:30 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 20:45 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 21:00 -> Conte dai pm venerdì , 'Non sono preoccupato'
+- 10/6/2020 at 21:15 -> I pm sentiranno Conte, 'Non sono preoccupato'
+- 10/6/2020 at 21:30 -> I pm sentiranno Conte, 'Non sono preoccupato'
+- 10/6/2020 at 21:45 -> Naufragio in Tunisia, Strage di donne e bambini
