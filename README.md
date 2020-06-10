@@ -1456,3 +1456,11 @@
 - 9/6/2020 at 23:15 -> Verso gli Stati generali, , resta la tensione nel governo
 - 9/6/2020 at 23:30 -> Verso gli Stati generali, , resta la tensione nel governo
 - 9/6/2020 at 23:45 -> Verso gli Stati generali, , resta la tensione nel governo
+- 10/6/2020 at 00:00 -> Verso gli Stati generali, , resta la tensione nel governo
+- 10/6/2020 at 00:15 -> Verso gli Stati generali, , resta la tensione nel governo
+- 10/6/2020 at 00:30 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 00:45 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 1:00 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 1:15 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 1:30 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
+- 10/6/2020 at 1:45 -> Merkel e Macron alla Ue, 'Pronti a nuova pandemia'
