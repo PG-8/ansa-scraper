@@ -1512,3 +1512,11 @@
 - 10/6/2020 at 13:15 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
 - 10/6/2020 at 13:30 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
 - 10/6/2020 at 13:45 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 14:00 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 14:15 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 14:30 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 14:45 -> 'L'Europa riapre le frontiere esterne dal primo luglio'
+- 10/6/2020 at 15:00 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 15:15 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 15:30 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
+- 10/6/2020 at 15:45 -> Zona rossa Alzano e Nembro, Pm sentiranno anche Conte
