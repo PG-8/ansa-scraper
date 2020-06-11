@@ -27,3 +27,11 @@
 - 11/6/2020 at 19:15 -> Risalgono i contagi, +379, Numero di vittime in calo
 - 11/6/2020 at 19:30 -> Risalgono i contagi, +379, Numero di vittime in calo
 - 11/6/2020 at 19:45 -> Risalgono i contagi, +379, Numero di vittime in calo
+- 11/6/2020 at 20:00 -> Risalgono i contagi, +379, Numero di vittime in calo
+- 11/6/2020 at 20:15 -> Risalgono i contagi, +379, Numero di vittime in calo
+- 11/6/2020 at 20:30 -> Ok al Family act, aiuti alle mamme e congedi parentali
+- 11/6/2020 at 20:45 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
+- 11/6/2020 at 21:00 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
+- 11/6/2020 at 21:15 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
+- 11/6/2020 at 21:30 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
+- 11/6/2020 at 21:45 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
