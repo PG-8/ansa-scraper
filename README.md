@@ -35,3 +35,11 @@
 - 11/6/2020 at 21:15 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
 - 11/6/2020 at 21:30 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
 - 11/6/2020 at 21:45 -> <p>Ok al Family Act, congedi e assegno universale per i figli</p>
+- 11/6/2020 at 22:00 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 22:15 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 22:30 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 22:45 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 23:00 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 23:15 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 23:30 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
+- 11/6/2020 at 23:45 -> <p>Conte: via al Family act , per sostenere le famiglie</p>
