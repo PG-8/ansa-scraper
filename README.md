@@ -1552,3 +1552,11 @@
 - 10/6/2020 at 23:15 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
 - 10/6/2020 at 23:30 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
 - 10/6/2020 at 23:45 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 00:00 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 00:15 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 00:30 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 00:45 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 1:00 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 1:15 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 1:30 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
+- 11/6/2020 at 1:45 -> Conte: un piano concreto Fdi, Lega e Fi: non andremo
