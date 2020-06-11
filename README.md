@@ -11,3 +11,11 @@
 - 11/6/2020 at 15:15 -> L'Europa ancora in calo, Piazza Affari sfiora il -4%
 - 11/6/2020 at 15:30 -> L'Europa ancora in calo, Piazza Affari sfiora il -4%
 - 11/6/2020 at 15:45 -> L'Europa ancora in calo, Piazza Affari sfiora il -4%
+- 11/6/2020 at 16:00 -> Wall Street in forte calo, Dj -3,34%, Nasdaq -2,30%
+- 11/6/2020 at 16:15 -> Wall Street in forte calo, Dj -3,34%, Nasdaq -2,30%
+- 11/6/2020 at 16:30 -> Wall Street in forte calo, Mnuchin:'L'economia soffre'
+- 11/6/2020 at 16:45 -> Wall Street in forte calo, Mnuchin:'L'economia soffre'
+- 11/6/2020 at 17:00 -> 'Fino a 100 milioni di poveri', Nel mondo il virus peggiora
+- 11/6/2020 at 17:15 -> 'Fino a 100 milioni di poveri', Nel mondo il virus peggiora
+- 11/6/2020 at 17:30 -> 'Fino a 100 milioni di poveri', Nel mondo il virus peggiora
+- 11/6/2020 at 17:45 -> 'Fino a 100 milioni di poveri', Nel mondo il virus peggiora
