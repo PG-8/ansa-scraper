@@ -99,3 +99,11 @@
 - 12/6/2020 at 13:15 -> 101mila occupati in meno, circa 260mila gli inattivi
 - 12/6/2020 at 13:30 -> 101mila occupati in meno, circa 260mila gli inattivi
 - 12/6/2020 at 13:45 -> 101mila occupati in meno, circa 260mila gli inattivi
+- 12/6/2020 at 14:00 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 14:15 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 14:30 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 14:45 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 15:00 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 15:15 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
+- 12/6/2020 at 15:30 -> Gualtieri:  'Rischi al ribasso, ma stima del Pil resta a -8%'
+- 12/6/2020 at 15:45 -> Gualtieri:  'Rischi al ribasso, ma stima del Pil resta a -8%'
