@@ -83,3 +83,11 @@
 - 12/6/2020 at 9:15 -> Inchiesta sulla zona rossa, , oggi l'audizione di Conte
 - 12/6/2020 at 9:30 -> Inchiesta sulla zona rossa, , oggi l'audizione di Conte
 - 12/6/2020 at 9:45 -> Inchiesta sulla zona rossa, , oggi l'audizione di Conte
+- 12/6/2020 at 10:00 -> Inchiesta sulla zona rossa, , oggi l'audizione di Conte
+- 12/6/2020 at 10:15 -> Inchiesta sulla zona rossa, , il pm Rota a Palazzo Chigi
+- 12/6/2020 at 10:30 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 10:45 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 11:00 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 11:15 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 11:30 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 11:45 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
