@@ -131,3 +131,11 @@
 - 12/6/2020 at 21:15 -> Covid, aumentano i contagi , Nuovi casi dalla riapertura
 - 12/6/2020 at 21:30 -> Juventus-Milan in campo, Un minuto di silenzio
 - 12/6/2020 at 21:45 -> Juventus-Milan in campo, Un minuto di silenzio
+- 12/6/2020 at 22:00 -> Juventus-Milan in campo, Un minuto di silenzio
+- 12/6/2020 at 22:15 -> In campo Juve-Milan 0-0 Cr7 sbaglia un rigore - LIVE
+- 12/6/2020 at 22:30 -> In campo Juve-Milan 0-0 Cr7 sbaglia un rigore - LIVE
+- 12/6/2020 at 22:45 -> In campo Juve-Milan 0-0 Cr7 sbaglia un rigore - LIVE
+- 12/6/2020 at 23:00 -> In campo Juve-Milan 0-0 Cr7 sbaglia un rigore - LIVE
+- 12/6/2020 at 23:15 -> Juventus-Milan finisce 0-0, bianconeri in finale
+- 12/6/2020 at 23:30 -> Juventus-Milan finisce 0-0, I bianconeri vanno in finale
+- 12/6/2020 at 23:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
