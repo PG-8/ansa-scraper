@@ -107,3 +107,11 @@
 - 12/6/2020 at 15:15 -> Gualtieri: 'Prestiti garantiti , alle Pmi per oltre 11 miliardi'
 - 12/6/2020 at 15:30 -> Gualtieri:  'Rischi al ribasso, ma stima del Pil resta a -8%'
 - 12/6/2020 at 15:45 -> Gualtieri:  'Rischi al ribasso, ma stima del Pil resta a -8%'
+- 12/6/2020 at 16:00 -> Gualtieri:  'Rischi al ribasso, ma stima del Pil resta a -8%'
+- 12/6/2020 at 16:15 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
+- 12/6/2020 at 16:30 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
+- 12/6/2020 at 16:45 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
+- 12/6/2020 at 17:00 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
+- 12/6/2020 at 17:15 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
+- 12/6/2020 at 17:30 -> Serie A, se giocatore positivo nessuno stop per la squadra
+- 12/6/2020 at 17:45 -> Serie A, se giocatore positivo nessuno stop per la squadra
