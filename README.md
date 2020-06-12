@@ -91,3 +91,11 @@
 - 12/6/2020 at 11:15 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
 - 12/6/2020 at 11:30 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
 - 12/6/2020 at 11:45 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 12:00 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 12:15 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 12:30 -> Inchiesta sulla zona rossa, , la pm Rota a Palazzo Chigi
+- 12/6/2020 at 12:45 -> 101mila occupati in meno, circa 260mila gli inattivi
+- 12/6/2020 at 13:00 -> 101mila occupati in meno, circa 260mila gli inattivi
+- 12/6/2020 at 13:15 -> 101mila occupati in meno, circa 260mila gli inattivi
+- 12/6/2020 at 13:30 -> 101mila occupati in meno, circa 260mila gli inattivi
+- 12/6/2020 at 13:45 -> 101mila occupati in meno, circa 260mila gli inattivi
