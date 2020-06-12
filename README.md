@@ -115,3 +115,11 @@
 - 12/6/2020 at 17:15 -> 'Dai cantieri al digitale , è l'ora di azioni concrete'
 - 12/6/2020 at 17:30 -> Serie A, se giocatore positivo nessuno stop per la squadra
 - 12/6/2020 at 17:45 -> Serie A, se giocatore positivo nessuno stop per la squadra
+- 12/6/2020 at 18:00 -> Serie A, se giocatore positivo nessuno stop per la squadra
+- 12/6/2020 at 18:15 -> Serie A, se giocatore positivo nessuno stop per la squadra
+- 12/6/2020 at 18:30 -> Coronavirus, su i contagi , Sono 393, in Lombardia 69%
+- 12/6/2020 at 18:45 -> Covid, aumentano i contagi , Sono 393, in Lombardia 69%
+- 12/6/2020 at 19:00 -> Covid, aumentano i contagi , Sono 393, in Lombardia 69%
+- 12/6/2020 at 19:15 -> Covid, aumentano i contagi , Sono 393, in Lombardia 69%
+- 12/6/2020 at 19:30 -> Covid, aumentano i contagi , Sono 393, in Lombardia 69%
+- 12/6/2020 at 19:45 -> Covid, aumentano i contagi , Nuovi casi dalla riapertura
