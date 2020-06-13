@@ -187,3 +187,11 @@
 - 13/6/2020 at 11:15 -> Conte apre gli Stati generali:, investire nella 'bellezza'
 - 13/6/2020 at 11:30 -> Conte apre gli Stati generali:, investire nella 'bellezza'
 - 13/6/2020 at 11:45 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 12:00 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 12:15 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 12:30 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 12:45 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 13:00 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 13:15 -> Conte apre gli Stati generali, 'Investire nella bellezza'
+- 13/6/2020 at 13:30 -> Von der Leyen: 'Ora riforme' Conte: investire in bellezza
+- 13/6/2020 at 13:45 -> L'Europa chiede le riforme Conte illustra il piano
