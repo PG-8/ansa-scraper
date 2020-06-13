@@ -179,3 +179,11 @@
 - 13/6/2020 at 9:15 -> Alcuni quartieri di Pechino isolati per focolai di Covid
 - 13/6/2020 at 9:30 -> Alcuni quartieri di Pechino isolati per focolai di Covid
 - 13/6/2020 at 9:45 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 10:00 -> Al via gli Stati generali, Villa Pamphilj blindata
+- 13/6/2020 at 10:15 -> Al via gli Stati generali, Villa Pamphilj blindata
+- 13/6/2020 at 10:30 -> Al via gli Stati generali, Villa Pamphilj blindata
+- 13/6/2020 at 10:45 -> Al via gli Stati generali, Villa Pamphilj blindata
+- 13/6/2020 at 11:00 -> Al via gli Stati generali, Villa Pamphilj blindata
+- 13/6/2020 at 11:15 -> Conte apre gli Stati generali:, investire nella 'bellezza'
+- 13/6/2020 at 11:30 -> Conte apre gli Stati generali:, investire nella 'bellezza'
+- 13/6/2020 at 11:45 -> Conte apre gli Stati generali, 'Investire nella bellezza'
