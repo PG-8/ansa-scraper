@@ -139,3 +139,11 @@
 - 12/6/2020 at 23:15 -> Juventus-Milan finisce 0-0, bianconeri in finale
 - 12/6/2020 at 23:30 -> Juventus-Milan finisce 0-0, I bianconeri vanno in finale
 - 12/6/2020 at 23:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 00:00 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 00:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 00:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 00:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 1:00 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 1:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 1:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 1:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
