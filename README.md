@@ -219,3 +219,11 @@
 - 13/6/2020 at 19:15 -> E' stabile il dato dei contagi, In Lombardia 210 nuovi casi
 - 13/6/2020 at 19:30 -> E' stabile il dato dei contagi, In Lombardia 210 nuovi casi
 - 13/6/2020 at 19:45 -> Usa, si ribella all'arresto l'agente spara e lo uccide
+- 13/6/2020 at 20:00 -> Usa, si ribella all'arresto, l'agente spara e lo uccide
+- 13/6/2020 at 20:15 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 20:30 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 20:45 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 21:00 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 21:15 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 21:30 -> Ancora un afroamericano, ucciso dalla polizia in Usa
+- 13/6/2020 at 21:45 -> Ancora un afroamericano, ucciso dalla polizia in Usa
