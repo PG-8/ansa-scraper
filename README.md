@@ -195,3 +195,11 @@
 - 13/6/2020 at 13:15 -> Conte apre gli Stati generali, 'Investire nella bellezza'
 - 13/6/2020 at 13:30 -> Von der Leyen: 'Ora riforme' Conte: investire in bellezza
 - 13/6/2020 at 13:45 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 14:00 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 14:15 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 14:30 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 14:45 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 15:00 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 15:15 -> L'Europa chiede le riforme Conte illustra il piano
+- 13/6/2020 at 15:30 -> Fontana: 'Emerge la verità, sull' operato in Lombardia'
+- 13/6/2020 at 15:45 -> Firmato un accordo per , le dosi del vaccino di Oxford
