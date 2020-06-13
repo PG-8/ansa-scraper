@@ -171,3 +171,11 @@
 - 13/6/2020 at 7:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
 - 13/6/2020 at 7:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
 - 13/6/2020 at 7:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 8:00 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 8:15 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 8:30 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 8:45 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 9:00 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 9:15 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 9:30 -> Alcuni quartieri di Pechino isolati per focolai di Covid
+- 13/6/2020 at 9:45 -> Alcuni quartieri di Pechino isolati per focolai di Covid
