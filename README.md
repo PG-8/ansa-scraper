@@ -211,3 +211,11 @@
 - 13/6/2020 at 17:15 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
 - 13/6/2020 at 17:30 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
 - 13/6/2020 at 17:45 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 18:00 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 18:15 -> Il ministero proporrà l'avvio delle lezioni il 14 settembre
+- 13/6/2020 at 18:30 -> Il ministero proporrà l'avvio delle lezioni il 14 settembre
+- 13/6/2020 at 18:45 -> Il ministero proporrà l'avvio delle lezioni il 14 settembre
+- 13/6/2020 at 19:00 -> Coronavirus: stabili i contagi, 210 in Lombardia
+- 13/6/2020 at 19:15 -> E' stabile il dato dei contagi, In Lombardia 210 nuovi casi
+- 13/6/2020 at 19:30 -> E' stabile il dato dei contagi, In Lombardia 210 nuovi casi
+- 13/6/2020 at 19:45 -> Usa, si ribella all'arresto l'agente spara e lo uccide
