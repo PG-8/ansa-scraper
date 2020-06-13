@@ -147,3 +147,11 @@
 - 13/6/2020 at 1:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
 - 13/6/2020 at 1:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
 - 13/6/2020 at 1:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 2:00 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 2:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 2:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 2:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 3:00 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 3:15 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 3:30 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
+- 13/6/2020 at 3:45 -> Ronaldo sbaglia un rigore,, ma la Juventus va in finale
