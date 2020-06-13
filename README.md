@@ -203,3 +203,11 @@
 - 13/6/2020 at 15:15 -> L'Europa chiede le riforme Conte illustra il piano
 - 13/6/2020 at 15:30 -> Fontana: 'Emerge la verità, sull' operato in Lombardia'
 - 13/6/2020 at 15:45 -> Firmato un accordo per , le dosi del vaccino di Oxford
+- 13/6/2020 at 16:00 -> Firmato un accordo per, le dosi del vaccino di Oxford
+- 13/6/2020 at 16:15 -> Firmato un accordo per, le dosi del vaccino di Oxford
+- 13/6/2020 at 16:30 -> Firmato un accordo per, le dosi del vaccino di Oxford
+- 13/6/2020 at 16:45 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 17:00 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 17:15 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 17:30 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
+- 13/6/2020 at 17:45 -> Accordo su vaccino Oxford, Conte: 'Italia in prima linea'
