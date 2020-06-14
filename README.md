@@ -235,3 +235,11 @@
 - 13/6/2020 at 23:15 -> Un altro afroamericano, ucciso dalla polizia negli Usa
 - 13/6/2020 at 23:30 -> Un altro afroamericano, ucciso dalla polizia negli Usa
 - 13/6/2020 at 23:45 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 00:00 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 00:15 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 00:30 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 00:45 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 1:00 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 1:15 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 1:30 -> Un altro afroamericano, ucciso dalla polizia negli Usa
+- 14/6/2020 at 1:45 -> Un altro afroamericano, ucciso dalla polizia negli Usa
