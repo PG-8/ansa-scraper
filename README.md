@@ -275,3 +275,11 @@
 - 14/6/2020 at 9:15 -> Un altro afroamericano, ucciso, esplode la rabbia
 - 14/6/2020 at 9:30 -> Un altro afroamericano, ucciso, esplode la rabbia
 - 14/6/2020 at 9:45 -> Un altro afroamericano, ucciso, esplode la rabbia
+- 14/6/2020 at 10:00 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 10:15 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 10:30 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 10:45 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 11:00 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 11:15 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 11:30 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 11:45 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
