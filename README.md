@@ -283,3 +283,11 @@
 - 14/6/2020 at 11:15 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
 - 14/6/2020 at 11:30 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
 - 14/6/2020 at 11:45 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 12:00 -> Un altro episodio ad Atlanta, Esplode la rabbia, 36 arresti
+- 14/6/2020 at 12:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 12:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 12:45 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 13:00 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 13:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 13:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 13:45 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
