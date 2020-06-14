@@ -315,3 +315,11 @@
 - 14/6/2020 at 19:15 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
 - 14/6/2020 at 19:30 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
 - 14/6/2020 at 19:45 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 20:00 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 20:15 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 20:30 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 20:45 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 21:00 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 21:15 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 21:30 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 21:45 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
