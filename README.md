@@ -299,3 +299,11 @@
 - 14/6/2020 at 15:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
 - 14/6/2020 at 15:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
 - 14/6/2020 at 15:45 -> Il video dell'imbrattamento, della statua di Montanelli
+- 14/6/2020 at 16:00 -> Il video dell'imbrattamento, della statua di Montanelli
+- 14/6/2020 at 16:15 -> Il video dell'imbrattamento, della statua di Montanelli
+- 14/6/2020 at 16:30 -> Il video dell'imbrattamento, della statua di Montanelli
+- 14/6/2020 at 16:45 -> Di Battista: 'Conte leader?, Si iscriva e faccia congresso'
+- 14/6/2020 at 17:00 -> Di Battista: 'Conte leader?, Si iscriva e faccia congresso'
+- 14/6/2020 at 17:15 -> Di Battista: 'Conte leader?, Si iscriva e faccia congresso'
+- 14/6/2020 at 17:30 -> Assemblea costituente M5S, , è scontro Di Battista-Grillo
+- 14/6/2020 at 17:45 -> Assemblea costituente M5S, , è scontro Di Battista-Grillo
