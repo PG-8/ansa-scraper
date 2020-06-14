@@ -291,3 +291,11 @@
 - 14/6/2020 at 13:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
 - 14/6/2020 at 13:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
 - 14/6/2020 at 13:45 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 14:00 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 14:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 14:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 14:45 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 15:00 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 15:15 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 15:30 -> Un video mostra la dinamica Rabbia ad Atlanta, 36 arresti
+- 14/6/2020 at 15:45 -> Il video dell'imbrattamento, della statua di Montanelli
