@@ -307,3 +307,11 @@
 - 14/6/2020 at 17:15 -> Di Battista: 'Conte leader?, Si iscriva e faccia congresso'
 - 14/6/2020 at 17:30 -> Assemblea costituente M5S, , è scontro Di Battista-Grillo
 - 14/6/2020 at 17:45 -> Assemblea costituente M5S, , è scontro Di Battista-Grillo
+- 14/6/2020 at 18:00 -> Assemblea costituente M5S, , è scontro Di Battista-Grillo
+- 14/6/2020 at 18:15 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 18:30 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 18:45 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 19:00 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 19:15 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 19:30 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
+- 14/6/2020 at 19:45 -> Stabile il dato dei contagi , Il 72% sono in Lombardia
