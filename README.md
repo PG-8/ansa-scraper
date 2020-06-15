@@ -363,3 +363,11 @@
 - 15/6/2020 at 7:15 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
 - 15/6/2020 at 7:30 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
 - 15/6/2020 at 7:45 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 8:00 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 8:15 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 8:30 -> Oggi l'esordio di Colao, presenta il suo piano
+- 15/6/2020 at 8:45 -> Oggi l'esordio di Colao, presenta il suo piano
+- 15/6/2020 at 9:00 -> Oggi l'esordio di Colao, presenta il suo piano
+- 15/6/2020 at 9:15 -> Oggi l'esordio di Colao, presenta il suo piano
+- 15/6/2020 at 9:30 -> Oggi l'esordio di Colao, presenta il suo piano
+- 15/6/2020 at 9:45 -> Milano apre in forte calo, con i timori sul Covid-19
