@@ -371,3 +371,11 @@
 - 15/6/2020 at 9:15 -> Oggi l'esordio di Colao, presenta il suo piano
 - 15/6/2020 at 9:30 -> Oggi l'esordio di Colao, presenta il suo piano
 - 15/6/2020 at 9:45 -> Milano apre in forte calo, con i timori sul Covid-19
+- 15/6/2020 at 10:00 -> Milano apre in forte calo, con i timori sul Covid-19
+- 15/6/2020 at 10:15 -> 'Il governo di Hugo Chavez finanziò l'M5s nel 2010'
+- 15/6/2020 at 10:30 -> 'Il governo di Hugo Chavez finanziò l'M5s nel 2010'
+- 15/6/2020 at 10:45 -> 'Il governo di Hugo Chavez finanziò l'M5s nel 2010'
+- 15/6/2020 at 11:00 -> 'Il governo di Hugo Chavez finanziò l'M5s nel 2010'
+- 15/6/2020 at 11:15 -> 'Il governo di Hugo Chavez finanziò l'M5s nel 2010'
+- 15/6/2020 at 11:30 -> 'Soldi a M5s dal Venezuela' Crimi: 'E' una fake news'
+- 15/6/2020 at 11:45 -> 'Soldi a M5s dal Venezuela' Crimi: 'E' una fake news'
