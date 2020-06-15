@@ -403,3 +403,11 @@
 - 15/6/2020 at 17:15 -> 'Soldi a M5s dal Venezuela', Casaleggio: 'Niente fango'
 - 15/6/2020 at 17:30 -> 'Soldi a M5s dal Venezuela', Casaleggio: 'Niente fango'
 - 15/6/2020 at 17:45 -> 'Soldi a M5s dal Venezuela', Casaleggio: 'Niente fango'
+- 15/6/2020 at 18:00 -> 'Soldi a M5s dal Venezuela', Casaleggio: 'Niente fango'
+- 15/6/2020 at 18:15 -> 'Soldi a M5s dal Venezuela', Casaleggio: 'Niente fango'
+- 15/6/2020 at 18:30 -> Contagi in calo,303 in 24 ore, In Lombardia 85%. 26 morti
+- 15/6/2020 at 18:45 -> Contagi in calo,303 in 24 ore, In Lombardia 85%. 26 morti
+- 15/6/2020 at 19:00 -> 'Cig farraginosa, riformarla, Su Mes decideranno Camere'
+- 15/6/2020 at 19:15 -> 'Cig farraginosa, riformarla, Su Mes decideranno Camere'
+- 15/6/2020 at 19:30 -> 'Cig farraginosa, riformarla, Su Mes decideranno Camere'
+- 15/6/2020 at 19:45 -> 'Cig farraginosa, riformarla, Su Mes decideranno Camere'
