@@ -331,3 +331,11 @@
 - 14/6/2020 at 23:15 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
 - 14/6/2020 at 23:30 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
 - 14/6/2020 at 23:45 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
+- 15/6/2020 at 00:00 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
+- 15/6/2020 at 00:15 -> In Lombardia il 72% dei casi, Domani le nuove riaperture
+- 15/6/2020 at 00:30 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 00:45 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 1:00 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 1:15 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 1:30 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
+- 15/6/2020 at 1:45 -> In Lombardia il 72% dei casi, Da oggi le nuove riaperture
