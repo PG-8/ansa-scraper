@@ -571,3 +571,11 @@
 - 17/6/2020 at 11:15 -> 'Felice per le scuole aperte,, da settembre i recuperi'
 - 17/6/2020 at 11:30 -> 'Felice per le scuole aperte,, da settembre i recuperi'
 - 17/6/2020 at 11:45 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 12:00 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 12:15 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 12:30 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 12:45 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 13:00 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 13:15 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 13:30 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 13:45 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
