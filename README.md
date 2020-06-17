@@ -579,3 +579,11 @@
 - 17/6/2020 at 13:15 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
 - 17/6/2020 at 13:30 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
 - 17/6/2020 at 13:45 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 14:00 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 14:15 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 14:30 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 14:45 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 15:00 -> Pechino si blinda, nuovi casi , 100mila operatori in campo
+- 17/6/2020 at 15:15 -> Pechino si blinda, nuovi casi , 'Nessuna prova sul salmone'
+- 17/6/2020 at 15:30 -> Pechino si blinda, nuovi casi , 'Nessuna prova sul salmone'
+- 17/6/2020 at 15:45 -> Pechino si blinda, nuovi casi , 'Nessuna prova sul salmone'
