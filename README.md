@@ -603,3 +603,11 @@
 - 17/6/2020 at 19:15 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
 - 17/6/2020 at 19:30 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
 - 17/6/2020 at 19:45 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 20:00 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 20:15 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 20:30 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 20:45 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 21:00 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 21:15 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 21:30 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 21:45 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
