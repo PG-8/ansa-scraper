@@ -595,3 +595,11 @@
 - 17/6/2020 at 17:15 -> Bonomi va all'attacco, Conte: 'Fase drammatica'
 - 17/6/2020 at 17:30 -> Bonomi va all'attacco, Conte: 'Carenze strutturali'
 - 17/6/2020 at 17:45 -> Bonomi va all'attacco, Conte: 'Carenze strutturali'
+- 17/6/2020 at 18:00 -> Bonomi va all'attacco, Conte: 'Carenze strutturali'
+- 17/6/2020 at 18:15 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 18:30 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 18:45 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 19:00 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 19:15 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 19:30 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
+- 17/6/2020 at 19:45 -> Risalgono i contagi, +329, Le vittime 43 in un giorno
