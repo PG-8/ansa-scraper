@@ -555,3 +555,11 @@
 - 17/6/2020 at 7:15 -> Al via la Maturità post-Covid
 - 17/6/2020 at 7:30 -> Al via la Maturità post-Covid
 - 17/6/2020 at 7:45 -> Al via la Maturità post-Covid
+- 17/6/2020 at 8:00 -> Al via la Maturità post-Covid
+- 17/6/2020 at 8:15 -> Al via la Maturità post-Covid
+- 17/6/2020 at 8:30 -> Al via la Maturità post-Covid
+- 17/6/2020 at 8:45 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 9:00 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 9:15 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 9:30 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 9:45 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
