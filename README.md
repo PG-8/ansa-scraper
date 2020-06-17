@@ -563,3 +563,11 @@
 - 17/6/2020 at 9:15 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
 - 17/6/2020 at 9:30 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
 - 17/6/2020 at 9:45 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 10:00 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 10:15 -> Al via la Maturità post-Covid, 500 mila studenti coinvolti
+- 17/6/2020 at 10:30 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 10:45 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 11:00 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 11:15 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 11:30 -> 'Felice per le scuole aperte,, da settembre i recuperi'
+- 17/6/2020 at 11:45 -> 'Felice per le scuole aperte,, da settembre i recuperi'
