@@ -611,3 +611,11 @@
 - 17/6/2020 at 21:15 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
 - 17/6/2020 at 21:30 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
 - 17/6/2020 at 21:45 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 22:00 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 22:15 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 22:30 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 22:45 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 23:00 -> Coppa Italia: in campo Napoli Juventus 0-0 LIVE
+- 17/6/2020 at 23:15 -> Coppa Italia al Napoli, Juve battuta ai rigori 4-2
+- 17/6/2020 at 23:30 -> Coppa Italia al Napoli, Juve battuta ai rigori 4-2
+- 17/6/2020 at 23:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
