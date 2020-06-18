@@ -619,3 +619,11 @@
 - 17/6/2020 at 23:15 -> Coppa Italia al Napoli, Juve battuta ai rigori 4-2
 - 17/6/2020 at 23:30 -> Coppa Italia al Napoli, Juve battuta ai rigori 4-2
 - 17/6/2020 at 23:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 00:00 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 00:15 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 00:30 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 00:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 1:00 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 1:15 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 1:30 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 1:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
