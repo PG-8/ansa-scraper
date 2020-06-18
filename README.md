@@ -643,3 +643,11 @@
 - 18/6/2020 at 5:15 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
 - 18/6/2020 at 5:30 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
 - 18/6/2020 at 5:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 6:00 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 6:15 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 6:30 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 6:45 -> Il Napoli brinda ai rigori, Sarri resta senza trofeo
+- 18/6/2020 at 7:00 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 7:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 7:30 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 7:45 -> Le reazioni del mondo politico allo sciopero dell'ANSA
