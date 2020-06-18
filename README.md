@@ -651,3 +651,11 @@
 - 18/6/2020 at 7:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
 - 18/6/2020 at 7:30 -> Le reazioni del mondo politico allo sciopero dell'ANSA
 - 18/6/2020 at 7:45 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 8:00 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 8:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 8:30 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 8:45 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 9:00 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 9:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 9:30 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 9:45 -> Le reazioni del mondo politico allo sciopero dell'ANSA
