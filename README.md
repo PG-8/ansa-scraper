@@ -659,3 +659,11 @@
 - 18/6/2020 at 9:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
 - 18/6/2020 at 9:30 -> Le reazioni del mondo politico allo sciopero dell'ANSA
 - 18/6/2020 at 9:45 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 10:00 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 10:15 -> Le reazioni del mondo politico allo sciopero dell'ANSA
+- 18/6/2020 at 10:30 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italie e Francia
+- 18/6/2020 at 10:45 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
+- 18/6/2020 at 11:00 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
+- 18/6/2020 at 11:15 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
+- 18/6/2020 at 11:30 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
+- 18/6/2020 at 11:45 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
