@@ -683,3 +683,11 @@
 - 18/6/2020 at 15:15 -> Festeggiamenti a Napoli, L'Oms: 'Tifosi sciagurati'
 - 18/6/2020 at 15:30 -> 'Servono risposte rapide , sull'uso dei fondi europei'
 - 18/6/2020 at 15:45 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 16:00 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 16:15 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 16:30 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 16:45 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 17:00 -> 'Servono risposte rapide , sull'uso dei fondi europei'
+- 18/6/2020 at 17:15 -> La Corte Suprema Usa blocca Trump sui Dreamer
+- 18/6/2020 at 17:30 -> La Corte Suprema Usa blocca Trump sui Dreamer
+- 18/6/2020 at 17:45 -> La Corte Suprema Usa blocca Trump sui Dreamer
