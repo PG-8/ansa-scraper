@@ -667,3 +667,11 @@
 - 18/6/2020 at 11:15 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
 - 18/6/2020 at 11:30 -> Nel 2020 giù il Pil dell'8,7%, Forte calo in Italia e Francia
 - 18/6/2020 at 11:45 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
+- 18/6/2020 at 12:00 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
+- 18/6/2020 at 12:15 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
+- 18/6/2020 at 12:30 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
+- 18/6/2020 at 12:45 -> Produzione nelle costruzioni mai così giù, crollo del 67,7%
+- 18/6/2020 at 13:00 -> Festeggiamenti a Napoli, L'Oms: 'Tifosi sciagurati'
+- 18/6/2020 at 13:15 -> Festeggiamenti a Napoli, L'Oms: 'Tifosi sciagurati'
+- 18/6/2020 at 13:30 -> Festeggiamenti a Napoli, L'Oms: 'Tifosi sciagurati'
+- 18/6/2020 at 13:45 -> Festeggiamenti a Napoli, L'Oms: 'Tifosi sciagurati'
