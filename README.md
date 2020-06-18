@@ -691,3 +691,11 @@
 - 18/6/2020 at 17:15 -> La Corte Suprema Usa blocca Trump sui Dreamer
 - 18/6/2020 at 17:30 -> La Corte Suprema Usa blocca Trump sui Dreamer
 - 18/6/2020 at 17:45 -> La Corte Suprema Usa blocca Trump sui Dreamer
+- 18/6/2020 at 18:00 -> La Corte Suprema Usa blocca Trump sui Dreamer
+- 18/6/2020 at 18:15 -> Risalgono terapie intensive, Calano i malati, più guariti
+- 18/6/2020 at 18:30 -> <p>Risalgono terapie intensive, Più vittime,crescono i guariti</p>
+- 18/6/2020 at 18:45 -> <p>Risalgono terapie intensive, Più vittime,crescono i guariti</p>
+- 18/6/2020 at 19:00 -> Mattarella: c'è l'immagine , di toghe chine su se stesse
+- 18/6/2020 at 19:15 -> 'C'è l'idea di toghe chine, , gravi distorsioni nel Csm'
+- 18/6/2020 at 19:30 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
+- 18/6/2020 at 19:45 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
