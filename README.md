@@ -779,3 +779,11 @@
 - 19/6/2020 at 15:15 -> 'Discussione molto positiva, , l'intesa prima di agosto'
 - 19/6/2020 at 15:30 -> 'Discussione molto positiva, l'accordo prima di agosto'
 - 19/6/2020 at 15:45 -> 'Discussione molto positiva, l'accordo prima di agosto'
+- 19/6/2020 at 16:00 -> 'L'accordo prima di agosto',, La Svezia frena: 'Divergenze'
+- 19/6/2020 at 16:15 -> 'L'accordo prima di agosto',, La Svezia frena: 'Divergenze'
+- 19/6/2020 at 16:30 -> 'L'accordo prima di agosto',, La Svezia frena: 'Divergenze'
+- 19/6/2020 at 16:45 -> 'L'accordo prima di agosto',, Ma Svezia e Olanda frenano
+- 19/6/2020 at 17:00 -> 'L'accordo prima di agosto' , Ma Svezia e Olanda frenano
+- 19/6/2020 at 17:15 -> 'L'accordo prima di agosto' , Ma Svezia e Olanda frenano
+- 19/6/2020 at 17:30 -> Al Nord la speranza di vita cala di 2 anni, a Bergamo 6
+- 19/6/2020 at 17:45 -> 'Risposta Ue sarà all'altezza', Veti? 'Non ci penso proprio'
