@@ -771,3 +771,11 @@
 - 19/6/2020 at 13:15 -> 'Il virus rilevato al mercato, Xinfadi viene dall'Europa'
 - 19/6/2020 at 13:30 -> Isolato il Peking University International Hospital
 - 19/6/2020 at 13:45 -> Isolato ospedale a Pechino, Infermiera risulta positiva
+- 19/6/2020 at 14:00 -> Conte: 'Sul Recovery Fund serve l'accordo entro luglio'
+- 19/6/2020 at 14:15 -> Conte: 'Sul Recovery Fund serve l'accordo entro luglio'
+- 19/6/2020 at 14:30 -> 'Piano Italia non per tornare allo stato pre-Covid'
+- 19/6/2020 at 14:45 -> 'Il piano Italia per la crescita non per lo stato pre-Covid'
+- 19/6/2020 at 15:00 -> Michel: a metà luglio Consiglio Ue in presenza
+- 19/6/2020 at 15:15 -> 'Discussione molto positiva, , l'intesa prima di agosto'
+- 19/6/2020 at 15:30 -> 'Discussione molto positiva, l'accordo prima di agosto'
+- 19/6/2020 at 15:45 -> 'Discussione molto positiva, l'accordo prima di agosto'
