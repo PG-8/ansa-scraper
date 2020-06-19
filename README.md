@@ -787,3 +787,11 @@
 - 19/6/2020 at 17:15 -> 'L'accordo prima di agosto' , Ma Svezia e Olanda frenano
 - 19/6/2020 at 17:30 -> Al Nord la speranza di vita cala di 2 anni, a Bergamo 6
 - 19/6/2020 at 17:45 -> 'Risposta Ue sarà all'altezza', Veti? 'Non ci penso proprio'
+- 19/6/2020 at 18:00 -> 'Risposta Ue sarà all'altezza,, si è fatto un passo in avanti'
+- 19/6/2020 at 18:15 -> Lazio supera la Lombardia,, l'indice Rt a è passato a 1,12
+- 19/6/2020 at 18:30 -> Lazio supera la Lombardia,, l'indice Rt a è passato a 1,12
+- 19/6/2020 at 18:45 -> Politrauma per Zanardi Condizioni sono molto gravi
+- 19/6/2020 at 19:00 -> Politrauma per Zanardi Condizioni sono molto gravi
+- 19/6/2020 at 19:15 -> Politrauma per Zanardi Condizioni sono molto gravi
+- 19/6/2020 at 19:30 -> Politrauma per Zanardi Condizioni sono molto gravi
+- 19/6/2020 at 19:45 -> Politrauma per Zanardi Condizioni sono molto gravi
