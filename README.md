@@ -795,3 +795,11 @@
 - 19/6/2020 at 19:15 -> Politrauma per Zanardi Condizioni sono molto gravi
 - 19/6/2020 at 19:30 -> Politrauma per Zanardi Condizioni sono molto gravi
 - 19/6/2020 at 19:45 -> Politrauma per Zanardi Condizioni sono molto gravi
+- 19/6/2020 at 20:00 -> Handbike contro un camion, <strong>Grave incidente per Zanardi</strong>
+- 19/6/2020 at 20:15 -> Handbike contro un camion, <strong>Grave incidente per Zanardi</strong>
+- 19/6/2020 at 20:30 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
+- 19/6/2020 at 20:45 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
+- 19/6/2020 at 21:00 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
+- 19/6/2020 at 21:15 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
+- 19/6/2020 at 21:30 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
+- 19/6/2020 at 21:45 -> Handbike contro un camion, <strong>Trauma cranico per Zanardi</strong>
