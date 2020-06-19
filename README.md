@@ -763,3 +763,11 @@
 - 19/6/2020 at 11:15 -> Sassoli: 'Sul Recovery fund, niente passi indietro'
 - 19/6/2020 at 11:30 -> Il Senato vota la fiducia, , il decreto elezioni è legge
 - 19/6/2020 at 11:45 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 12:00 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 12:15 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 12:30 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 12:45 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 13:00 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 13:15 -> 'Il virus rilevato al mercato, Xinfadi viene dall'Europa'
+- 19/6/2020 at 13:30 -> Isolato il Peking University International Hospital
+- 19/6/2020 at 13:45 -> Isolato ospedale a Pechino, Infermiera risulta positiva
