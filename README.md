@@ -755,3 +755,11 @@
 - 19/6/2020 at 9:15 -> Usa, oltre 118mila le vittime, New York verso la fase 2
 - 19/6/2020 at 9:30 -> Usa, oltre 118mila le vittime, New York verso la fase 2
 - 19/6/2020 at 9:45 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 10:00 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 10:15 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 10:30 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 10:45 -> Sassoli: non accettiamo passi indietro su Recovery fund
+- 19/6/2020 at 11:00 -> Sassoli: 'Sul Recovery fund, niente passi indietro'
+- 19/6/2020 at 11:15 -> Sassoli: 'Sul Recovery fund, niente passi indietro'
+- 19/6/2020 at 11:30 -> Il Senato vota la fiducia, , il decreto elezioni è legge
+- 19/6/2020 at 11:45 -> Il Senato vota la fiducia, , il decreto elezioni è legge
