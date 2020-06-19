@@ -747,3 +747,11 @@
 - 19/6/2020 at 7:15 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
 - 19/6/2020 at 7:30 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
 - 19/6/2020 at 7:45 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
+- 19/6/2020 at 8:00 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
+- 19/6/2020 at 8:15 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
+- 19/6/2020 at 8:30 -> 'Gravi distorsioni nel Csm, , le toghe tornino credibili'
+- 19/6/2020 at 8:45 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 9:00 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 9:15 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 9:30 -> Usa, oltre 118mila le vittime, New York verso la fase 2
+- 19/6/2020 at 9:45 -> Usa, oltre 118mila le vittime, New York verso la fase 2
