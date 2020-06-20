@@ -851,3 +851,11 @@
 - 20/6/2020 at 9:15 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
 - 20/6/2020 at 9:30 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
 - 20/6/2020 at 9:45 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
+- 20/6/2020 at 10:00 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
+- 20/6/2020 at 10:15 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
+- 20/6/2020 at 10:30 -> <strong>Zanardi in terapia intensiva, Notte stabile ma resta grave</strong>
+- 20/6/2020 at 10:45 -> <strong>Zanardi in terapia intensiva, I medici: 'Resta grave'</strong>
+- 20/6/2020 at 11:00 -> <strong>Zanardi in terapia intensiva, I medici: 'Resta grave'</strong>
+- 20/6/2020 at 11:15 -> <strong>Zanardi in terapia intensiva, I medici: 'Resta grave'</strong>
+- 20/6/2020 at 11:30 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 11:45 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
