@@ -835,3 +835,11 @@
 - 20/6/2020 at 5:15 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
 - 20/6/2020 at 5:30 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
 - 20/6/2020 at 5:45 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 6:00 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 6:15 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 6:30 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 6:45 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 7:00 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 7:15 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 7:30 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
+- 20/6/2020 at 7:45 -> Handbike contro un camion, <strong>Alex Zanardi è gravissimo</strong>
