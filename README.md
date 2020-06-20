@@ -859,3 +859,11 @@
 - 20/6/2020 at 11:15 -> <strong>Zanardi in terapia intensiva, I medici: 'Resta grave'</strong>
 - 20/6/2020 at 11:30 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
 - 20/6/2020 at 11:45 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 12:00 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 12:15 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 12:30 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 12:45 -> <strong>Zanardi, l'Italia tifa per lui, Autista indagato, atto dovuto</strong>
+- 20/6/2020 at 13:00 -> Alex in coma farmacologico, 'L'intervento è andato bene'
+- 20/6/2020 at 13:15 -> Alex in coma farmacologico, 'L'intervento è andato bene'
+- 20/6/2020 at 13:30 -> Alex in coma farmacologico, 'L'intervento è andato bene'
+- 20/6/2020 at 13:45 -> Alex in coma farmacologico, 'L'intervento è andato bene'
