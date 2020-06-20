@@ -875,3 +875,11 @@
 - 20/6/2020 at 15:15 -> Alex in coma farmacologico, 'Quadro neurologico grave'
 - 20/6/2020 at 15:30 -> Alex in coma farmacologico, 'Quadro neurologico grave'
 - 20/6/2020 at 15:45 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 16:00 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 16:15 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 16:30 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 16:45 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 17:00 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 17:15 -> Alex in coma farmacologico, 'Quadro neurologico grave'
+- 20/6/2020 at 17:30 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
+- 20/6/2020 at 17:45 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
