@@ -883,3 +883,11 @@
 - 20/6/2020 at 17:15 -> Alex in coma farmacologico, 'Quadro neurologico grave'
 - 20/6/2020 at 17:30 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
 - 20/6/2020 at 17:45 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
+- 20/6/2020 at 18:00 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
+- 20/6/2020 at 18:15 -> Consegnati agli inquirenti, i documenti di Giulio Regeni
+- 20/6/2020 at 18:30 -> In lieve aumento i morti +49 Su anche i nuovi casi, +262
+- 20/6/2020 at 18:45 -> In lieve aumento i morti +49 Su anche i nuovi casi, +262
+- 20/6/2020 at 19:00 -> 'Alex grande atleta, fiduciosi', Stabile, sarà sedato a lungo
+- 20/6/2020 at 19:15 -> 'Alex grande atleta, fiduciosi', Stabile, sarà sedato a lungo
+- 20/6/2020 at 19:30 -> 'Alex grande atleta, fiduciosi', Stabile, sarà sedato a lungo
+- 20/6/2020 at 19:45 -> 'Alex grande atleta, fiduciosi', Stabile, sarà sedato a lungo
