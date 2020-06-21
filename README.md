@@ -955,3 +955,11 @@
 - 21/6/2020 at 11:15 -> Seconda notte in terapia intensiva, Alex è stabile
 - 21/6/2020 at 11:30 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
 - 21/6/2020 at 11:45 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
+- 21/6/2020 at 12:00 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
+- 21/6/2020 at 12:15 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
+- 21/6/2020 at 12:30 -> 'C'è rischio di eventi avversi', Sequestrati cellulare e bike
+- 21/6/2020 at 12:45 -> 'C'è rischio di eventi avversi', Sequestrati cellulare e bike
+- 21/6/2020 at 13:00 -> 'C'è rischio di eventi avversi', Sequestrati cellulare e bike
+- 21/6/2020 at 13:15 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 13:30 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 13:45 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
