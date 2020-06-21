@@ -971,3 +971,11 @@
 - 21/6/2020 at 15:15 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
 - 21/6/2020 at 15:30 -> 'Non aveva cellulare in mano, al momento dello schianto'
 - 21/6/2020 at 15:45 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 16:00 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 16:15 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 16:30 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 16:45 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 17:00 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 17:15 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 17:30 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 17:45 -> 'Non aveva cellulare in mano, al momento dello schianto'
