@@ -939,3 +939,11 @@
 - 21/6/2020 at 7:15 -> Sangue e paura nel parco  , Tre vittime a Reading
 - 21/6/2020 at 7:30 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
 - 21/6/2020 at 7:45 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
+- 21/6/2020 at 8:00 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
+- 21/6/2020 at 8:15 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
+- 21/6/2020 at 8:30 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
+- 21/6/2020 at 8:45 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 9:00 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 9:15 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 9:30 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 9:45 -> Seconda notte in terapia intensiva, Alex è stabile
