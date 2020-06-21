@@ -931,3 +931,11 @@
 - 21/6/2020 at 5:15 -> Sangue e paura nel parco  , Tre vittime a Reading
 - 21/6/2020 at 5:30 -> Sangue e paura nel parco  , Tre vittime a Reading
 - 21/6/2020 at 5:45 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 6:00 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 6:15 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 6:30 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 6:45 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 7:00 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 7:15 -> Sangue e paura nel parco  , Tre vittime a Reading
+- 21/6/2020 at 7:30 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
+- 21/6/2020 at 7:45 -> Vinyl Coin, a Firenze la prima pizzeria dove si paga in vinili
