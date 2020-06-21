@@ -963,3 +963,11 @@
 - 21/6/2020 at 13:15 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
 - 21/6/2020 at 13:30 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
 - 21/6/2020 at 13:45 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 14:00 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 14:15 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 14:30 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 14:45 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 15:00 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 15:15 -> 'Fiduciosi nel suo recupero', Sequestrati cellulare e bike
+- 21/6/2020 at 15:30 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 15:45 -> 'Non aveva cellulare in mano, al momento dello schianto'
