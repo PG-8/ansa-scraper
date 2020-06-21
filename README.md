@@ -979,3 +979,11 @@
 - 21/6/2020 at 17:15 -> 'Non aveva cellulare in mano, al momento dello schianto'
 - 21/6/2020 at 17:30 -> 'Non aveva cellulare in mano, al momento dello schianto'
 - 21/6/2020 at 17:45 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 18:00 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 18:15 -> 'Non aveva cellulare in mano, al momento dello schianto'
+- 21/6/2020 at 18:30 -> Mai così poche vittime, , meno malati e più guariti
+- 21/6/2020 at 18:45 -> Mai così poche vittime, , meno malati e più guariti
+- 21/6/2020 at 19:00 -> Mai così poche vittime, , meno malati e più guariti
+- 21/6/2020 at 19:15 -> Mai così poche vittime, , meno malati e più guariti
+- 21/6/2020 at 19:30 -> Mai così poche vittime, , meno malati e più guariti
+- 21/6/2020 at 19:45 -> Mai così poche vittime, , meno malati e più guariti
