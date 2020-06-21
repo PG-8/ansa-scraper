@@ -947,3 +947,11 @@
 - 21/6/2020 at 9:15 -> Seconda notte in terapia intensiva, Alex è stabile
 - 21/6/2020 at 9:30 -> Seconda notte in terapia intensiva, Alex è stabile
 - 21/6/2020 at 9:45 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 10:00 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 10:15 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 10:30 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 10:45 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 11:00 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 11:15 -> Seconda notte in terapia intensiva, Alex è stabile
+- 21/6/2020 at 11:30 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
+- 21/6/2020 at 11:45 -> Conte apre l'ultima giornata , 'Piano di Rilancio condiviso'
