@@ -1075,3 +1075,11 @@
 - 22/6/2020 at 17:15 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
 - 22/6/2020 at 17:30 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
 - 22/6/2020 at 17:45 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 18:00 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 18:15 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 18:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 18:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 19:00 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 19:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 19:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 19:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
