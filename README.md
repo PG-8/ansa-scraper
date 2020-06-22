@@ -1051,3 +1051,11 @@
 - 22/6/2020 at 11:15 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
 - 22/6/2020 at 11:30 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
 - 22/6/2020 at 11:45 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 12:00 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 12:15 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 12:30 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 12:45 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 13:00 -> Oms, 183.000 nuovi casi di Coronavirus registrati in un giorno. Nuovo record 
+- 22/6/2020 at 13:15 -> Oms, 183.000 nuovi casi di Coronavirus registrati in un giorno. Nuovo record 
+- 22/6/2020 at 13:30 -> Oms, 183.000 nuovi casi di Coronavirus registrati in un giorno. Nuovo record 
+- 22/6/2020 at 13:45 -> Conte a medici e infermieri , 'Qui oggi grazie anche a voi'
