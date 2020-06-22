@@ -1059,3 +1059,11 @@
 - 22/6/2020 at 13:15 -> Oms, 183.000 nuovi casi di Coronavirus registrati in un giorno. Nuovo record 
 - 22/6/2020 at 13:30 -> Oms, 183.000 nuovi casi di Coronavirus registrati in un giorno. Nuovo record 
 - 22/6/2020 at 13:45 -> Conte a medici e infermieri , 'Qui oggi grazie anche a voi'
+- 22/6/2020 at 14:00 -> Conte a medici e infermieri , 'Qui oggi grazie anche a voi'
+- 22/6/2020 at 14:15 -> Conte a medici e infermieri , 'Qui oggi grazie anche a voi'
+- 22/6/2020 at 14:30 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 14:45 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 15:00 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 15:15 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 15:30 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 15:45 -> La prima auto attraversa , il nuovo ponte di Genova
