@@ -1043,3 +1043,11 @@
 - 22/6/2020 at 9:15 -> Oms: 'Nuovo record contagi, 183.000 casi in un giorno'
 - 22/6/2020 at 9:30 -> Oms: 'Nuovo record contagi, 183.000 casi in un giorno'
 - 22/6/2020 at 9:45 -> Oms: 'Nuovo record contagi, 183.000 casi in un giorno'
+- 22/6/2020 at 10:00 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 10:15 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 10:30 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 10:45 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 11:00 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 11:15 -> Consumi in forte calo, -30%, Male i bar e gli alberghi
+- 22/6/2020 at 11:30 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
+- 22/6/2020 at 11:45 -> 'Calo dell'Iva? Serve riforma complessiva del fisco'
