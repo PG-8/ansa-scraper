@@ -1083,3 +1083,11 @@
 - 22/6/2020 at 19:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
 - 22/6/2020 at 19:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
 - 22/6/2020 at 19:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 20:00 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 20:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 20:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 20:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 21:00 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 21:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 21:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 22/6/2020 at 21:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
