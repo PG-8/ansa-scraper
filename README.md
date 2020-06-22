@@ -1067,3 +1067,11 @@
 - 22/6/2020 at 15:15 -> La prima auto attraversa , il nuovo ponte di Genova
 - 22/6/2020 at 15:30 -> La prima auto attraversa , il nuovo ponte di Genova
 - 22/6/2020 at 15:45 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 16:00 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 16:15 -> La prima auto attraversa , il nuovo ponte di Genova
+- 22/6/2020 at 16:30 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 16:45 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 17:00 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 17:15 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 17:30 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
+- 22/6/2020 at 17:45 -> Conte: 'Taglio dell'Iva costa, si valuta per breve periodo'
