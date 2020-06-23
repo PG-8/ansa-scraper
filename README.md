@@ -1147,3 +1147,11 @@
 - 23/6/2020 at 11:15 -> Emilio Fede arrestato  , 'Come un delinquente'
 - 23/6/2020 at 11:30 -> Emilio Fede arrestato  , 'Come un delinquente'
 - 23/6/2020 at 11:45 -> Stasi deposita l'istanza,  di revisione della sentenza
+- 23/6/2020 at 12:00 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 12:15 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 12:30 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 12:45 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 13:00 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 13:15 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 13:30 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 13:45 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
