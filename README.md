@@ -1139,3 +1139,11 @@
 - 23/6/2020 at 9:15 -> Blitz della polizia a Catania Ordinanza per 50 persone
 - 23/6/2020 at 9:30 -> Blitz della polizia a Catania Ordinanza per 50 persone
 - 23/6/2020 at 9:45 -> Emilio Fede arrestato , per evasione dai domiciliari
+- 23/6/2020 at 10:00 -> Emilio Fede arrestato , per evasione dai domiciliari
+- 23/6/2020 at 10:15 -> Emilio Fede arrestato , per evasione dai domiciliari
+- 23/6/2020 at 10:30 -> Emilio Fede arrestato , per evasione dai domiciliari
+- 23/6/2020 at 10:45 -> Emilio Fede arrestato  , 'Come un delinquente'
+- 23/6/2020 at 11:00 -> Emilio Fede arrestato  , 'Come un delinquente'
+- 23/6/2020 at 11:15 -> Emilio Fede arrestato  , 'Come un delinquente'
+- 23/6/2020 at 11:30 -> Emilio Fede arrestato  , 'Come un delinquente'
+- 23/6/2020 at 11:45 -> Stasi deposita l'istanza,  di revisione della sentenza
