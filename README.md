@@ -1155,3 +1155,11 @@
 - 23/6/2020 at 13:15 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
 - 23/6/2020 at 13:30 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
 - 23/6/2020 at 13:45 -> Zanardi in condizioni stabili, si valuta il risveglio dal coma
+- 23/6/2020 at 14:00 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 14:15 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 14:30 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 14:45 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 15:00 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 15:15 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 15:30 -> Stasi deposita istanza , di revisione della sentenza
+- 23/6/2020 at 15:45 -> Stasi deposita istanza , di revisione della sentenza
