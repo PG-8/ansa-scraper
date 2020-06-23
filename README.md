@@ -1131,3 +1131,11 @@
 - 23/6/2020 at 7:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
 - 23/6/2020 at 7:30 -> In calo contagi e vittime, In Lombardia solo 3 morti
 - 23/6/2020 at 7:45 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 23/6/2020 at 8:00 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 23/6/2020 at 8:15 -> In calo contagi e vittime, In Lombardia solo 3 morti
+- 23/6/2020 at 8:30 -> Blitz della polizia a Catania Ordinanza per 50 persone
+- 23/6/2020 at 8:45 -> Blitz della polizia a Catania Ordinanza per 50 persone
+- 23/6/2020 at 9:00 -> Blitz della polizia a Catania Ordinanza per 50 persone
+- 23/6/2020 at 9:15 -> Blitz della polizia a Catania Ordinanza per 50 persone
+- 23/6/2020 at 9:30 -> Blitz della polizia a Catania Ordinanza per 50 persone
+- 23/6/2020 at 9:45 -> Emilio Fede arrestato , per evasione dai domiciliari
