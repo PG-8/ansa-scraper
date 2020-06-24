@@ -1243,3 +1243,11 @@
 - 24/6/2020 at 11:15 -> Migranti, in 28 positivi , al Covid sulla Moby Zazà
 - 24/6/2020 at 11:30 -> Migranti, in 28 positivi , al Covid sulla Moby Zazà
 - 24/6/2020 at 11:45 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 12:00 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 12:15 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 12:30 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 12:45 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 13:00 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 13:15 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 13:30 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 13:45 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
