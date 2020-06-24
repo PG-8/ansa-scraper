@@ -1251,3 +1251,11 @@
 - 24/6/2020 at 13:15 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
 - 24/6/2020 at 13:30 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
 - 24/6/2020 at 13:45 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 14:00 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 14:15 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 14:30 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
+- 24/6/2020 at 14:45 -> In un anno si sono dimesse oltre 37mila neo mamme
+- 24/6/2020 at 15:00 -> In un anno si sono dimesse oltre 37mila neo mamme
+- 24/6/2020 at 15:15 -> In un anno si sono dimesse oltre 37mila neo mamme
+- 24/6/2020 at 15:30 -> <span style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold;">Pil dell'Italia ancora più giù,</span>, debito sale al 166% nel 2020
+- 24/6/2020 at 15:45 -> <span style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold;">Pil dell'Italia ancora più giù,</span>, debito sale al 166% nel 2020
