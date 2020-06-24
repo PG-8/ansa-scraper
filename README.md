@@ -1195,3 +1195,11 @@
 - 23/6/2020 at 23:15 -> Stasi deposita istanza , di revisione della sentenza
 - 23/6/2020 at 23:30 -> Stasi deposita istanza , di revisione della sentenza
 - 23/6/2020 at 23:45 -> Stasi deposita istanza , di revisione della sentenza
+- 24/6/2020 at 00:00 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 00:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 00:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 00:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 1:00 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 1:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 1:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 1:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
