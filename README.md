@@ -1283,3 +1283,11 @@
 - 24/6/2020 at 21:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
 - 24/6/2020 at 21:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
 - 24/6/2020 at 21:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 22:00 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 22:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 22:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 22:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 23:00 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 23:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 23:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 23:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
