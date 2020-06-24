@@ -1267,3 +1267,11 @@
 - 24/6/2020 at 17:15 -> Il coronavirus 'cancella',  la maratona di New York
 - 24/6/2020 at 17:30 -> Il coronavirus cancella,  la maratona di New York
 - 24/6/2020 at 17:45 -> Libia, 2 luglio via a negoziati su memorandum migranti
+- 24/6/2020 at 18:00 -> Libia, 2 luglio via a negoziati su memorandum migranti
+- 24/6/2020 at 18:15 -> Libia, 2 luglio via a negoziati su memorandum migranti
+- 24/6/2020 at 18:30 -> Linee guida, l'ira dei presidi 'Non c'è alcuna indicazione'
+- 24/6/2020 at 18:45 -> Linee guida, l'ira dei presidi 'Non c'è alcuna indicazione'
+- 24/6/2020 at 19:00 -> I contagi sono 190 più di ieri Trenta le vittime in 24 ore
+- 24/6/2020 at 19:15 -> I contagi sono 190 più di ieri Trenta le vittime in 24 ore
+- 24/6/2020 at 19:30 -> Crolla un tetto: morti madre , e figlio, un'altra figlia grave
+- 24/6/2020 at 19:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
