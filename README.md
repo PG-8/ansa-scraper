@@ -1211,3 +1211,11 @@
 - 24/6/2020 at 3:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
 - 24/6/2020 at 3:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
 - 24/6/2020 at 3:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 4:00 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 4:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 4:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 4:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 5:00 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 5:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 5:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 5:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
