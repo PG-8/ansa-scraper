@@ -1227,3 +1227,11 @@
 - 24/6/2020 at 7:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
 - 24/6/2020 at 7:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
 - 24/6/2020 at 7:45 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 8:00 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 8:15 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 8:30 -> Covid: 18 morti, 122 contagi , Ai livelli minimi assoluti
+- 24/6/2020 at 8:45 -> Sei arresti a Roma, anche un dipendente del Comune
+- 24/6/2020 at 9:00 -> Sei arresti a Roma, anche un dipendente del Comune
+- 24/6/2020 at 9:15 -> Sei arresti a Roma, anche un dipendente del Comune
+- 24/6/2020 at 9:30 -> Sei arresti a Roma, anche un dipendente del Comune
+- 24/6/2020 at 9:45 -> Sei arresti a Roma, anche un dipendente del Comune
