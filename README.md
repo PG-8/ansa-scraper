@@ -1235,3 +1235,11 @@
 - 24/6/2020 at 9:15 -> Sei arresti a Roma, anche un dipendente del Comune
 - 24/6/2020 at 9:30 -> Sei arresti a Roma, anche un dipendente del Comune
 - 24/6/2020 at 9:45 -> Sei arresti a Roma, anche un dipendente del Comune
+- 24/6/2020 at 10:00 -> Sei arresti a Roma, anche , un dipendente del Comune
+- 24/6/2020 at 10:15 -> Sei arresti a Roma, anche , un dipendente del Comune
+- 24/6/2020 at 10:30 -> Blitz contro cosche a Reggio, 21 arresti tra boss e gregari
+- 24/6/2020 at 10:45 -> Blitz contro cosche a Reggio, 21 arresti tra boss e gregari
+- 24/6/2020 at 11:00 -> Blitz contro cosche a Reggio, 21 arresti tra boss e gregari
+- 24/6/2020 at 11:15 -> Migranti, in 28 positivi , al Covid sulla Moby Zazà
+- 24/6/2020 at 11:30 -> Migranti, in 28 positivi , al Covid sulla Moby Zazà
+- 24/6/2020 at 11:45 -> 'Taglio tasse non rinviabile,, agire su lavoro e pensioni'
