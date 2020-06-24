@@ -1275,3 +1275,11 @@
 - 24/6/2020 at 19:15 -> I contagi sono 190 più di ieri Trenta le vittime in 24 ore
 - 24/6/2020 at 19:30 -> Crolla un tetto: morti madre , e figlio, un'altra figlia grave
 - 24/6/2020 at 19:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 20:00 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 20:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 20:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 20:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 21:00 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 21:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 21:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 24/6/2020 at 21:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
