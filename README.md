@@ -1355,3 +1355,11 @@
 - 25/6/2020 at 15:15 -> Focolaio a Mondragone , Alta tensione, va l'esercito
 - 25/6/2020 at 15:30 -> Focolaio a Mondragone , Alta tensione, va l'esercito
 - 25/6/2020 at 15:45 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 16:00 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 16:15 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 16:30 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 16:45 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 17:00 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 17:15 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 17:30 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 17:45 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
