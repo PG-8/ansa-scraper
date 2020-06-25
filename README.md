@@ -1379,3 +1379,11 @@
 - 25/6/2020 at 21:15 -> Focolai a Mondragone , Lancio di pietre e sedie
 - 25/6/2020 at 21:30 -> Focolai a Mondragone , Lancio di pietre e sedie
 - 25/6/2020 at 21:45 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 22:00 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 22:15 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 22:30 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 22:45 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 23:00 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 23:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 25/6/2020 at 23:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 25/6/2020 at 23:45 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
