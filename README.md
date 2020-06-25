@@ -1323,3 +1323,11 @@
 - 25/6/2020 at 7:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
 - 25/6/2020 at 7:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
 - 25/6/2020 at 7:45 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 25/6/2020 at 8:00 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 25/6/2020 at 8:15 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 25/6/2020 at 8:30 -> Crolla un tetto in strada , Muoiono madre e due bimbi
+- 25/6/2020 at 8:45 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 9:00 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 9:15 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 9:30 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 9:45 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
