@@ -1363,3 +1363,11 @@
 - 25/6/2020 at 17:15 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
 - 25/6/2020 at 17:30 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
 - 25/6/2020 at 17:45 -> 'Ancora un po' di tempo,, si tornerà in sicurezza'
+- 25/6/2020 at 18:00 -> Focolaio a Mondragone, Lancio di pietre e sedie
+- 25/6/2020 at 18:15 -> Focolaio a Mondragone, Lancio di pietre e sedie
+- 25/6/2020 at 18:30 -> Focolaio a Mondragone,, Lancio di pietre e sedie
+- 25/6/2020 at 18:45 -> In Italia 296 nuovi contagi Nelle ultime 24 ore 34 morti
+- 25/6/2020 at 19:00 -> In Italia 296 nuovi contagi Nelle ultime 24 ore 34 morti
+- 25/6/2020 at 19:15 -> In Italia 296 nuovi contagi Nelle ultime 24 ore 34 morti
+- 25/6/2020 at 19:30 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 19:45 -> Allo studio nuove misure, , c'è la staffetta generazionale
