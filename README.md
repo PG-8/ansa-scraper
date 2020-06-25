@@ -1339,3 +1339,11 @@
 - 25/6/2020 at 11:15 -> Risparmiatori truffati, , preso l'imprenditore Pesce
 - 25/6/2020 at 11:30 -> Risparmiatori truffati, , preso l'imprenditore Pesce
 - 25/6/2020 at 11:45 -> 'Processo disciplinare , per Palamara e altre 9 toghe'
+- 25/6/2020 at 12:00 -> 'Processo disciplinare , per Palamara e altre 9 toghe'
+- 25/6/2020 at 12:15 -> 'Processo disciplinare , per Palamara e altre 9 toghe'
+- 25/6/2020 at 12:30 -> Aut aut Regioni al Governo:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 12:45 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 13:00 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 13:15 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 13:30 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 13:45 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
