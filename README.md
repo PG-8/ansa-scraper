@@ -1371,3 +1371,11 @@
 - 25/6/2020 at 19:15 -> In Italia 296 nuovi contagi Nelle ultime 24 ore 34 morti
 - 25/6/2020 at 19:30 -> Allo studio nuove misure, , c'è la staffetta generazionale
 - 25/6/2020 at 19:45 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 20:00 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 20:15 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 20:30 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 20:45 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 21:00 -> Allo studio nuove misure, , c'è la staffetta generazionale
+- 25/6/2020 at 21:15 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 21:30 -> Focolai a Mondragone , Lancio di pietre e sedie
+- 25/6/2020 at 21:45 -> Focolai a Mondragone , Lancio di pietre e sedie
