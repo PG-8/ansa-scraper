@@ -1331,3 +1331,11 @@
 - 25/6/2020 at 9:15 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
 - 25/6/2020 at 9:30 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
 - 25/6/2020 at 9:45 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 10:00 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 10:15 -> 'Serve un patto per la sanità', Il ministro lancia l'appello
+- 25/6/2020 at 10:30 -> Risparmiatori truffati, , preso l'imprenditore Pesce
+- 25/6/2020 at 10:45 -> Risparmiatori truffati, , preso l'imprenditore Pesce
+- 25/6/2020 at 11:00 -> Risparmiatori truffati, , preso l'imprenditore Pesce
+- 25/6/2020 at 11:15 -> Risparmiatori truffati, , preso l'imprenditore Pesce
+- 25/6/2020 at 11:30 -> Risparmiatori truffati, , preso l'imprenditore Pesce
+- 25/6/2020 at 11:45 -> 'Processo disciplinare , per Palamara e altre 9 toghe'
