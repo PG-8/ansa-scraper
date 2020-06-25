@@ -1347,3 +1347,11 @@
 - 25/6/2020 at 13:15 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
 - 25/6/2020 at 13:30 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
 - 25/6/2020 at 13:45 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 14:00 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 14:15 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 14:30 -> L'aut aut delle Regioni:, 'Più soldi o stop relazioni'
+- 25/6/2020 at 14:45 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 15:00 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 15:15 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 15:30 -> Focolaio a Mondragone , Alta tensione, va l'esercito
+- 25/6/2020 at 15:45 -> Focolaio a Mondragone , Alta tensione, va l'esercito
