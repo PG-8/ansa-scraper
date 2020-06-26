@@ -1451,3 +1451,11 @@
 - 26/6/2020 at 15:15 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
 - 26/6/2020 at 15:30 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
 - 26/6/2020 at 15:45 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
+- 26/6/2020 at 16:00 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
+- 26/6/2020 at 16:15 -> Scuola, raggiunto l'accordo Ok da Regioni e Enti locali
+- 26/6/2020 at 16:30 -> Scuola, raggiunto l'accordo Ok da Regioni e Enti locali
+- 26/6/2020 at 16:45 -> Scuola, raggiunto l'accordo Bonaccini: 'Ottimo risultato'
+- 26/6/2020 at 17:00 -> Scuola, raggiunto l'accordo Bonaccini: 'Ottimo risultato'
+- 26/6/2020 at 17:15 -> Scuola, raggiunto l'accordo Bonaccini: 'Ottimo risultato'
+- 26/6/2020 at 17:30 -> Accordo sulle linee guida, Scuola al via il 14 settembre
+- 26/6/2020 at 17:45 -> Accordo sulle linee guida, Scuola al via il 14 settembre
