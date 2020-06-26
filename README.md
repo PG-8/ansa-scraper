@@ -1467,3 +1467,11 @@
 - 26/6/2020 at 19:15 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
 - 26/6/2020 at 19:30 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
 - 26/6/2020 at 19:45 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 20:00 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 20:15 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 20:30 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 20:45 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 21:00 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
+- 26/6/2020 at 21:15 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
+- 26/6/2020 at 21:30 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
+- 26/6/2020 at 21:45 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
