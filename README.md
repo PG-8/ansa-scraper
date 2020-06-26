@@ -1427,3 +1427,11 @@
 - 26/6/2020 at 9:15 -> Tensione a Mondragone, incendiato un furgoncino
 - 26/6/2020 at 9:30 -> Tensione a Mondragone, incendiato un furgoncino
 - 26/6/2020 at 9:45 -> Tensione a Mondragone, incendiato un furgoncino
+- 26/6/2020 at 10:00 -> Tensione a Mondragone, incendiato un furgoncino
+- 26/6/2020 at 10:15 -> Tensione a Mondragone, incendiato un furgoncino
+- 26/6/2020 at 10:30 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
+- 26/6/2020 at 10:45 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
+- 26/6/2020 at 11:00 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
+- 26/6/2020 at 11:15 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
+- 26/6/2020 at 11:30 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
+- 26/6/2020 at 11:45 -> Crolla la spesa delle famiglie, consumi -6,4%, su i risparmi
