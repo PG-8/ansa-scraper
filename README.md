@@ -1387,3 +1387,11 @@
 - 25/6/2020 at 23:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
 - 25/6/2020 at 23:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
 - 25/6/2020 at 23:45 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 00:00 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 00:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 00:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 00:45 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 1:00 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 1:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 1:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 1:45 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
