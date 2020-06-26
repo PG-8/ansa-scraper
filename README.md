@@ -1443,3 +1443,11 @@
 - 26/6/2020 at 13:15 -> 'Ora revisione del processo' , Familiari vittime da Conte
 - 26/6/2020 at 13:30 -> 'Ora revisione del processo' , Familiari vittime da Conte
 - 26/6/2020 at 13:45 -> 'Ora revisione del processo' , Familiari vittime da Conte
+- 26/6/2020 at 14:00 -> 'Decorrenza termini', , liberi Buzzi e Gramazio
+- 26/6/2020 at 14:15 -> 'Decorrenza termini', , liberi Buzzi e Gramazio
+- 26/6/2020 at 14:30 -> 'Decorrenza termini', , liberi Buzzi e Gramazio
+- 26/6/2020 at 14:45 -> 'Decorrenza termini', , liberi Buzzi e Gramazio
+- 26/6/2020 at 15:00 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
+- 26/6/2020 at 15:15 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
+- 26/6/2020 at 15:30 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
+- 26/6/2020 at 15:45 -> Di Maio: atto gravissimo, Ex parlamentari: ok sacrifici
