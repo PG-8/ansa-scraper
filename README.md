@@ -1459,3 +1459,11 @@
 - 26/6/2020 at 17:15 -> Scuola, raggiunto l'accordo Bonaccini: 'Ottimo risultato'
 - 26/6/2020 at 17:30 -> Accordo sulle linee guida, Scuola al via il 14 settembre
 - 26/6/2020 at 17:45 -> Accordo sulle linee guida, Scuola al via il 14 settembre
+- 26/6/2020 at 18:00 -> Accordo sulle linee guida, Scuola al via il 14 settembre
+- 26/6/2020 at 18:15 -> Appalti truccati, <br>tre misure cautelari
+- 26/6/2020 at 18:30 -> Appalti truccati, <br>tre misure cautelari
+- 26/6/2020 at 18:45 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 19:00 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 19:15 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 19:30 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
+- 26/6/2020 at 19:45 -> Scuola al via il 14 settembre, Conte: stanziato un miliardo
