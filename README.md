@@ -1419,3 +1419,11 @@
 - 26/6/2020 at 7:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
 - 26/6/2020 at 7:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
 - 26/6/2020 at 7:45 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 8:00 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 8:15 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 8:30 -> Annullato il taglio dei vitalizi, Caos e ira del Movimento 5s
+- 26/6/2020 at 8:45 -> Appalti truccati in Sicilia,  tre misure cautelari
+- 26/6/2020 at 9:00 -> Appalti truccati in Sicilia,  tre misure cautelari
+- 26/6/2020 at 9:15 -> Tensione a Mondragone, incendiato un furgoncino
+- 26/6/2020 at 9:30 -> Tensione a Mondragone, incendiato un furgoncino
+- 26/6/2020 at 9:45 -> Tensione a Mondragone, incendiato un furgoncino
