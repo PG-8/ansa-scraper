@@ -1523,3 +1523,11 @@
 - 27/6/2020 at 9:15 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
 - 27/6/2020 at 9:30 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
 - 27/6/2020 at 9:45 -> Scuola al via il 14 settembre, Conte: 'Basta classi pollaio'
+- 27/6/2020 at 10:00 -> 40 anni fa la strage di Ustica
+- 27/6/2020 at 10:15 -> 40 anni fa la strage di Ustica
+- 27/6/2020 at 10:30 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 10:45 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 11:00 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 11:15 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 11:30 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 11:45 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
