@@ -1531,3 +1531,11 @@
 - 27/6/2020 at 11:15 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
 - 27/6/2020 at 11:30 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
 - 27/6/2020 at 11:45 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 12:00 -> Mattarella: 'Paesi alleati aiutino a trovare la verità'
+- 27/6/2020 at 12:15 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 12:30 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 12:45 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 13:00 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 13:15 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 13:30 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 13:45 -> Strangola i figli e si suicida , La coppia si stava separando
