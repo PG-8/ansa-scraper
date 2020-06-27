@@ -1547,3 +1547,11 @@
 - 27/6/2020 at 15:15 -> Strangola i figli e si suicida , La coppia si stava separando
 - 27/6/2020 at 15:30 -> Allerta caldo per tre città: Brescia, Bologna e Perugia
 - 27/6/2020 at 15:45 -> Allerta caldo per tre città: Brescia, Bologna e Perugia
+- 27/6/2020 at 16:00 -> Allerta caldo per tre città: Brescia, Bologna e Perugia
+- 27/6/2020 at 16:15 -> Allerta caldo per tre città:, Brescia, Bologna e Perugia
+- 27/6/2020 at 16:30 -> Allerta caldo per tre città:, Brescia, Bologna e Perugia
+- 27/6/2020 at 16:45 -> Allerta caldo per tre città:, Brescia, Bologna e Perugia
+- 27/6/2020 at 17:00 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
+- 27/6/2020 at 17:15 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
+- 27/6/2020 at 17:30 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
+- 27/6/2020 at 17:45 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
