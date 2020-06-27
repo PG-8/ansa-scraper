@@ -1555,3 +1555,11 @@
 - 27/6/2020 at 17:15 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
 - 27/6/2020 at 17:30 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
 - 27/6/2020 at 17:45 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
+- 27/6/2020 at 18:00 -> 'Recupereremo 3mila edifici,, un'aula per tutti gli studenti'
+- 27/6/2020 at 18:15 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 18:30 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 18:45 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 19:00 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 19:15 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 19:30 -> Calano i contagi e le vittime, Giù anche le terapie intesive
+- 27/6/2020 at 19:45 -> Calano i contagi e le vittime, Giù anche le terapie intesive
