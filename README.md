@@ -1539,3 +1539,11 @@
 - 27/6/2020 at 13:15 -> Strangola i figli e si suicida , La coppia si stava separando
 - 27/6/2020 at 13:30 -> Strangola i figli e si suicida , La coppia si stava separando
 - 27/6/2020 at 13:45 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 14:00 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 14:15 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 14:30 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 14:45 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 15:00 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 15:15 -> Strangola i figli e si suicida , La coppia si stava separando
+- 27/6/2020 at 15:30 -> Allerta caldo per tre città: Brescia, Bologna e Perugia
+- 27/6/2020 at 15:45 -> Allerta caldo per tre città: Brescia, Bologna e Perugia
