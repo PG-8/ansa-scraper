@@ -1611,3 +1611,11 @@
 - 28/6/2020 at 7:15 -> Calano i contagi e le vittime, Giù anche terapie intensive
 - 28/6/2020 at 7:30 -> Calano i contagi e le vittime, Giù anche terapie intensive
 - 28/6/2020 at 7:45 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 8:00 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 8:15 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 8:30 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 8:45 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 9:00 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 9:15 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 9:30 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 9:45 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
