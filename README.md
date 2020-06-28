@@ -1595,3 +1595,11 @@
 - 28/6/2020 at 3:15 -> Calano i contagi e le vittime, Giù anche terapie intensive
 - 28/6/2020 at 3:30 -> Calano i contagi e le vittime, Giù anche terapie intensive
 - 28/6/2020 at 3:45 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 4:00 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 4:15 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 4:30 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 4:45 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 5:00 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 5:15 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 5:30 -> Calano i contagi e le vittime, Giù anche terapie intensive
+- 28/6/2020 at 5:45 -> Calano i contagi e le vittime, Giù anche terapie intensive
