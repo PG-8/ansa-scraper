@@ -1667,3 +1667,11 @@
 - 28/6/2020 at 21:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
 - 28/6/2020 at 21:30 -> Mattarella a Bergamo, 'Qui c'è l'Italia che ha pianto'
 - 28/6/2020 at 21:45 -> Mattarella a Bergamo, 'Qui c'è l'Italia che ha pianto'
+- 28/6/2020 at 22:00 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 22:15 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 22:30 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 22:45 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 23:00 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 23:15 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 23:30 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 28/6/2020 at 23:45 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
