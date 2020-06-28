@@ -1635,3 +1635,11 @@
 - 28/6/2020 at 13:15 -> 'Da luglio il taglio del cuneo, poi ambiziosa riforma fisco'
 - 28/6/2020 at 13:30 -> 'Da luglio il taglio del cuneo, poi ambiziosa riforma fisco'
 - 28/6/2020 at 13:45 -> 'Da luglio il taglio del cuneo, poi ambiziosa riforma fisco'
+- 28/6/2020 at 14:00 -> Le regole per affittare casa, quanto e come pagare
+- 28/6/2020 at 14:15 -> Le regole per affittare casa, quanto e come pagare
+- 28/6/2020 at 14:30 -> Le regole per affittare casa, quanto e come pagare
+- 28/6/2020 at 14:45 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 15:00 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 15:15 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 15:30 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 15:45 -> Le regole per affittare casa, ecco quanto e come pagare
