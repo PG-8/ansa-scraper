@@ -1619,3 +1619,11 @@
 - 28/6/2020 at 9:15 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
 - 28/6/2020 at 9:30 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
 - 28/6/2020 at 9:45 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 10:00 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 10:15 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 10:30 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 10:45 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 11:00 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 11:15 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 11:30 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
+- 28/6/2020 at 11:45 -> America Latina, salgono casi, In Cina 17 contagi in 24 ore
