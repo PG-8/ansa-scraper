@@ -1651,3 +1651,11 @@
 - 28/6/2020 at 17:15 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
 - 28/6/2020 at 17:30 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
 - 28/6/2020 at 17:45 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
+- 28/6/2020 at 18:00 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 18:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 18:30 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 18:45 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 19:00 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 19:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 19:30 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 19:45 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
