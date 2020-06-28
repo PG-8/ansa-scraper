@@ -1659,3 +1659,11 @@
 - 28/6/2020 at 19:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
 - 28/6/2020 at 19:30 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
 - 28/6/2020 at 19:45 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 20:00 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 20:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 20:30 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 20:45 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 21:00 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 21:15 -> Stabile il dato dei nuovi casi, ma aumentano le vittime
+- 28/6/2020 at 21:30 -> Mattarella a Bergamo, 'Qui c'è l'Italia che ha pianto'
+- 28/6/2020 at 21:45 -> Mattarella a Bergamo, 'Qui c'è l'Italia che ha pianto'
