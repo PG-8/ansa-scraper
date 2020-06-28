@@ -1643,3 +1643,11 @@
 - 28/6/2020 at 15:15 -> Le regole per affittare casa, ecco quanto e come pagare
 - 28/6/2020 at 15:30 -> Le regole per affittare casa, ecco quanto e come pagare
 - 28/6/2020 at 15:45 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 16:00 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 16:15 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 16:30 -> Le regole per affittare casa, ecco quanto e come pagare
+- 28/6/2020 at 16:45 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
+- 28/6/2020 at 17:00 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
+- 28/6/2020 at 17:15 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
+- 28/6/2020 at 17:30 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
+- 28/6/2020 at 17:45 -> 'Mes si rinvia? Non votiamo lo scostamento di bilancio'
