@@ -1723,3 +1723,11 @@
 - 29/6/2020 at 11:15 -> Naufragio nel mar Egeo, , quattro migranti dispersi
 - 29/6/2020 at 11:30 -> 'A settembre per la scuola avremo 2,5 miliardi'
 - 29/6/2020 at 11:45 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 12:00 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 12:15 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 12:30 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 12:45 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 13:00 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 13:15 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 13:30 -> 'Alla scuola 2,5 miliardi, Il plexiglass? Una bufala'
+- 29/6/2020 at 13:45 -> In Lombardia mascherina obbligatoria fino al 14 luglio
