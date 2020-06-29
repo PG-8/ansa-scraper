@@ -1707,3 +1707,11 @@
 - 29/6/2020 at 7:15 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
 - 29/6/2020 at 7:30 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
 - 29/6/2020 at 7:45 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 29/6/2020 at 8:00 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 29/6/2020 at 8:15 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 29/6/2020 at 8:30 -> 'Qui c'è l'Italia che ha pianto, riflettere sugli errori'
+- 29/6/2020 at 8:45 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 9:00 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 9:15 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 9:30 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 9:45 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
