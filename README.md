@@ -1715,3 +1715,11 @@
 - 29/6/2020 at 9:15 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
 - 29/6/2020 at 9:30 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
 - 29/6/2020 at 9:45 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 10:00 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 10:15 -> In Usa altre 288 vittime , Messico, 4.050 casi in 24 ore
+- 29/6/2020 at 10:30 -> Naufragio nel mar Egeo, , quattro migranti dispersi
+- 29/6/2020 at 10:45 -> Naufragio nel mar Egeo, , quattro migranti dispersi
+- 29/6/2020 at 11:00 -> Naufragio nel mar Egeo, , quattro migranti dispersi
+- 29/6/2020 at 11:15 -> Naufragio nel mar Egeo, , quattro migranti dispersi
+- 29/6/2020 at 11:30 -> 'A settembre per la scuola avremo 2,5 miliardi'
+- 29/6/2020 at 11:45 -> 'A settembre per la scuola avremo 2,5 miliardi'
