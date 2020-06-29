@@ -1747,3 +1747,11 @@
 - 29/6/2020 at 17:15 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
 - 29/6/2020 at 17:30 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
 - 29/6/2020 at 17:45 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 18:00 -> Le vittime al minimo, +6, Calano i nuovi contagi: 126
+- 29/6/2020 at 18:15 -> Le vittime al minimo, +6, Calano i nuovi contagi: 126
+- 29/6/2020 at 18:30 -> Le vittime al minimo, +6, Calano i nuovi contagi: 126
+- 29/6/2020 at 18:45 -> Le vittime al minimo, +6, Calano i nuovi contagi: 126
+- 29/6/2020 at 19:00 -> Zanardi di nuovo operato, Le condizione restano stabili
+- 29/6/2020 at 19:15 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 19:30 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 19:45 -> Alex Zanardi operato , di nuovo al cervello
