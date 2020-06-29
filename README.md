@@ -1731,3 +1731,11 @@
 - 29/6/2020 at 13:15 -> 'A settembre per la scuola avremo 2,5 miliardi'
 - 29/6/2020 at 13:30 -> 'Alla scuola 2,5 miliardi, Il plexiglass? Una bufala'
 - 29/6/2020 at 13:45 -> In Lombardia mascherina obbligatoria fino al 14 luglio
+- 29/6/2020 at 14:00 -> In Lombardia mascherina obbligatoria fino al 14 luglio
+- 29/6/2020 at 14:15 -> In Lombardia mascherina obbligatoria fino al 14 luglio
+- 29/6/2020 at 14:30 -> In Lombardia mascherina obbligatoria fino al 14 luglio
+- 29/6/2020 at 14:45 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 15:00 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 15:15 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 15:30 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 15:45 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
