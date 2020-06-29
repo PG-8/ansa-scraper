@@ -1739,3 +1739,11 @@
 - 29/6/2020 at 15:15 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
 - 29/6/2020 at 15:30 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
 - 29/6/2020 at 15:45 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 16:00 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 16:15 -> Test obbligatori alle badanti, al rientro dai Paesi extra Ue
+- 29/6/2020 at 16:30 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 16:45 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 17:00 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 17:15 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 17:30 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
+- 29/6/2020 at 17:45 -> Bonus baby sitter ai nonni Bonetti: 'Proteggiamoli'
