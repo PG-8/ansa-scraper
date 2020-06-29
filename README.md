@@ -1755,3 +1755,11 @@
 - 29/6/2020 at 19:15 -> Alex Zanardi operato , di nuovo al cervello
 - 29/6/2020 at 19:30 -> Alex Zanardi operato , di nuovo al cervello
 - 29/6/2020 at 19:45 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 20:00 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 20:15 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 20:30 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 20:45 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 21:00 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 21:15 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 21:30 -> Alex Zanardi operato , di nuovo al cervello
+- 29/6/2020 at 21:45 -> Alex Zanardi operato , di nuovo al cervello
