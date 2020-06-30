@@ -1819,3 +1819,11 @@
 - 30/6/2020 at 11:15 -> A rischio le librerie in Italia l'84% sono in difficoltà
 - 30/6/2020 at 11:30 -> Prezzi in lieve aumento , Pesa il calo dell'energia
 - 30/6/2020 at 11:45 -> Prezzi in lieve aumento,  Il carrello della spesa +2,4%
+- 30/6/2020 at 12:00 -> Prezzi in lieve aumento,  Il carrello della spesa +2,4%
+- 30/6/2020 at 12:15 -> Prezzi in lieve aumento,  Il carrello della spesa +2,4%
+- 30/6/2020 at 12:30 -> Sos per l'inizio dell'anno 85mila le cattedre vacanti
+- 30/6/2020 at 12:45 -> Sos per l'inizio dell'anno 85mila le cattedre vacanti
+- 30/6/2020 at 13:00 -> Sos per l'inizio dell'anno 85mila le cattedre vacanti
+- 30/6/2020 at 13:15 -> Sos per l'inizio dell'anno 85mila le cattedre vacanti
+- 30/6/2020 at 13:30 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 13:45 -> Nuova sparatoria a Seattle,, ucciso un teenager
