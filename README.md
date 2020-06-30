@@ -1851,3 +1851,11 @@
 - 30/6/2020 at 19:15 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
 - 30/6/2020 at 19:30 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
 - 30/6/2020 at 19:45 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 20:00 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 20:15 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 20:30 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 20:45 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 21:00 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 21:15 -> Verso il superbonus al 110% anche per le seconde case
+- 30/6/2020 at 21:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 30/6/2020 at 21:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
