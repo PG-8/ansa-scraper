@@ -1835,3 +1835,11 @@
 - 30/6/2020 at 15:15 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
 - 30/6/2020 at 15:30 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
 - 30/6/2020 at 15:45 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 16:00 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 16:15 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 16:30 -> La Destra va all'attacco, Fi: commissione d'inchiesta
+- 30/6/2020 at 16:45 -> Ira della Destra: 'Ora verità, Commissione d'inchiesta'
+- 30/6/2020 at 17:00 -> La Destra: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 17:15 -> La Destra: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 17:30 -> La Destra: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 17:45 -> Fi attacca: 'Cav perseguitato, Commissione d'inchiesta'
