@@ -1843,3 +1843,11 @@
 - 30/6/2020 at 17:15 -> La Destra: 'Cav perseguitato, Commissione d'inchiesta'
 - 30/6/2020 at 17:30 -> La Destra: 'Cav perseguitato, Commissione d'inchiesta'
 - 30/6/2020 at 17:45 -> Fi attacca: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 18:00 -> Fi attacca: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 18:15 -> Fi attacca: 'Cav perseguitato, Commissione d'inchiesta'
+- 30/6/2020 at 18:30 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 18:45 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 19:00 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 19:15 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 19:30 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
+- 30/6/2020 at 19:45 -> Salgono i contagi e le vittime , I guariti sono oltre 190mila
