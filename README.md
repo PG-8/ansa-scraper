@@ -1827,3 +1827,11 @@
 - 30/6/2020 at 13:15 -> Sos per l'inizio dell'anno 85mila le cattedre vacanti
 - 30/6/2020 at 13:30 -> Nuova sparatoria a Seattle,, ucciso un teenager
 - 30/6/2020 at 13:45 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 14:00 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 14:15 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 14:30 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 14:45 -> Nuova sparatoria a Seattle,, ucciso un teenager
+- 30/6/2020 at 15:00 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 15:15 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 15:30 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
+- 30/6/2020 at 15:45 -> Ad Alzano 110 polmoniti 'strane' già lo scorso inverno
