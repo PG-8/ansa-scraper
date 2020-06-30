@@ -1811,3 +1811,11 @@
 - 30/6/2020 at 9:15 -> Hong Kong, la Cina vara legge di sicurezza nazionale
 - 30/6/2020 at 9:30 -> Hong Kong, la Cina vara legge di sicurezza nazionale
 - 30/6/2020 at 9:45 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 10:00 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 10:15 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 10:30 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 10:45 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 11:00 -> A rischio le librerie in Italia l'84% sono in difficoltà
+- 30/6/2020 at 11:15 -> A rischio le librerie in Italia l'84% sono in difficoltà
+- 30/6/2020 at 11:30 -> Prezzi in lieve aumento , Pesa il calo dell'energia
+- 30/6/2020 at 11:45 -> Prezzi in lieve aumento,  Il carrello della spesa +2,4%
