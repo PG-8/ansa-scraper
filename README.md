@@ -1803,3 +1803,11 @@
 - 30/6/2020 at 7:15 -> Alex Zanardi operato , di nuovo al cervello
 - 30/6/2020 at 7:30 -> Alex Zanardi operato , di nuovo al cervello
 - 30/6/2020 at 7:45 -> Alex Zanardi operato , di nuovo al cervello
+- 30/6/2020 at 8:00 -> Alex Zanardi operato , di nuovo al cervello
+- 30/6/2020 at 8:15 -> Alex Zanardi operato , di nuovo al cervello
+- 30/6/2020 at 8:30 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 8:45 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 9:00 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 9:15 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 9:30 -> Hong Kong, la Cina vara legge di sicurezza nazionale
+- 30/6/2020 at 9:45 -> Hong Kong, la Cina vara legge di sicurezza nazionale
