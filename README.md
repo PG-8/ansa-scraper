@@ -1891,3 +1891,11 @@
 - 1/7/2020 at 5:15 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
 - 1/7/2020 at 5:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
 - 1/7/2020 at 5:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 6:00 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 6:15 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 6:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 6:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 7:00 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 7:15 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 7:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 7:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
