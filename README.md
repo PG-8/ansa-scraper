@@ -1899,3 +1899,11 @@
 - 1/7/2020 at 7:15 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
 - 1/7/2020 at 7:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
 - 1/7/2020 at 7:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 8:00 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 8:15 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 8:30 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 8:45 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 9:00 -> L'Ue riapre, ma non agli Usa In Italia resta la quarantena
+- 1/7/2020 at 9:15 -> Maxi sequestro a Salerno,, 14 tonnellate di droga di Isis
+- 1/7/2020 at 9:30 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 9:45 -> Migranti da regolarizzare, , arrivate 80mila domande
