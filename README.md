@@ -1907,3 +1907,11 @@
 - 1/7/2020 at 9:15 -> Maxi sequestro a Salerno,, 14 tonnellate di droga di Isis
 - 1/7/2020 at 9:30 -> Migranti da regolarizzare, , arrivate 80mila domande
 - 1/7/2020 at 9:45 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 10:00 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 10:15 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 10:30 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 10:45 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 11:00 -> Migranti da regolarizzare, , arrivate 80mila domande
+- 1/7/2020 at 11:15 -> Risarcimenti da Weinstein, 19 milioni alle sue vittime
+- 1/7/2020 at 11:30 -> Accordo sui risarcimenti, , alle vittime 19 milioni
+- 1/7/2020 at 11:45 -> Accordo sui risarcimenti, , alle vittime 19 milioni
