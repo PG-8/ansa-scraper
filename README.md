@@ -1939,3 +1939,11 @@
 - 1/7/2020 at 17:15 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
 - 1/7/2020 at 17:30 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
 - 1/7/2020 at 17:45 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 18:00 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 18:15 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 18:30 -> Crescono i contagi, +182, In lieve calo le vittime
+- 1/7/2020 at 18:45 -> Crescono i contagi, +182, In lieve calo le vittime
+- 1/7/2020 at 19:00 -> Crescono i contagi, +182, In lieve calo le vittime
+- 1/7/2020 at 19:15 -> Crescono i contagi, +182, In lieve calo le vittime
+- 1/7/2020 at 19:30 -> Crescono i contagi, +182, In lieve calo le vittime
+- 1/7/2020 at 19:45 -> Italia e Spagna
