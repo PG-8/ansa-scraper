@@ -1923,3 +1923,11 @@
 - 1/7/2020 at 13:15 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
 - 1/7/2020 at 13:30 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
 - 1/7/2020 at 13:45 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 14:00 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 14:15 -> Al via il bonus vacanze, Chiesto da 72mila famiglie
+- 1/7/2020 at 14:30 -> Al via il bonus vacanze, Chiesto da 72mila famiglie
+- 1/7/2020 at 14:45 -> Al via il bonus vacanze, Chiesto da 72mila famiglie
+- 1/7/2020 at 15:00 -> L'aeroporto di Linate , apre dal 13 luglio
+- 1/7/2020 at 15:15 -> L'aeroporto di Linate , apre dal 13 luglio
+- 1/7/2020 at 15:30 -> 'Il decreto Semplificazioni madre di tutte le riforme'
+- 1/7/2020 at 15:45 -> Non c'è alcuna connessione tra Mes e politica di bilancio
