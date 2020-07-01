@@ -1915,3 +1915,11 @@
 - 1/7/2020 at 11:15 -> Risarcimenti da Weinstein, 19 milioni alle sue vittime
 - 1/7/2020 at 11:30 -> Accordo sui risarcimenti, , alle vittime 19 milioni
 - 1/7/2020 at 11:45 -> Accordo sui risarcimenti, , alle vittime 19 milioni
+- 1/7/2020 at 12:00 -> Covid e maltempo,, flop delle spiagge a giugno
+- 1/7/2020 at 12:15 -> Covid e maltempo,, flop delle spiagge a giugno
+- 1/7/2020 at 12:30 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 12:45 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 13:00 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 13:15 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 13:30 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
+- 1/7/2020 at 13:45 -> Migliaia in piazza, 80 arresti, Ue: tutelare diritti e libertà
