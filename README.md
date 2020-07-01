@@ -1931,3 +1931,11 @@
 - 1/7/2020 at 15:15 -> L'aeroporto di Linate , apre dal 13 luglio
 - 1/7/2020 at 15:30 -> 'Il decreto Semplificazioni madre di tutte le riforme'
 - 1/7/2020 at 15:45 -> Non c'è alcuna connessione tra Mes e politica di bilancio
+- 1/7/2020 at 16:00 -> Non c'è alcuna connessione tra Mes e politica di bilancio
+- 1/7/2020 at 16:15 -> 'Non c'è alcuna connessione tra Mes e bilancio o tasse'
+- 1/7/2020 at 16:30 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 16:45 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 17:00 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 17:15 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 17:30 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
+- 1/7/2020 at 17:45 -> 'Non c'è alcuna connessione tra Mes, bilancio o tasse'
