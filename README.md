@@ -1947,3 +1947,11 @@
 - 1/7/2020 at 19:15 -> Crescono i contagi, +182, In lieve calo le vittime
 - 1/7/2020 at 19:30 -> Crescono i contagi, +182, In lieve calo le vittime
 - 1/7/2020 at 19:45 -> Italia e Spagna
+- 1/7/2020 at 20:00 -> L'Oms loda Italia e Spagna , nella lotta alla pandemia
+- 1/7/2020 at 20:15 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
+- 1/7/2020 at 20:30 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
+- 1/7/2020 at 20:45 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
+- 1/7/2020 at 21:00 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
+- 1/7/2020 at 21:15 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
+- 1/7/2020 at 21:30 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 21:45 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
