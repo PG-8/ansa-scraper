@@ -1955,3 +1955,11 @@
 - 1/7/2020 at 21:15 -> Crescono i contagi, +187, Oms plaude Italia e Spagna
 - 1/7/2020 at 21:30 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
 - 1/7/2020 at 21:45 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 22:00 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 22:15 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 22:30 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 22:45 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 23:00 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 23:15 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 23:30 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
+- 1/7/2020 at 23:45 -> 'Nessun legame tra Mes, politica di bilancio e tasse'
