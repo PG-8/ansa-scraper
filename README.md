@@ -2051,3 +2051,11 @@
 - 2/7/2020 at 21:15 -> Crescono i contagi, +201, Le nuove vittime sono 30
 - 2/7/2020 at 21:30 -> Crescono i contagi, +201, Le nuove vittime sono 30
 - 2/7/2020 at 21:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 22:00 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 22:15 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 22:30 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 22:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 23:00 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 23:15 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 23:30 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 23:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
