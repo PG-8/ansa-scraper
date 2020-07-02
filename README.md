@@ -2019,3 +2019,11 @@
 - 2/7/2020 at 13:15 -> Prezzi alti e qualità in calo per guanti e mascherine
 - 2/7/2020 at 13:30 -> Prezzi alti e qualità in calo per guanti e mascherine
 - 2/7/2020 at 13:45 -> Con emergenza Covid al Nord calo 50% valore appalti
+- 2/7/2020 at 14:00 -> Con emergenza Covid al Nord calo 50% valore appalti
+- 2/7/2020 at 14:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 14:30 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 14:45 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 15:00 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 15:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 15:30 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 15:45 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
