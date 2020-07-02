@@ -2027,3 +2027,11 @@
 - 2/7/2020 at 15:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
 - 2/7/2020 at 15:30 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
 - 2/7/2020 at 15:45 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 16:00 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 16:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 16:30 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 16:45 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 17:00 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 17:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
+- 2/7/2020 at 17:30 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
+- 2/7/2020 at 17:45 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
