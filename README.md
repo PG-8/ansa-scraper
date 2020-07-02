@@ -2035,3 +2035,11 @@
 - 2/7/2020 at 17:15 -> Riconosciuta l'immunità, , arbitrato dà ragione all'Italia
 - 2/7/2020 at 17:30 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
 - 2/7/2020 at 17:45 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
+- 2/7/2020 at 18:00 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
+- 2/7/2020 at 18:15 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
+- 2/7/2020 at 18:30 -> Conte: 'Dobbiamo tutti osare, E' il momento del coraggio'
+- 2/7/2020 at 18:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 19:00 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 19:15 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 19:30 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 2/7/2020 at 19:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
