@@ -2003,3 +2003,11 @@
 - 2/7/2020 at 9:15 -> Frana in miniera di giada, , 113 morti nel Myanmar
 - 2/7/2020 at 9:30 -> Frana in miniera di giada, , 113 morti nel Myanmar
 - 2/7/2020 at 9:45 -> Frana in miniera di giada, , 113 morti nel Myanmar
+- 2/7/2020 at 10:00 -> Frana in miniera di giada, , 113 morti nel Myanmar
+- 2/7/2020 at 10:15 -> Frana in miniera di giada, , 113 morti nel Myanmar
+- 2/7/2020 at 10:30 -> Frana in miniera di giada, , 113 morti nel Myanmar
+- 2/7/2020 at 10:45 -> Gentiloni, serve saggezza su tempi e modi ritorno al Patto
+- 2/7/2020 at 11:00 -> Mezzo milione di occupati , in meno da febbraio
+- 2/7/2020 at 11:15 -> Mezzo milione di occupati , in meno da febbraio
+- 2/7/2020 at 11:30 -> Prezzi alti e qualità in calo per guanti e mascherine
+- 2/7/2020 at 11:45 -> Prezzi alti e qualità in calo per guanti e mascherine
