@@ -2107,3 +2107,11 @@
 - 3/7/2020 at 11:15 -> Istat, dai figli al lavoro crescono le disuguaglianze
 - 3/7/2020 at 11:30 -> Meno figli, giù il lavoro  crescono le disuguaglianze
 - 3/7/2020 at 11:45 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 12:00 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 12:15 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 12:30 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 12:45 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 13:00 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 13:15 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
+- 3/7/2020 at 13:30 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
+- 3/7/2020 at 13:45 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
