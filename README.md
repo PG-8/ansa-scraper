@@ -2115,3 +2115,11 @@
 - 3/7/2020 at 13:15 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
 - 3/7/2020 at 13:30 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
 - 3/7/2020 at 13:45 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
+- 3/7/2020 at 14:00 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
+- 3/7/2020 at 14:15 -> Esteso congedo per i genitori, Si può usare fino al 31 agosto
+- 3/7/2020 at 14:30 -> Veneto inasprisce le regole, Lunedì la nuova ordinanza
+- 3/7/2020 at 14:45 -> Veneto inasprisce le regole, Lunedì la nuova ordinanza
+- 3/7/2020 at 15:00 -> Zaia: 'Alcuni irresponsabili, prevedere anche il carcere'
+- 3/7/2020 at 15:15 -> Zaia: 'Alcuni irresponsabili, prevedere anche il carcere'
+- 3/7/2020 at 15:30 -> Zaia: 'Alcuni irresponsabili, prevedere anche il carcere'
+- 3/7/2020 at 15:45 -> Zaia: 'Alcuni irresponsabili, prevedere anche il carcere'
