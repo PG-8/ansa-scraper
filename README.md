@@ -2099,3 +2099,11 @@
 - 3/7/2020 at 9:15 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
 - 3/7/2020 at 9:30 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
 - 3/7/2020 at 9:45 -> Mesina è irreperibile, , ieri la condanna definitiva
+- 3/7/2020 at 10:00 -> Mesina è irreperibile, , ieri la condanna definitiva
+- 3/7/2020 at 10:15 -> Mesina è irreperibile, , ieri la condanna definitiva
+- 3/7/2020 at 10:30 -> Mesina è irreperibile, , ieri la condanna definitiva
+- 3/7/2020 at 10:45 -> Il 12% delle imprese pensa , di ridurre l'occupazione
+- 3/7/2020 at 11:00 -> Istat, dai figli al lavoro , crescono le disuguaglianze
+- 3/7/2020 at 11:15 -> Istat, dai figli al lavoro crescono le disuguaglianze
+- 3/7/2020 at 11:30 -> Meno figli, giù il lavoro  crescono le disuguaglianze
+- 3/7/2020 at 11:45 -> Meno figli, giù il lavoro  crescono le disuguaglianze
