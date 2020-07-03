@@ -2091,3 +2091,11 @@
 - 3/7/2020 at 7:15 -> Crescono i contagi, +201, Le nuove vittime sono 30
 - 3/7/2020 at 7:30 -> Crescono i contagi, +201, Le nuove vittime sono 30
 - 3/7/2020 at 7:45 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 3/7/2020 at 8:00 -> Crescono i contagi, +201, Le nuove vittime sono 30
+- 3/7/2020 at 8:15 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 8:30 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 8:45 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 9:00 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 9:15 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 9:30 -> Usa, 53mila casi in 24 ore, A Miami scatta il coprifuoco
+- 3/7/2020 at 9:45 -> Mesina è irreperibile, , ieri la condanna definitiva
