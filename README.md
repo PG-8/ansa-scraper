@@ -2139,3 +2139,11 @@
 - 3/7/2020 at 19:15 -> Contagi ancora su, +223 , Le vittime sono 15
 - 3/7/2020 at 19:30 -> Contagi ancora su, +223 , Le vittime sono 15
 - 3/7/2020 at 19:45 -> Contagi ancora su, +223 , Le vittime sono 15
+- 3/7/2020 at 20:00 -> Contagi ancora su, +223 , Le vittime sono 15
+- 3/7/2020 at 20:15 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 20:30 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 20:45 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 21:00 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 21:15 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 21:30 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
+- 3/7/2020 at 21:45 -> Risale l'indice di contagio , Ira di Zaia: 'Regole più dure'
