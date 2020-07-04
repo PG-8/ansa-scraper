@@ -2203,3 +2203,11 @@
 - 4/7/2020 at 11:15 -> Con la cattiva burocrazia persi 70 miliardi di Pil
 - 4/7/2020 at 11:30 -> Con la cattiva burocrazia persi 70 miliardi di Pil
 - 4/7/2020 at 11:45 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 12:00 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 12:15 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 12:30 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 12:45 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 13:00 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 13:15 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 13:30 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 13:45 -> 'Non siamo attendisti, è vero il contrario'
