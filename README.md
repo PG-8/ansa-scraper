@@ -2219,3 +2219,11 @@
 - 4/7/2020 at 15:15 -> Diffusore del contagio  segnalato alla Procura
 - 4/7/2020 at 15:30 -> Diffusore del contagio  segnalato alla Procura
 - 4/7/2020 at 15:45 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 16:00 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 16:15 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 16:30 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 16:45 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 17:00 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 17:15 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 17:30 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 17:45 -> Diffusore del contagio  segnalato alla Procura
