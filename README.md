@@ -2227,3 +2227,11 @@
 - 4/7/2020 at 17:15 -> Diffusore del contagio  segnalato alla Procura
 - 4/7/2020 at 17:30 -> Diffusore del contagio  segnalato alla Procura
 - 4/7/2020 at 17:45 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 18:00 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 18:15 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 18:30 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 18:45 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 19:00 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 19:15 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 19:30 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
+- 4/7/2020 at 19:45 -> I contagi ancora su, +235 , Le vittime di Covid sono 21
