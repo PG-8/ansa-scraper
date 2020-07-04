@@ -2211,3 +2211,11 @@
 - 4/7/2020 at 13:15 -> 'Non siamo attendisti, è vero il contrario'
 - 4/7/2020 at 13:30 -> 'Non siamo attendisti, è vero il contrario'
 - 4/7/2020 at 13:45 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 14:00 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 14:15 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 14:30 -> 'Non siamo attendisti, è vero il contrario'
+- 4/7/2020 at 14:45 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 15:00 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 15:15 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 15:30 -> Diffusore del contagio  segnalato alla Procura
+- 4/7/2020 at 15:45 -> Diffusore del contagio  segnalato alla Procura
