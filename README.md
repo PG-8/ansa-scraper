@@ -2195,3 +2195,11 @@
 - 4/7/2020 at 9:15 -> Blitz anti pedopornografia, arresti in 15 regioni
 - 4/7/2020 at 9:30 -> Blitz anti pedopornografia, arresti in 15 regioni
 - 4/7/2020 at 9:45 -> Blitz anti pedopornografia, arresti in 15 regioni
+- 4/7/2020 at 10:00 -> Blitz anti pedopornografia, arresti in 15 regioni
+- 4/7/2020 at 10:15 -> Blitz anti pedopornografia, arresti in 15 regioni
+- 4/7/2020 at 10:30 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 10:45 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 11:00 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 11:15 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 11:30 -> Con la cattiva burocrazia persi 70 miliardi di Pil
+- 4/7/2020 at 11:45 -> Con la cattiva burocrazia persi 70 miliardi di Pil
