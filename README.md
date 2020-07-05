@@ -2291,3 +2291,11 @@
 - 5/7/2020 at 9:15 -> I contagi ancora in crescita, Timori per i nuovi focolai
 - 5/7/2020 at 9:30 -> I contagi ancora in crescita, Timori per i nuovi focolai
 - 5/7/2020 at 9:45 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 10:00 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 10:15 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 10:30 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 10:45 -> Trovato morto speleologo., Era disperso in una grotta
+- 5/7/2020 at 11:00 -> Trovato morto speleologo., Era disperso in una grotta
+- 5/7/2020 at 11:15 -> Trovato morto speleologo., Era disperso in una grotta
+- 5/7/2020 at 11:30 -> Trovato morto speleologo., Era disperso in una grotta
+- 5/7/2020 at 11:45 -> Trovato morto speleologo, Era disperso in una grotta
