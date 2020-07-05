@@ -2251,3 +2251,11 @@
 - 4/7/2020 at 23:15 -> I contagi ancora in crescita, Timori per i nuovi focolai
 - 4/7/2020 at 23:30 -> I contagi ancora in crescita, Timori per i nuovi focolai
 - 4/7/2020 at 23:45 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 00:00 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 00:15 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 00:30 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 00:45 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 1:00 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 1:15 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 1:30 -> I contagi ancora in crescita, Timori per i nuovi focolai
+- 5/7/2020 at 1:45 -> I contagi ancora in crescita, Timori per i nuovi focolai
