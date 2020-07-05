@@ -2323,3 +2323,11 @@
 - 5/7/2020 at 17:15 -> Il ministero verificherà sull'estensione del Tso
 - 5/7/2020 at 17:30 -> Il ministero verificherà sull'estensione del Tso
 - 5/7/2020 at 17:45 -> Il ministero verificherà sull'estensione del Tso
+- 5/7/2020 at 18:00 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 18:15 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 18:30 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 18:45 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 19:00 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 19:15 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 19:30 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 5/7/2020 at 19:45 -> I contagi calano, +192 , Giù anche le vittime, 7
