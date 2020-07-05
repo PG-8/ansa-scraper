@@ -2315,3 +2315,11 @@
 - 5/7/2020 at 15:15 -> 'Crisi Covid devastante, , non c'è tempo da perdere'
 - 5/7/2020 at 15:30 -> Piloti in ginocchio in Austria Il gesto contro il razzismo
 - 5/7/2020 at 15:45 -> Piloti in ginocchio in Austria Il gesto contro il razzismo
+- 5/7/2020 at 16:00 -> Piloti in ginocchio in Austria Il gesto contro il razzismo
+- 5/7/2020 at 16:15 -> Piloti in ginocchio in Austria Il gesto contro il razzismo
+- 5/7/2020 at 16:30 -> Piloti in ginocchio in Austria Il gesto contro il razzismo
+- 5/7/2020 at 16:45 -> Il ministero verificherà sull'estensione del Tso
+- 5/7/2020 at 17:00 -> Il ministero verificherà sull'estensione del Tso
+- 5/7/2020 at 17:15 -> Il ministero verificherà sull'estensione del Tso
+- 5/7/2020 at 17:30 -> Il ministero verificherà sull'estensione del Tso
+- 5/7/2020 at 17:45 -> Il ministero verificherà sull'estensione del Tso
