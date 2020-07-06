@@ -2379,3 +2379,11 @@
 - 6/7/2020 at 7:15 -> I contagi calano, +192 , Giù anche le vittime, 7
 - 6/7/2020 at 7:30 -> I contagi calano, +192 , Giù anche le vittime, 7
 - 6/7/2020 at 7:45 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 8:00 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 8:15 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 8:30 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 8:45 -> Addio a Ennio Morricone
+- 6/7/2020 at 9:00 -> Addio a Ennio Morricone
+- 6/7/2020 at 9:15 -> Addio a Ennio Morricone
+- 6/7/2020 at 9:30 -> Addio a Ennio Morricone,, le sue musiche da Oscar
+- 6/7/2020 at 9:45 -> Addio a Ennio Morricone,, le sue musiche da Oscar
