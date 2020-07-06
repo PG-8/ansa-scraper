@@ -2355,3 +2355,11 @@
 - 6/7/2020 at 1:15 -> I contagi calano, +192 , Giù anche le vittime, 7
 - 6/7/2020 at 1:30 -> I contagi calano, +192 , Giù anche le vittime, 7
 - 6/7/2020 at 1:45 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 2:00 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 2:15 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 2:30 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 2:45 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 3:00 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 3:15 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 3:30 -> I contagi calano, +192 , Giù anche le vittime, 7
+- 6/7/2020 at 3:45 -> I contagi calano, +192 , Giù anche le vittime, 7
