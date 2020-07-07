@@ -2483,3 +2483,11 @@
 - 7/7/2020 at 9:15 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
 - 7/7/2020 at 9:30 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
 - 7/7/2020 at 9:45 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 10:00 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 10:15 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 10:30 -> Il necrologio che Morricone si è scritto da solo: 'A mia moglie il più doloroso addio'
+- 7/7/2020 at 10:45 -> Il necrologio che Morricone si è scritto da solo: 'A mia moglie il più doloroso addio'
+- 7/7/2020 at 11:00 -> Il necrologio che Morricone si è scritto da solo: 'A mia moglie il più doloroso addio'
+- 7/7/2020 at 11:15 -> Calo del Pil dell'Italia -11,2%, L'Eurozona a -8,7% nel 2020
+- 7/7/2020 at 11:30 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 11:45 -> Bankitalia, colpito il reddito , di metà della popolazione
