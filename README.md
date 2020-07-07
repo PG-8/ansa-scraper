@@ -2491,3 +2491,11 @@
 - 7/7/2020 at 11:15 -> Calo del Pil dell'Italia -11,2%, L'Eurozona a -8,7% nel 2020
 - 7/7/2020 at 11:30 -> Bankitalia, colpito il reddito , di metà della popolazione
 - 7/7/2020 at 11:45 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 12:00 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 12:15 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 12:30 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 12:45 -> Bankitalia, colpito il reddito , di metà della popolazione
+- 7/7/2020 at 13:00 -> 'Ok a 130 opere strategiche,, nessuno spazio al crimine'
+- 7/7/2020 at 13:15 -> 'Ok a 130 opere strategiche,, nessuno spazio al crimine'
+- 7/7/2020 at 13:30 -> 'Ok a 130 opere strategiche,, nessuno spazio al crimine'
+- 7/7/2020 at 13:45 -> 'Ok a 130 opere strategiche,, nessuno spazio al crimine'
