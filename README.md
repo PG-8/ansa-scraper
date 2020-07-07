@@ -2475,3 +2475,11 @@
 - 7/7/2020 at 7:15 -> Addio a Ennio Morricone,, le sue musiche da Oscar
 - 7/7/2020 at 7:30 -> Addio a Ennio Morricone,, le sue musiche da Oscar
 - 7/7/2020 at 7:45 -> Addio a Ennio Morricone,, le sue musiche da Oscar
+- 7/7/2020 at 8:00 -> Addio a Ennio Morricone,, le sue musiche da Oscar
+- 7/7/2020 at 8:15 -> Addio a Ennio Morricone,, le sue musiche da Oscar
+- 7/7/2020 at 8:30 -> Addio a Ennio Morricone,, le sue musiche da Oscar
+- 7/7/2020 at 8:45 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 9:00 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 9:15 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 9:30 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
+- 7/7/2020 at 9:45 -> Decreto Semplificazioni, via libera 'salvo intese' del CdM
