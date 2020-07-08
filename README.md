@@ -2579,3 +2579,11 @@
 - 8/7/2020 at 9:15 -> Azzolina, con i concorsi 78mila docenti in ruolo
 - 8/7/2020 at 9:30 -> Azzolina, con i concorsi 78mila docenti in ruolo
 - 8/7/2020 at 9:45 -> Azzolina, con i concorsi 78mila docenti in ruolo
+- 8/7/2020 at 10:00 -> Azzolina, con i concorsi 78mila docenti in ruolo
+- 8/7/2020 at 10:15 -> Azzolina, con i concorsi 78mila docenti in ruolo
+- 8/7/2020 at 10:30 -> Azzolina: 'Con i concorsi 78mila docenti in ruolo'
+- 8/7/2020 at 10:45 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 11:00 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 11:15 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 11:30 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 11:45 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
