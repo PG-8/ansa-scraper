@@ -2603,3 +2603,11 @@
 - 8/7/2020 at 15:15 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
 - 8/7/2020 at 15:30 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
 - 8/7/2020 at 15:45 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 16:00 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 16:15 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 16:30 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 16:45 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 17:00 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 17:15 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 17:30 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 17:45 -> Lombardia, 71 nuovi contagi, Cala il numero dei ricoveri
