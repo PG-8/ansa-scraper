@@ -2563,3 +2563,11 @@
 - 8/7/2020 at 5:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
 - 8/7/2020 at 5:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
 - 8/7/2020 at 5:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 6:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 6:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 6:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 6:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 7:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 7:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 7:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 7:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
