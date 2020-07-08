@@ -2619,3 +2619,11 @@
 - 8/7/2020 at 19:15 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
 - 8/7/2020 at 19:30 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
 - 8/7/2020 at 19:45 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 20:00 -> Governo diviso su gestione, E' tensione tra M5s e Pd
+- 8/7/2020 at 20:15 -> Governo diviso su gestione, E' tensione tra M5s e Pd
+- 8/7/2020 at 20:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 8/7/2020 at 20:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 8/7/2020 at 21:00 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 8/7/2020 at 21:15 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 8/7/2020 at 21:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 8/7/2020 at 21:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
