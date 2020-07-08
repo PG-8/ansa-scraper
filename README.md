@@ -2595,3 +2595,11 @@
 - 8/7/2020 at 13:15 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
 - 8/7/2020 at 13:30 -> Ponte di Genova, è polemica La concessione va ad Aspi
 - 8/7/2020 at 13:45 -> Concessione ad Autostrade, M5s attacca, ira degli sfollati
+- 8/7/2020 at 14:00 -> Concessione ad Autostrade, M5s attacca, ira degli sfollati
+- 8/7/2020 at 14:15 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
+- 8/7/2020 at 14:30 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
+- 8/7/2020 at 14:45 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
+- 8/7/2020 at 15:00 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
+- 8/7/2020 at 15:15 -> 'Il dramma covid ha unito ancor di più Italia e Spagna'
+- 8/7/2020 at 15:30 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
+- 8/7/2020 at 15:45 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
