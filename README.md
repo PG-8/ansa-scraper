@@ -2539,3 +2539,11 @@
 - 7/7/2020 at 23:15 -> Dopo 6 mesi, il nuovo coronavirus è ancora un rompicapo 
 - 7/7/2020 at 23:30 -> Dopo 6 mesi, il nuovo coronavirus è ancora un rompicapo 
 - 7/7/2020 at 23:45 -> Dopo 6 mesi, il nuovo coronavirus è ancora un rompicapo 
+- 8/7/2020 at 00:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 00:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 00:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 00:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 1:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 1:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 1:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 1:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
