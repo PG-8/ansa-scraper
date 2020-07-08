@@ -2587,3 +2587,11 @@
 - 8/7/2020 at 11:15 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
 - 8/7/2020 at 11:30 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
 - 8/7/2020 at 11:45 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 12:00 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 12:15 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 12:30 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 12:45 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 13:00 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 13:15 -> Ponte Genova ad Autostrade, ma resta l'ipotesi di revoca
+- 8/7/2020 at 13:30 -> Ponte di Genova, è polemica La concessione va ad Aspi
+- 8/7/2020 at 13:45 -> Concessione ad Autostrade, M5s attacca, ira degli sfollati
