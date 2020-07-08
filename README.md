@@ -2571,3 +2571,11 @@
 - 8/7/2020 at 7:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
 - 8/7/2020 at 7:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
 - 8/7/2020 at 7:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 8:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 8:15 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 8:30 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 8:45 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 9:00 -> Usa, Trump avvisa l'Onu:, Via dall'Oms nel luglio 2021
+- 8/7/2020 at 9:15 -> Azzolina, con i concorsi 78mila docenti in ruolo
+- 8/7/2020 at 9:30 -> Azzolina, con i concorsi 78mila docenti in ruolo
+- 8/7/2020 at 9:45 -> Azzolina, con i concorsi 78mila docenti in ruolo
