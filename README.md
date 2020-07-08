@@ -2611,3 +2611,11 @@
 - 8/7/2020 at 17:15 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
 - 8/7/2020 at 17:30 -> Pressing di Conte e Sanchez,, accordo a luglio su Recovery
 - 8/7/2020 at 17:45 -> Lombardia, 71 nuovi contagi, Cala il numero dei ricoveri
+- 8/7/2020 at 18:00 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 18:15 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 18:30 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 18:45 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 19:00 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 19:15 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 19:30 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
+- 8/7/2020 at 19:45 -> Risalgono i contagi: +193, In calo i morti, 15 in 24 ore
