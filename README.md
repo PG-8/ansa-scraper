@@ -2723,3 +2723,11 @@
 - 9/7/2020 at 21:15 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
 - 9/7/2020 at 21:30 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
 - 9/7/2020 at 21:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 22:00 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 22:15 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 22:30 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 22:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 23:00 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 23:15 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 23:30 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 23:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
