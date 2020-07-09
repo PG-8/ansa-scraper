@@ -2699,3 +2699,11 @@
 - 9/7/2020 at 15:15 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
 - 9/7/2020 at 15:30 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
 - 9/7/2020 at 15:45 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 16:00 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 16:15 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 16:30 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 16:45 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 17:00 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 17:15 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 17:30 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
+- 9/7/2020 at 17:45 -> Positivo al virus, viaggiava , in treno: è stato fermato
