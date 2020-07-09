@@ -2707,3 +2707,11 @@
 - 9/7/2020 at 17:15 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
 - 9/7/2020 at 17:30 -> Allarme della Lamorgese: , 'Rischio tensioni in autunno'
 - 9/7/2020 at 17:45 -> Positivo al virus, viaggiava , in treno: è stato fermato
+- 9/7/2020 at 18:00 -> Risalgono i contagi +229, Oltre la metà in Lombardia
+- 9/7/2020 at 18:15 -> Risalgono i contagi +229, Oltre la metà in Lombardia
+- 9/7/2020 at 18:30 -> Risalgono i contagi +229, Oltre la metà in Lombardia
+- 9/7/2020 at 18:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 19:00 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 19:15 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 19:30 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 9/7/2020 at 19:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
