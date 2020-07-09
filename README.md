@@ -2667,3 +2667,11 @@
 - 9/7/2020 at 7:15 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
 - 9/7/2020 at 7:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
 - 9/7/2020 at 7:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 8:00 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 8:15 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 8:30 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 8:45 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 9:00 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 9:15 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 9:30 -> Conte: da Aspi 'o arriva una proposta o scatta la revoca'
+- 9/7/2020 at 9:45 -> Ultimatum di Conte ad Aspi: 'Una proposta o la revoca'
