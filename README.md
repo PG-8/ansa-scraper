@@ -2643,3 +2643,11 @@
 - 9/7/2020 at 1:15 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
 - 9/7/2020 at 1:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
 - 9/7/2020 at 1:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 2:00 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 2:15 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 2:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 2:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 3:00 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 3:15 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 3:30 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
+- 9/7/2020 at 3:45 -> La Consulta boccia l'Aspi, E' tensione tra M5S e Pd
