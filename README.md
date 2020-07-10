@@ -2819,3 +2819,11 @@
 - 10/7/2020 at 21:15 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
 - 10/7/2020 at 21:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
 - 10/7/2020 at 21:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 22:00 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 22:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 22:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 22:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 23:00 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 23:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 23:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 23:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
