@@ -2763,3 +2763,11 @@
 - 10/7/2020 at 7:15 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
 - 10/7/2020 at 7:30 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
 - 10/7/2020 at 7:45 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 10/7/2020 at 8:00 -> Divieto ingresso da 13 paesi Risalgono i contagi +229
+- 10/7/2020 at 8:15 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 8:30 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 8:45 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 9:00 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 9:15 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 9:30 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 9:45 -> Huawei esclusa dalla gara italiana per la rete 5G
