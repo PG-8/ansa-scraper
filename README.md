@@ -2803,3 +2803,11 @@
 - 10/7/2020 at 17:15 -> Lo stato d'emergenza , sarà prorogato a fine anno
 - 10/7/2020 at 17:30 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
 - 10/7/2020 at 17:45 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
+- 10/7/2020 at 18:00 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
+- 10/7/2020 at 18:15 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
+- 10/7/2020 at 18:30 -> Indice sopra 1 da import casi, Rafforzare il distanziamento
+- 10/7/2020 at 18:45 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 19:00 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 19:15 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 19:30 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 19:45 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
