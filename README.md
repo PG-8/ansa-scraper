@@ -2795,3 +2795,11 @@
 - 10/7/2020 at 15:15 -> Possibile il prolungamento dello stato d'emergenza 
 - 10/7/2020 at 15:30 -> Lo stato d'emergenza , sarà prorogato a fine anno
 - 10/7/2020 at 15:45 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 16:00 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 16:15 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 16:30 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 16:45 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 17:00 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 17:15 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 17:30 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
+- 10/7/2020 at 17:45 -> Salgono nuovi contagi: +276 , Dodici le vittime in 24 ore
