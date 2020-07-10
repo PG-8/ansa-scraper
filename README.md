@@ -2771,3 +2771,11 @@
 - 10/7/2020 at 9:15 -> Huawei esclusa dalla gara italiana per la rete 5G
 - 10/7/2020 at 9:30 -> Huawei esclusa dalla gara italiana per la rete 5G
 - 10/7/2020 at 9:45 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 10:00 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 10:15 -> Huawei esclusa dalla gara italiana per la rete 5G
+- 10/7/2020 at 10:30 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
+- 10/7/2020 at 10:45 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
+- 10/7/2020 at 11:00 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
+- 10/7/2020 at 11:15 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
+- 10/7/2020 at 11:30 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
+- 10/7/2020 at 11:45 -> Conte: 'Non siamo qui per passerelle, verifica lavori'
