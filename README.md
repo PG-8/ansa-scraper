@@ -2811,3 +2811,11 @@
 - 10/7/2020 at 19:15 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
 - 10/7/2020 at 19:30 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
 - 10/7/2020 at 19:45 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 20:00 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 20:15 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 20:30 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 20:45 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 21:00 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 21:15 -> Indice Rt sopra 1 in 5 regioni, Rafforzare il distanziamento
+- 10/7/2020 at 21:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 10/7/2020 at 21:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
