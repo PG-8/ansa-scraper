@@ -2787,3 +2787,11 @@
 - 10/7/2020 at 13:15 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
 - 10/7/2020 at 13:30 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
 - 10/7/2020 at 13:45 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 14:00 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 14:15 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 14:30 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 14:45 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 15:00 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 15:15 -> Possibile il prolungamento dello stato d'emergenza 
+- 10/7/2020 at 15:30 -> Lo stato d'emergenza , sarà prorogato a fine anno
+- 10/7/2020 at 15:45 -> Lo stato d'emergenza , sarà prorogato a fine anno
