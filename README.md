@@ -2779,3 +2779,11 @@
 - 10/7/2020 at 11:15 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
 - 10/7/2020 at 11:30 -> Aspi, l'ad Tomasi indagato: 'Ho già chiarito tutto'
 - 10/7/2020 at 11:45 -> Conte: 'Non siamo qui per passerelle, verifica lavori'
+- 10/7/2020 at 12:00 -> Conte: 'Non siamo qui per passerelle, verifica lavori'
+- 10/7/2020 at 12:15 -> Conte preme il pulsante, Via a innalzamento dighe
+- 10/7/2020 at 12:30 -> Conte preme il pulsante, Via a innalzamento dighe
+- 10/7/2020 at 12:45 -> Conte preme il pulsante, Via a innalzamento dighe
+- 10/7/2020 at 13:00 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 13:15 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 13:30 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
+- 10/7/2020 at 13:45 -> Chiuse tutte le dighe, Da NoMose 'battaglia navale'
