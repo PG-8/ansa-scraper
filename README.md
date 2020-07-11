@@ -2899,3 +2899,11 @@
 - 11/7/2020 at 17:15 -> Pronto il piano di Aspi, , la lettera inviata al governo
 - 11/7/2020 at 17:30 -> Pronto il piano di Aspi, , la lettera inviata al governo
 - 11/7/2020 at 17:45 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 18:00 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 18:15 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 18:30 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 18:45 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 19:00 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 19:15 -> Calano contagi e vittime,, i nuovi casi 188, i morti 7
+- 11/7/2020 at 19:30 -> Calano contagi e vittime, I nuovi casi 188, i morti 7
+- 11/7/2020 at 19:45 -> Calano contagi e vittime, I nuovi casi 188, i morti 7
