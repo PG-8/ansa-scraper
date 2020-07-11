@@ -2907,3 +2907,11 @@
 - 11/7/2020 at 19:15 -> Calano contagi e vittime,, i nuovi casi 188, i morti 7
 - 11/7/2020 at 19:30 -> Calano contagi e vittime, I nuovi casi 188, i morti 7
 - 11/7/2020 at 19:45 -> Calano contagi e vittime, I nuovi casi 188, i morti 7
+- 11/7/2020 at 20:00 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 20:15 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 20:30 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 20:45 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 21:00 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 21:15 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 21:30 -> In calo contagi e vittime,, ma è allarme assembramenti
+- 11/7/2020 at 21:45 -> In calo contagi e vittime,, ma è allarme assembramenti
