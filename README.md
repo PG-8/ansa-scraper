@@ -2891,3 +2891,11 @@
 - 11/7/2020 at 15:15 -> Verso proroga emergenza , Martedì il voto in Aula
 - 11/7/2020 at 15:30 -> Verso proroga emergenza , Martedì il voto in Aula
 - 11/7/2020 at 15:45 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 16:00 -> Stato d'emergenza, tensioni, Martedì il voto in Aula
+- 11/7/2020 at 16:15 -> Stato d'emergenza , tensioni, Martedì il voto in Aula
+- 11/7/2020 at 16:30 -> Tensioni nella maggioranza, Martedì il voto in Aula
+- 11/7/2020 at 16:45 -> Tensioni nella maggioranza, Martedì il voto in Aula
+- 11/7/2020 at 17:00 -> Tensioni nella maggioranza, Martedì il voto in Aula
+- 11/7/2020 at 17:15 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 17:30 -> Pronto il piano di Aspi, , la lettera inviata al governo
+- 11/7/2020 at 17:45 -> Pronto il piano di Aspi, , la lettera inviata al governo
