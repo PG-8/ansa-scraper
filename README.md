@@ -2883,3 +2883,11 @@
 - 11/7/2020 at 13:15 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
 - 11/7/2020 at 13:30 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
 - 11/7/2020 at 13:45 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 14:00 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 14:15 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 14:30 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 14:45 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 15:00 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 15:15 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 15:30 -> Verso proroga emergenza , Martedì il voto in Aula
+- 11/7/2020 at 15:45 -> Verso proroga emergenza , Martedì il voto in Aula
