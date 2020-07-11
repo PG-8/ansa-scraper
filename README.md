@@ -2867,3 +2867,11 @@
 - 11/7/2020 at 9:15 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
 - 11/7/2020 at 9:30 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
 - 11/7/2020 at 9:45 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 10:00 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 10:15 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 10:30 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 10:45 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 11:00 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 11:15 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 11:30 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 11:45 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
