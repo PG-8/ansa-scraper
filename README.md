@@ -2835,3 +2835,11 @@
 - 11/7/2020 at 1:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
 - 11/7/2020 at 1:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
 - 11/7/2020 at 1:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 2:00 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 2:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 2:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 2:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 3:00 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 3:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 3:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 3:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
