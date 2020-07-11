@@ -2859,3 +2859,11 @@
 - 11/7/2020 at 7:15 -> Verso la proroga dello stato di emergenza a tutto il 2020
 - 11/7/2020 at 7:30 -> Verso la proroga dello stato di emergenza a tutto il 2020
 - 11/7/2020 at 7:45 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 8:00 -> Verso la proroga dello stato di emergenza a tutto il 2020
+- 11/7/2020 at 8:15 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 8:30 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 8:45 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 9:00 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 9:15 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 9:30 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
+- 11/7/2020 at 9:45 -> In Brasile 70mila i morti, Usa, 63mila casi in 24 ore
