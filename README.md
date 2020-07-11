@@ -2875,3 +2875,11 @@
 - 11/7/2020 at 11:15 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
 - 11/7/2020 at 11:30 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
 - 11/7/2020 at 11:45 -> Nel mondo 560.000 morti, Sono 12,5 milioni i casi
+- 11/7/2020 at 12:00 -> Vacanze in Italia ma brevi, ma le città d'arte in crisi
+- 11/7/2020 at 12:15 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 12:30 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 12:45 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 13:00 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 13:15 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 13:30 -> Vacanze in Italia ma brevi,, in crisi le città d'arte
+- 11/7/2020 at 13:45 -> Verso proroga emergenza , Martedì il voto in Aula
