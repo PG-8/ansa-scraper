@@ -2995,3 +2995,11 @@
 - 12/7/2020 at 17:15 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
 - 12/7/2020 at 17:30 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
 - 12/7/2020 at 17:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 18:00 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 18:15 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 18:30 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 18:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 19:00 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 19:15 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 19:30 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 19:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
