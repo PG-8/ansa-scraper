@@ -2987,3 +2987,11 @@
 - 12/7/2020 at 15:15 -> Pressing di Santelli su Conte, 'Intervenga o vieto sbarchi'
 - 12/7/2020 at 15:30 -> Pressing di Santelli su Conte, 'Intervenga o vieto sbarchi'
 - 12/7/2020 at 15:45 -> Pressing di Santelli su Conte, 'Intervenga o vieto sbarchi'
+- 12/7/2020 at 16:00 -> 'Virginia annamosene, , Roma non ti merita'
+- 12/7/2020 at 16:15 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 16:30 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 16:45 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 17:00 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 17:15 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 17:30 -> Disastro Ferrari in partenza Vettel e Leclerc si ritirano
+- 12/7/2020 at 17:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
