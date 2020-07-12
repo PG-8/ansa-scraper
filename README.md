@@ -2955,3 +2955,11 @@
 - 12/7/2020 at 7:15 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
 - 12/7/2020 at 7:30 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
 - 12/7/2020 at 7:45 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
+- 12/7/2020 at 8:00 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
+- 12/7/2020 at 8:15 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
+- 12/7/2020 at 8:30 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
+- 12/7/2020 at 8:45 -> Aspi, piano da 3,4 miliardi, M5S: 'Non è sufficiente'
+- 12/7/2020 at 9:00 -> Usa, 66.528 contagi in 24 ore, In Brasile oltre 1.000 morti
+- 12/7/2020 at 9:15 -> Usa, 66.528 contagi in 24 ore, In Brasile oltre 1.000 morti
+- 12/7/2020 at 9:30 -> Usa, 66.528 contagi in 24 ore, In Brasile oltre 1.000 morti
+- 12/7/2020 at 9:45 -> Usa, 66.528 contagi in 24 ore, In Brasile oltre 1.000 morti
