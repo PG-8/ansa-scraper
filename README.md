@@ -2971,3 +2971,11 @@
 - 12/7/2020 at 11:15 -> Usa, 66.528 contagi in 24 ore, In Brasile oltre 1.000 morti
 - 12/7/2020 at 11:30 -> Allarme dell'Oms, in 24 ore record di contagi nel mondo
 - 12/7/2020 at 11:45 -> Allarme dell'Oms, in 24 ore record di contagi nel mondo
+- 12/7/2020 at 12:00 -> Allarme dell'Oms, in 24 ore record di contagi nel mondo
+- 12/7/2020 at 12:15 -> Allarme dell'Oms, in 24 ore record di contagi nel mondo
+- 12/7/2020 at 12:30 -> Allarme dell'Oms, in 24 ore record di contagi nel mondo
+- 12/7/2020 at 12:45 -> Covid-19, allarme dell'Oms:, 'Record di contagi in 24 ore'
+- 12/7/2020 at 13:00 -> Covid-19, allarme dell'Oms:, 'Record di contagi in 24 ore'
+- 12/7/2020 at 13:15 -> Conte: 'Ora più attrezzati , in caso di cattive evenienze'
+- 12/7/2020 at 13:30 -> Conte: 'Ora più attrezzati , in caso di cattive evenienze'
+- 12/7/2020 at 13:45 -> Conte: 'Ora più attrezzati , in caso di cattive evenienze'
