@@ -3003,3 +3003,11 @@
 - 12/7/2020 at 19:15 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
 - 12/7/2020 at 19:30 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
 - 12/7/2020 at 19:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 20:00 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 20:15 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 20:30 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 20:45 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 21:00 -> Salgono i contagi, 234 i casi , Nove morti, 8 in Lombardia
+- 12/7/2020 at 21:15 -> Discoteche, voli e congressi , ecco le probabili chiusure
+- 12/7/2020 at 21:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 21:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
