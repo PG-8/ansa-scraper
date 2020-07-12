@@ -3011,3 +3011,11 @@
 - 12/7/2020 at 21:15 -> Discoteche, voli e congressi , ecco le probabili chiusure
 - 12/7/2020 at 21:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 12/7/2020 at 21:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 22:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 22:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 22:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 22:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 23:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 23:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 23:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 12/7/2020 at 23:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
