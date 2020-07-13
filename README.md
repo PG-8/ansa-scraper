@@ -3035,3 +3035,11 @@
 - 13/7/2020 at 3:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 13/7/2020 at 3:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 13/7/2020 at 3:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 4:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 4:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 4:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 4:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 5:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 5:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 5:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 5:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
