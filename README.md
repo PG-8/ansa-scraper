@@ -3059,3 +3059,11 @@
 - 13/7/2020 at 9:15 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
 - 13/7/2020 at 9:30 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
 - 13/7/2020 at 9:45 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 10:00 -> Conte duro contro Benetton, Renzi: 'La via maestra è Cdp'
+- 13/7/2020 at 10:15 -> Conte duro contro Benetton., Renzi: 'No a slogan populisti'
+- 13/7/2020 at 10:30 -> Conte duro contro Benetton, Renzi: 'No a slogan populisti'
+- 13/7/2020 at 10:45 -> Conte duro contro Benetton, Renzi: 'No a slogan populisti'
+- 13/7/2020 at 11:00 -> Minimo di nascite dall'unità , 19mila in meno nel 2019
+- 13/7/2020 at 11:15 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
+- 13/7/2020 at 11:30 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
+- 13/7/2020 at 11:45 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
