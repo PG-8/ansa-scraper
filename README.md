@@ -3019,3 +3019,11 @@
 - 12/7/2020 at 23:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 12/7/2020 at 23:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 12/7/2020 at 23:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 00:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 00:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 00:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 00:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 1:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 1:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 1:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 1:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
