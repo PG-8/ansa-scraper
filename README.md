@@ -3083,3 +3083,11 @@
 - 13/7/2020 at 15:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
 - 13/7/2020 at 15:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
 - 13/7/2020 at 15:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 16:00 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 16:15 -> Riunione straordinaria , del Cda di Atlantia domani
+- 13/7/2020 at 16:30 -> Riunione straordinaria , del Cda di Atlantia domani
+- 13/7/2020 at 16:45 -> Conte duro con i Benetton Atlantia, cda straordinario
+- 13/7/2020 at 17:00 -> Conte duro con i Benetton Atlantia, cda straordinario
+- 13/7/2020 at 17:15 -> Conte duro con i Benetton Atlantia, cda straordinario
+- 13/7/2020 at 17:30 -> Conte duro con i Benetton Atlantia, cda straordinario
+- 13/7/2020 at 17:45 -> Calano i contagi in Italia, , aumentano le vittime
