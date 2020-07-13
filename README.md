@@ -3075,3 +3075,11 @@
 - 13/7/2020 at 13:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
 - 13/7/2020 at 13:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
 - 13/7/2020 at 13:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 14:00 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 14:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 14:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 14:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 15:00 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 15:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 15:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 15:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
