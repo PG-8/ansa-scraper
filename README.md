@@ -3051,3 +3051,11 @@
 - 13/7/2020 at 7:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 13/7/2020 at 7:30 -> Discoteche, voli e congressi , Verso proroga delle chiusure
 - 13/7/2020 at 7:45 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 8:00 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 8:15 -> Discoteche, voli e congressi , Verso proroga delle chiusure
+- 13/7/2020 at 8:30 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 8:45 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 9:00 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 9:15 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 9:30 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
+- 13/7/2020 at 9:45 -> 'I Benetton prendono in giro, E' inaccettabile, così revoca'
