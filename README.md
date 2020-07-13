@@ -3067,3 +3067,11 @@
 - 13/7/2020 at 11:15 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
 - 13/7/2020 at 11:30 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
 - 13/7/2020 at 11:45 -> Minimo di nascite dall'unità , Nel 2019 in 19mila in meno
+- 13/7/2020 at 12:00 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 12:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 12:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 12:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 13:00 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 13:15 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 13:30 -> Mattarella e Pahor insieme, alla foiba di Basovizza
+- 13/7/2020 at 13:45 -> Mattarella e Pahor insieme, alla foiba di Basovizza
