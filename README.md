@@ -3091,3 +3091,11 @@
 - 13/7/2020 at 17:15 -> Conte duro con i Benetton Atlantia, cda straordinario
 - 13/7/2020 at 17:30 -> Conte duro con i Benetton Atlantia, cda straordinario
 - 13/7/2020 at 17:45 -> Calano i contagi in Italia, , aumentano le vittime
+- 13/7/2020 at 18:00 -> Calano i contagi in Italia, , aumentano le vittime
+- 13/7/2020 at 18:15 -> La parola della settimana è onda (di Massimo Sebastiani)
+- 13/7/2020 at 18:30 -> La parola della settimana è onda (di Massimo Sebastiani)
+- 13/7/2020 at 18:45 -> La parola della settimana è onda (di Massimo Sebastiani)
+- 13/7/2020 at 19:00 -> La parola della settimana è onda (di Massimo Sebastiani)
+- 13/7/2020 at 19:15 -> Merkel: 'L'accordo ci sarà' Conte: 'Risposta sia forte'
+- 13/7/2020 at 19:30 -> Merkel: 'L'accordo ci sarà' Conte: 'Risposta sia forte'
+- 13/7/2020 at 19:45 -> Merkel: 'L'accordo ci sarà' Conte: 'Risposta sia forte'
