@@ -3187,3 +3187,11 @@
 - 14/7/2020 at 17:15 -> In leggero calo i contagi, 114 aumentano invece le vittime
 - 14/7/2020 at 17:30 -> In leggero calo i contagi, 114 aumentano invece le vittime
 - 14/7/2020 at 17:45 -> In leggero calo i contagi, 114 aumentano invece le vittime
+- 14/7/2020 at 18:00 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 18:15 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 18:30 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 18:45 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 19:00 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 19:15 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 19:30 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 19:45 -> In leggero calo i contagi, 114 ma aumentano le vittime
