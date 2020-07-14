@@ -3195,3 +3195,11 @@
 - 14/7/2020 at 19:15 -> In leggero calo i contagi, 114 ma aumentano le vittime
 - 14/7/2020 at 19:30 -> In leggero calo i contagi, 114 ma aumentano le vittime
 - 14/7/2020 at 19:45 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 20:00 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 20:15 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 20:30 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 20:45 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 21:00 -> In leggero calo i contagi, 114 ma aumentano le vittime
+- 14/7/2020 at 21:15 -> Autostrade, alle 22 il Cdm Ultime ore per la mediazione
+- 14/7/2020 at 21:30 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
+- 14/7/2020 at 21:45 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
