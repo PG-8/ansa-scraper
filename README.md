@@ -3203,3 +3203,11 @@
 - 14/7/2020 at 21:15 -> Autostrade, alle 22 il Cdm Ultime ore per la mediazione
 - 14/7/2020 at 21:30 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
 - 14/7/2020 at 21:45 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
+- 14/7/2020 at 22:00 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
+- 14/7/2020 at 22:15 -> Autostrade, alle 22 il Cdm, Bellanova: bisogna riflettere
+- 14/7/2020 at 22:30 -> Cdm notturno su Autostrade Conte cerca una mediazione
+- 14/7/2020 at 22:45 -> Cdm notturno su Autostrade Conte cerca una mediazione
+- 14/7/2020 at 23:00 -> Cdm notturno su Autostrade Conte: revoca se non accetta
+- 14/7/2020 at 23:15 -> Cdm notturno su Autostrade 'O accetta o ci sarà la revoca'
+- 14/7/2020 at 23:30 -> In corso il Cdm notturno Attesa altra proposta di Aspi
+- 14/7/2020 at 23:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
