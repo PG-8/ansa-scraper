@@ -3179,3 +3179,11 @@
 - 14/7/2020 at 15:15 -> 'Anche gli ospedali militari per i migranti positivi'
 - 14/7/2020 at 15:30 -> 'Anche gli ospedali militari per i migranti positivi'
 - 14/7/2020 at 15:45 -> 'Anche gli ospedali militari per i migranti positivi'
+- 14/7/2020 at 16:00 -> 'Anche gli ospedali militari per i migranti positivi'
+- 14/7/2020 at 16:15 -> 'Anche gli ospedali militari per i positivi al Covid'
+- 14/7/2020 at 16:30 -> 'Anche gli ospedali militari per i positivi al Covid'
+- 14/7/2020 at 16:45 -> 'Dpcm prorogato a fine mese, non abbassare la guardia'
+- 14/7/2020 at 17:00 -> 'Dpcm prorogato a fine mese, Non abbassare la guardia'
+- 14/7/2020 at 17:15 -> In leggero calo i contagi, 114 aumentano invece le vittime
+- 14/7/2020 at 17:30 -> In leggero calo i contagi, 114 aumentano invece le vittime
+- 14/7/2020 at 17:45 -> In leggero calo i contagi, 114 aumentano invece le vittime
