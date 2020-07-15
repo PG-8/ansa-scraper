@@ -3243,3 +3243,11 @@
 - 15/7/2020 at 7:15 -> Accordo su Autostrade, Passo indietro dei Benetton
 - 15/7/2020 at 7:30 -> Accordo su Autostrade, Passo indietro dei Benetton
 - 15/7/2020 at 7:45 -> Accordo su Autostrade, Passo indietro dei Benetton
+- 15/7/2020 at 8:00 -> Accordo su Autostrade, Passo indietro dei Benetton
+- 15/7/2020 at 8:15 -> Accordo su Autostrade, Passo indietro dei Benetton
+- 15/7/2020 at 8:30 -> Passo indietro dei Benetton apre all'accordo
+- 15/7/2020 at 8:45 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 9:00 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 9:15 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 9:30 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 9:45 -> Passo indietro dei Benetton Aspi sarà public company
