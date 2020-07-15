@@ -3211,3 +3211,11 @@
 - 14/7/2020 at 23:15 -> Cdm notturno su Autostrade 'O accetta o ci sarà la revoca'
 - 14/7/2020 at 23:30 -> In corso il Cdm notturno Attesa altra proposta di Aspi
 - 14/7/2020 at 23:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 00:00 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 00:15 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 00:30 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 00:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 1:00 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 1:15 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 1:30 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 1:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
