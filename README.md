@@ -3291,3 +3291,11 @@
 - 15/7/2020 at 19:15 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
 - 15/7/2020 at 19:30 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
 - 15/7/2020 at 19:45 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 20:00 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 20:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 20:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 20:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 21:00 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 21:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 21:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 15/7/2020 at 21:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
