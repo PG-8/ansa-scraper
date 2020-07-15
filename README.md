@@ -3227,3 +3227,11 @@
 - 15/7/2020 at 3:15 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
 - 15/7/2020 at 3:30 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
 - 15/7/2020 at 3:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 4:00 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 4:15 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 4:30 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 4:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 5:00 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 5:15 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 5:30 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
+- 15/7/2020 at 5:45 -> Si ipotizza l'ingresso di Cdp, e uscita graduale di Atlantia
