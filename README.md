@@ -3267,3 +3267,11 @@
 - 15/7/2020 at 13:15 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
 - 15/7/2020 at 13:30 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
 - 15/7/2020 at 13:45 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 14:00 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 14:15 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 14:30 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 14:45 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 15:00 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 15:15 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 15:30 -> Coronavirus, in calo <br>i contagi, aumentano <br>i morti
+- 15/7/2020 at 15:45 -> Coronavirus, in calo <br>i contagi, aumentano <br>i morti
