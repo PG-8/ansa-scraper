@@ -3251,3 +3251,11 @@
 - 15/7/2020 at 9:15 -> Passo indietro dei Benetton Aspi sarà public company
 - 15/7/2020 at 9:30 -> Passo indietro dei Benetton Aspi sarà public company
 - 15/7/2020 at 9:45 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 10:00 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 10:15 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 10:30 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 10:45 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 11:00 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 11:15 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 11:30 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 11:45 -> Passo indietro dei Benetton Aspi sarà public company
