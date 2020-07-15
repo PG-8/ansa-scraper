@@ -3283,3 +3283,11 @@
 - 15/7/2020 at 17:15 -> Autostrade, entra lo Stato Conte: 'Piuttosto soddisfatti'
 - 15/7/2020 at 17:30 -> Autostrade, entra lo Stato Conte: 'Piuttosto soddisfatti'
 - 15/7/2020 at 17:45 -> Autostrade, entra lo Stato Conte: 'Piuttosto soddisfatti'
+- 15/7/2020 at 18:00 -> Autostrade, entra lo Stato Conte: 'Piuttosto soddisfatti'
+- 15/7/2020 at 18:15 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 18:30 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 18:45 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 19:00 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 19:15 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 19:30 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
+- 15/7/2020 at 19:45 -> Salgono i contagi, sono 162 , ma cala il numero dei morti
