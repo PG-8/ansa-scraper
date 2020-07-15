@@ -3259,3 +3259,11 @@
 - 15/7/2020 at 11:15 -> Passo indietro dei Benetton Aspi sarà public company
 - 15/7/2020 at 11:30 -> Passo indietro dei Benetton Aspi sarà public company
 - 15/7/2020 at 11:45 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 12:00 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 12:15 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 12:30 -> Passo indietro dei Benetton Aspi sarà public company
+- 15/7/2020 at 12:45 -> Passo indietro dei Benetton Di Maio: 'Ce l'abbiamo fatta'
+- 15/7/2020 at 13:00 -> Di Maio: 'Ce l'abbiamo fatta', Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 13:15 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 13:30 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
+- 15/7/2020 at 13:45 -> Soddisfatti il M5s e il Pd , Lega: 'Chiacchiere e danni'
