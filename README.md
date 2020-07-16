@@ -3347,3 +3347,11 @@
 - 16/7/2020 at 9:15 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
 - 16/7/2020 at 9:30 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
 - 16/7/2020 at 9:45 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 10:00 -> Bomba d'acqua a Palermo, , oltre 300 gli interventi
+- 16/7/2020 at 10:15 -> Bomba d'acqua a Palermo, , oltre 300 gli interventi
+- 16/7/2020 at 10:30 -> Bomba d'acqua a Palermo, , oltre 300 gli interventi
+- 16/7/2020 at 10:45 -> Bomba d'acqua a Palermo, , potrebbe aprirsi un'indagine
+- 16/7/2020 at 11:00 -> Bomba d'acqua a Palermo, , potrebbe aprirsi un'indagine
+- 16/7/2020 at 11:15 -> Bomba d'acqua a Palermo, , potrebbe aprirsi un'indagine
+- 16/7/2020 at 11:30 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
+- 16/7/2020 at 11:45 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
