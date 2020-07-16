@@ -3307,3 +3307,11 @@
 - 15/7/2020 at 23:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
 - 15/7/2020 at 23:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
 - 15/7/2020 at 23:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 00:00 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 00:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 00:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 00:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 1:00 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 1:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 1:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 1:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
