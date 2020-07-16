@@ -3395,3 +3395,11 @@
 - 16/7/2020 at 21:15 -> Salgono ancora i contagi Superati i 35 mila morti
 - 16/7/2020 at 21:30 -> Salgono ancora i contagi Superati i 35 mila morti
 - 16/7/2020 at 21:45 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
+- 16/7/2020 at 22:00 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
+- 16/7/2020 at 22:15 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
+- 16/7/2020 at 22:30 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
+- 16/7/2020 at 22:45 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
+- 16/7/2020 at 23:00 -> Conte: 'In gioco c'è l'Europa,  non è una partita contabile'
+- 16/7/2020 at 23:15 -> Conte: 'In gioco c'è l'Europa,  non è una partita contabile'
+- 16/7/2020 at 23:30 -> Conte: 'In gioco c'è l'Europa,  non è una partita contabile'
+- 16/7/2020 at 23:45 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
