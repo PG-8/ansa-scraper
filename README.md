@@ -3363,3 +3363,11 @@
 - 16/7/2020 at 13:15 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
 - 16/7/2020 at 13:30 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
 - 16/7/2020 at 13:45 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 14:00 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 14:15 -> Il decreto Rilancio è legge, , la fiducia passa con 159 sì
+- 16/7/2020 at 14:30 -> Il decreto Rilancio è legge, , la fiducia passa con 159 sì
+- 16/7/2020 at 14:45 -> Covid-19 è la causa diretta,  di morte per l'89% di positivi
+- 16/7/2020 at 15:00 -> Il Sole e i suoi falò, ecco le immagini mai viste  VIDEO
+- 16/7/2020 at 15:15 -> Il Sole e i suoi falò, ecco le immagini mai viste VIDEO
+- 16/7/2020 at 15:30 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 15:45 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
