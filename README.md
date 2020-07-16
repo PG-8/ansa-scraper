@@ -3379,3 +3379,11 @@
 - 16/7/2020 at 17:15 -> Ad Alex Zanardi avviata , la riduzione della sedazione
 - 16/7/2020 at 17:30 -> Ad Alex Zanardi avviata , la riduzione della sedazione
 - 16/7/2020 at 17:45 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 18:00 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 18:15 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 18:30 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 18:45 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 19:00 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 19:15 -> Salgono ancora i contagi Superati i 35mila morti
+- 16/7/2020 at 19:30 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 19:45 -> Salgono ancora i contagi Superati i 35 mila morti
