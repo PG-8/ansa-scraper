@@ -3355,3 +3355,11 @@
 - 16/7/2020 at 11:15 -> Bomba d'acqua a Palermo, , potrebbe aprirsi un'indagine
 - 16/7/2020 at 11:30 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
 - 16/7/2020 at 11:45 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
+- 16/7/2020 at 12:00 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
+- 16/7/2020 at 12:15 -> 'Forse nessuna vittima' , Procura valuta un'inchiesta
+- 16/7/2020 at 12:30 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 12:45 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 13:00 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 13:15 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 13:30 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
+- 16/7/2020 at 13:45 -> Stop ingresso dalla Serbia,, dal Montenegro e dal Kosovo
