@@ -3387,3 +3387,11 @@
 - 16/7/2020 at 19:15 -> Salgono ancora i contagi Superati i 35mila morti
 - 16/7/2020 at 19:30 -> Salgono ancora i contagi Superati i 35 mila morti
 - 16/7/2020 at 19:45 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 20:00 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 20:15 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 20:30 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 20:45 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 21:00 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 21:15 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 21:30 -> Salgono ancora i contagi Superati i 35 mila morti
+- 16/7/2020 at 21:45 -> Omicidio Cerciello, in audio l'accordo tra i carabinieri
