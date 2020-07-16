@@ -3371,3 +3371,11 @@
 - 16/7/2020 at 15:15 -> Il Sole e i suoi falò, ecco le immagini mai viste VIDEO
 - 16/7/2020 at 15:30 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
 - 16/7/2020 at 15:45 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 16:00 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 16:15 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 16:30 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 16:45 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 17:00 -> Conte: 'Siamo al rush finale, stiamo affinando le armi'
+- 16/7/2020 at 17:15 -> Ad Alex Zanardi avviata , la riduzione della sedazione
+- 16/7/2020 at 17:30 -> Ad Alex Zanardi avviata , la riduzione della sedazione
+- 16/7/2020 at 17:45 -> Salgono ancora i contagi Superati i 35 mila morti
