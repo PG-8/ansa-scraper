@@ -3339,3 +3339,11 @@
 - 16/7/2020 at 7:15 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
 - 16/7/2020 at 7:30 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
 - 16/7/2020 at 7:45 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 8:00 -> Bomba d'acqua a Palermo, , 2 morti in un'auto sommersa
+- 16/7/2020 at 8:15 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 8:30 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 8:45 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 9:00 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 9:15 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 9:30 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
+- 16/7/2020 at 9:45 -> Bomba d'acqua a Palermo, , è giallo sui dispersi
