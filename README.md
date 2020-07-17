@@ -3443,3 +3443,11 @@
 - 17/7/2020 at 9:15 -> La pandemia corre negli Usa , Record di casi in 24 ore
 - 17/7/2020 at 9:30 -> La pandemia corre negli Usa , Record di casi in 24 ore
 - 17/7/2020 at 9:45 -> La pandemia corre negli Usa , Record di casi in 24 ore
+- 17/7/2020 at 10:00 -> Il pessimismo di Rutte, , ma Michel: accordo possibile
+- 17/7/2020 at 10:15 -> Il pessimismo di Rutte, , ma Michel: accordo possibile
+- 17/7/2020 at 10:30 -> Il pessimismo di Rutte, , Conte: 'Superare le divisioni'
+- 17/7/2020 at 10:45 -> Il pessimismo di Rutte, , Conte: 'Superare le divisioni'
+- 17/7/2020 at 11:00 -> Il pessimismo di Rutte, , Conte: 'Superare le divisioni'
+- 17/7/2020 at 11:15 -> Il pessimismo di Rutte, Conte: 'Superare le divisioni'
+- 17/7/2020 at 11:30 -> Il pessimismo di Rutte, Conte: 'Superare le divisioni'
+- 17/7/2020 at 11:45 -> Il pessimismo di Rutte, Conte: 'Superare le divisioni'
