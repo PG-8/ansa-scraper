@@ -3435,3 +3435,11 @@
 - 17/7/2020 at 7:15 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
 - 17/7/2020 at 7:30 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
 - 17/7/2020 at 7:45 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
+- 17/7/2020 at 8:00 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
+- 17/7/2020 at 8:15 -> 'Forte intesa con Macron,  , la risposta Ue sia ambiziosa'
+- 17/7/2020 at 8:30 -> Dia, rischio boom di affari per le mafie dopo il Covid
+- 17/7/2020 at 8:45 -> La pandemia corre negli Usa , Record di casi in 24 ore
+- 17/7/2020 at 9:00 -> La pandemia corre negli Usa , Record di casi in 24 ore
+- 17/7/2020 at 9:15 -> La pandemia corre negli Usa , Record di casi in 24 ore
+- 17/7/2020 at 9:30 -> La pandemia corre negli Usa , Record di casi in 24 ore
+- 17/7/2020 at 9:45 -> La pandemia corre negli Usa , Record di casi in 24 ore
