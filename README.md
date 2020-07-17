@@ -3459,3 +3459,11 @@
 - 17/7/2020 at 13:15 -> Il pessimismo di Rutte, Conte: 'Superare le divisioni'
 - 17/7/2020 at 13:30 -> Il pessimismo di Rutte, Conte: 'Superare le divisioni'
 - 17/7/2020 at 13:45 -> 'L'Imu sulla prima casa, non sarà reintrodotta'
+- 17/7/2020 at 14:00 -> 'L'Imu sulla prima casa, non sarà reintrodotta'
+- 17/7/2020 at 14:15 -> 'L'Imu sulla prima casa, non sarà reintrodotta'
+- 17/7/2020 at 14:30 -> 'L'Imu sulla prima casa, non sarà reintrodotta'
+- 17/7/2020 at 14:45 -> 'L'Imu sulla prima casa, non sarà reintrodotta'
+- 17/7/2020 at 15:00 -> Usa valutano divieto TikTok, Nella lista nera con Huawei
+- 17/7/2020 at 15:15 -> Usa valutano divieto TikTok, Nella lista nera con Huawei
+- 17/7/2020 at 15:30 -> Usa valutano divieto TikTok, Nella lista nera con Huawei
+- 17/7/2020 at 15:45 -> Usa valutano divieto TikTok, Nella lista nera con Huawei
