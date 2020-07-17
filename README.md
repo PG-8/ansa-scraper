@@ -3483,3 +3483,11 @@
 - 17/7/2020 at 19:15 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
 - 17/7/2020 at 19:30 -> Iss,lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
 - 17/7/2020 at 19:45 -> Iss,lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 20:00 -> Iss,lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 20:15 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 20:30 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 20:45 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 21:00 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 21:15 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 21:30 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 21:45 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
