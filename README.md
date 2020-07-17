@@ -3491,3 +3491,11 @@
 - 17/7/2020 at 21:15 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
 - 17/7/2020 at 21:30 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
 - 17/7/2020 at 21:45 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 22:00 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 22:15 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 22:30 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 22:45 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 23:00 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 23:15 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 23:30 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
+- 17/7/2020 at 23:45 -> Vertice Ue in salita,  Il blocco di Austria e Olanda
