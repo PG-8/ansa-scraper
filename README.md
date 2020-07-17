@@ -3475,3 +3475,11 @@
 - 17/7/2020 at 17:15 -> Copenhagen guida la carica, Battaglia sui tagli al bilancio
 - 17/7/2020 at 17:30 -> Copenhagen guida la carica, Battaglia sui tagli al bilancio
 - 17/7/2020 at 17:45 -> Copenhagen guida la carica, Battaglia sui tagli al bilancio
+- 17/7/2020 at 18:00 -> Stabili i contagi,morti in calo, Cluster a Savona, 18 casi
+- 17/7/2020 at 18:15 -> Contagi stabili, morti in calo, Cluster a Savona: 18 casi
+- 17/7/2020 at 18:30 -> Iss, lieve aumento dei casi, Indice Rt Italia pari a 1.01
+- 17/7/2020 at 18:45 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 19:00 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 19:15 -> Iss, lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 19:30 -> Iss,lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
+- 17/7/2020 at 19:45 -> Iss,lieve aumento dei casi, Indice Rt sopra 1 in 6 regioni
