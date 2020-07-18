@@ -3523,3 +3523,11 @@
 - 18/7/2020 at 5:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
 - 18/7/2020 at 5:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
 - 18/7/2020 at 5:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 6:00 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 6:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 6:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 6:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 7:00 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 7:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 7:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 7:45 -> Battaglia al vertice Ue , il primo giorno fumata nera
