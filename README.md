@@ -3571,3 +3571,11 @@
 - 18/7/2020 at 17:15 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
 - 18/7/2020 at 17:30 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
 - 18/7/2020 at 17:45 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
+- 18/7/2020 at 18:00 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
+- 18/7/2020 at 18:15 -> L'Olanda vuole l'unanimità, Per l'Italia 'è inaccettabile'
+- 18/7/2020 at 18:30 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
+- 18/7/2020 at 18:45 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
+- 18/7/2020 at 19:00 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
+- 18/7/2020 at 19:15 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
+- 18/7/2020 at 19:30 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
+- 18/7/2020 at 19:45 -> Conte su Fb: 'Siamo in stallo Confronto duro con i frugali'
