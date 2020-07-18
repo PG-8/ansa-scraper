@@ -3539,3 +3539,11 @@
 - 18/7/2020 at 9:15 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
 - 18/7/2020 at 9:30 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
 - 18/7/2020 at 9:45 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 10:00 -> A Nantes brucia la cattedrale
+- 18/7/2020 at 10:15 -> A Nantes brucia la cattedrale
+- 18/7/2020 at 10:30 -> A Nantes brucia la cattedrale, Pompieri, fiamme domate
+- 18/7/2020 at 10:45 -> A Nantes brucia la cattedrale, Pompieri, fiamme domate
+- 18/7/2020 at 11:00 -> Al via vertice ristretto a 7, Rutte: 'Accordo? Non so'
+- 18/7/2020 at 11:15 -> Al via vertice ristretto a 7, Rutte: 'Accordo? Non so'
+- 18/7/2020 at 11:30 -> Al via vertice ristretto a 7, Rutte: 'Accordo? Non so'
+- 18/7/2020 at 11:45 -> Compromesso di Michel Tagli ai sussidi da 500 a 450
