@@ -3547,3 +3547,11 @@
 - 18/7/2020 at 11:15 -> Al via vertice ristretto a 7, Rutte: 'Accordo? Non so'
 - 18/7/2020 at 11:30 -> Al via vertice ristretto a 7, Rutte: 'Accordo? Non so'
 - 18/7/2020 at 11:45 -> Compromesso di Michel Tagli ai sussidi da 500 a 450
+- 18/7/2020 at 12:00 -> Compromesso di Michel Tagli ai sussidi da 500 a 450
+- 18/7/2020 at 12:15 -> Compromesso di Michel Tagli ai sussidi da 500 a 450
+- 18/7/2020 at 12:30 -> Compromesso di Michel, Taglio sussidi di 50 miliardi
+- 18/7/2020 at 12:45 -> Compromesso di Michel, Taglio sussidi di 50 miliardi
+- 18/7/2020 at 13:00 -> Compromesso di Michel, Taglio sussidi di 50 miliardi
+- 18/7/2020 at 13:15 -> Compromesso di Michel, Taglio sussidi di 50 miliardi
+- 18/7/2020 at 13:30 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 13:45 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
