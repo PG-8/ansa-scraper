@@ -3507,3 +3507,11 @@
 - 18/7/2020 at 1:15 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
 - 18/7/2020 at 1:30 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
 - 18/7/2020 at 1:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 2:00 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 2:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 2:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 2:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 3:00 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 3:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 3:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
+- 18/7/2020 at 3:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
