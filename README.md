@@ -3531,3 +3531,11 @@
 - 18/7/2020 at 7:15 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
 - 18/7/2020 at 7:30 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
 - 18/7/2020 at 7:45 -> Battaglia al vertice Ue , il primo giorno fumata nera
+- 18/7/2020 at 8:00 -> Battaglia al vertice Ue , il primo giorno fumata nera
+- 18/7/2020 at 8:15 -> Battaglia al vertice Ue , il primo giorno fumata nera
+- 18/7/2020 at 8:30 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 8:45 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 9:00 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 9:15 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 9:30 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
+- 18/7/2020 at 9:45 -> Battaglia al vertice Ue , Conte fermo sui 750 miliardi
