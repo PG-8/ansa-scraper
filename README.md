@@ -3555,3 +3555,11 @@
 - 18/7/2020 at 13:15 -> Compromesso di Michel, Taglio sussidi di 50 miliardi
 - 18/7/2020 at 13:30 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
 - 18/7/2020 at 13:45 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 14:00 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 14:15 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 14:30 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 14:45 -> Il compromesso di Michel, Olanda: 'Giusta direzione'
+- 18/7/2020 at 15:00 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
+- 18/7/2020 at 15:15 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
+- 18/7/2020 at 15:30 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
+- 18/7/2020 at 15:45 -> Conte,Italia pronta a riforme, Ma stop a dumping e surplus
