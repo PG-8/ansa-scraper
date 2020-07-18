@@ -3499,3 +3499,11 @@
 - 17/7/2020 at 23:15 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
 - 17/7/2020 at 23:30 -> Battaglia in Ue sugli aiuti, Scontro tra Conte e Rutte
 - 17/7/2020 at 23:45 -> Vertice Ue in salita,  Il blocco di Austria e Olanda
+- 18/7/2020 at 00:00 -> Vertice Ue in salita,  Il blocco di Austria e Olanda
+- 18/7/2020 at 00:15 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 00:30 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 00:45 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 1:00 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 1:15 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 1:30 -> È battaglia al Vertice Ue ,  Il blocco di Austria e Olanda
+- 18/7/2020 at 1:45 -> È battaglia al vertice Ue ,  Conte deluso, ma non cede
