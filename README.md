@@ -3635,3 +3635,11 @@
 - 19/7/2020 at 9:15 -> Conte: 'Dobbiamo chiudere, il rinvio non giova alla Ue'
 - 19/7/2020 at 9:30 -> Conte: 'Dobbiamo chiudere, il rinvio non giova alla Ue'
 - 19/7/2020 at 9:45 -> Merkel: 'E' ancora possibile, che non ci sia alcun accordo'
+- 19/7/2020 at 10:00 -> Merkel: 'E' ancora possibile, che non ci sia alcun accordo'
+- 19/7/2020 at 10:15 -> Merkel: 'E' ancora possibile, che non ci sia alcun accordo'
+- 19/7/2020 at 10:30 -> Merkel: 'Giornata decisiva', Kurz: 'Molta strada da fare'
+- 19/7/2020 at 10:45 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
+- 19/7/2020 at 11:00 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
+- 19/7/2020 at 11:15 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
+- 19/7/2020 at 11:30 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
+- 19/7/2020 at 11:45 -> Ore decisive per la trattativa, Vertice a cinque con l'Italia
