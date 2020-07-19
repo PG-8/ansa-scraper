@@ -3667,3 +3667,11 @@
 - 19/7/2020 at 17:15 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
 - 19/7/2020 at 17:30 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
 - 19/7/2020 at 17:45 -> Tre morti in 24 ore, è record, Non succedeva da 5 mesi
+- 19/7/2020 at 18:00 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 18:15 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 18:30 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 18:45 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 19:00 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 19:15 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 19:30 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 19:45 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
