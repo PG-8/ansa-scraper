@@ -3659,3 +3659,11 @@
 - 19/7/2020 at 15:15 -> Ore decisive,la tela di Michel, Conte:'Difendiamo l'Europa'
 - 19/7/2020 at 15:30 -> Ore decisive,la tela di Michel, Conte:'Difendiamo l'Europa'
 - 19/7/2020 at 15:45 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 16:00 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 16:15 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 16:30 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 16:45 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 17:00 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 17:15 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 17:30 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
+- 19/7/2020 at 17:45 -> Tre morti in 24 ore, è record, Non succedeva da 5 mesi
