@@ -3683,3 +3683,11 @@
 - 19/7/2020 at 21:15 -> Vertice europeo in stallo, Duello tra Italia e Olanda
 - 19/7/2020 at 21:30 -> Vertice europeo in stallo, Duello tra Italia e Olanda
 - 19/7/2020 at 21:45 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 22:00 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 22:15 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 22:30 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 22:45 -> Pressing sui paesi frugali, 'Non alzate ancora la posta'
+- 19/7/2020 at 23:00 -> Pressing sui paesi frugali, 'Non alzate ancora la posta'
+- 19/7/2020 at 23:15 -> Pressing sui paesi frugali, 'Non alzate ancora la posta'
+- 19/7/2020 at 23:30 -> Pressing sui paesi frugali, 'Non alzate ancora la posta'
+- 19/7/2020 at 23:45 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
