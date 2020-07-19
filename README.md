@@ -3675,3 +3675,11 @@
 - 19/7/2020 at 19:15 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
 - 19/7/2020 at 19:30 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
 - 19/7/2020 at 19:45 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 20:00 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 20:15 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 20:30 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 20:45 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 21:00 -> Tre morti in 24 ore in Italia, Minimo di vittime da 5 mesi
+- 19/7/2020 at 21:15 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 21:30 -> Vertice europeo in stallo, Duello tra Italia e Olanda
+- 19/7/2020 at 21:45 -> Vertice europeo in stallo, Duello tra Italia e Olanda
