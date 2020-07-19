@@ -3643,3 +3643,11 @@
 - 19/7/2020 at 11:15 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
 - 19/7/2020 at 11:30 -> Rutte: 'Accordo possibile, ma ancora molto è aperto'
 - 19/7/2020 at 11:45 -> Ore decisive per la trattativa, Vertice a cinque con l'Italia
+- 19/7/2020 at 12:00 -> Ore decisive per la trattativa, Vertice a cinque con l'Italia
+- 19/7/2020 at 12:15 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 12:30 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 12:45 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 13:00 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 13:15 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 13:30 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 13:45 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
