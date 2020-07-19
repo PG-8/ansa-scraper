@@ -3651,3 +3651,11 @@
 - 19/7/2020 at 13:15 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
 - 19/7/2020 at 13:30 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
 - 19/7/2020 at 13:45 -> Ore decisive per la trattativa, Orban: 'A fianco dell'Italia'
+- 19/7/2020 at 14:00 -> Conte: 'Maggioranza difende, il progetto Ue contro pochi'
+- 19/7/2020 at 14:15 -> Conte: 'Maggioranza difende, il progetto Ue contro pochi'
+- 19/7/2020 at 14:30 -> Conte: 'Maggioranza difende, il progetto Ue contro pochi'
+- 19/7/2020 at 14:45 -> Conte: 'Maggioranza difende, il progetto Ue contro pochi'
+- 19/7/2020 at 15:00 -> Ore decisive,la tela di Michel, Conte:'Difendiamo l'Europa'
+- 19/7/2020 at 15:15 -> Ore decisive,la tela di Michel, Conte:'Difendiamo l'Europa'
+- 19/7/2020 at 15:30 -> Ore decisive,la tela di Michel, Conte:'Difendiamo l'Europa'
+- 19/7/2020 at 15:45 -> Ore decisive, si cerca intesa, Confronto tra Sud e Frugali
