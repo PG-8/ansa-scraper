@@ -3779,3 +3779,11 @@
 - 20/7/2020 at 21:15 -> I leader Ue verso l'accordo, 209 miliardi all'Italia
 - 20/7/2020 at 21:30 -> I leader Ue verso l'accordo, 209 miliardi all'Italia
 - 20/7/2020 at 21:45 -> Via a plenaria dei leader Ue , All'Italia 209 miliardi
+- 20/7/2020 at 22:00 -> Via a plenaria dei leader Ue , All'Italia 209 miliardi
+- 20/7/2020 at 22:15 -> Via a plenaria dei leader Ue , All'Italia 209 miliardi
+- 20/7/2020 at 22:30 -> Via a plenaria dei leader Ue , All'Italia 209 miliardi
+- 20/7/2020 at 22:45 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 20/7/2020 at 23:00 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 20/7/2020 at 23:15 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 20/7/2020 at 23:30 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 20/7/2020 at 23:45 -> Plenaria dei leader europei , All'Italia 209 miliardi
