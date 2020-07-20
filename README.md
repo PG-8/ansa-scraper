@@ -3747,3 +3747,11 @@
 - 20/7/2020 at 13:15 -> Si tratta sulla bozza Michel, Aut aut di Sassoli per l'intesa
 - 20/7/2020 at 13:30 -> Si tratta sulla bozza Michel, Aut aut di Sassoli per l'intesa
 - 20/7/2020 at 13:45 -> Si tratta sulla bozza Michel, Merkel: 'Intesa possibile'
+- 20/7/2020 at 14:00 -> Si tratta sulla bozza Michel, Merkel: 'Intesa possibile'
+- 20/7/2020 at 14:15 -> Si tratta sulla bozza Michel, Merkel: 'Intesa possibile'
+- 20/7/2020 at 14:30 -> Si tratta sulla bozza Michel, Merkel: 'Intesa possibile'
+- 20/7/2020 at 14:45 -> Si tratta sulla bozza Michel, Merkel: 'Intesa possibile'
+- 20/7/2020 at 15:00 -> Vicina l'intesa in Europa, Merkel: 'Accordo possibile'
+- 20/7/2020 at 15:15 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 15:30 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 15:45 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
