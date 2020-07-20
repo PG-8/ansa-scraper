@@ -3715,3 +3715,11 @@
 - 20/7/2020 at 5:15 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
 - 20/7/2020 at 5:30 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
 - 20/7/2020 at 5:45 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 6:00 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 6:15 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 6:30 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 6:45 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 7:00 -> Pressing sui Paesi Frugali, 'Non alzate ancora la posta'
+- 20/7/2020 at 7:15 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
+- 20/7/2020 at 7:30 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
+- 20/7/2020 at 7:45 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
