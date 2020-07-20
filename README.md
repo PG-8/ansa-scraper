@@ -3771,3 +3771,11 @@
 - 20/7/2020 at 19:15 -> I leader Ue verso l'accordo Idea è fondo da 700 miliardi
 - 20/7/2020 at 19:30 -> I leader Ue verso l'accordo Idea è fondo da 700 miliardi
 - 20/7/2020 at 19:45 -> I leader Ue verso l'accordo Idea è fondo da 750 miliardi
+- 20/7/2020 at 20:00 -> Nuova proposta di Michel, Fondo sale a 750 miliardi
+- 20/7/2020 at 20:15 -> Nuova proposta di Michel, Fondo sale a 750 miliardi
+- 20/7/2020 at 20:30 -> Nuova proposta di Michel, Fondo sale a 750 miliardi
+- 20/7/2020 at 20:45 -> Nuova proposta di Michel, Fondo sale a 750 miliardi
+- 20/7/2020 at 21:00 -> Nuova proposta di Michel, Fondo sale a 750 miliardi
+- 20/7/2020 at 21:15 -> I leader Ue verso l'accordo, 209 miliardi all'Italia
+- 20/7/2020 at 21:30 -> I leader Ue verso l'accordo, 209 miliardi all'Italia
+- 20/7/2020 at 21:45 -> Via a plenaria dei leader Ue , All'Italia 209 miliardi
