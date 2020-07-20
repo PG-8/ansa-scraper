@@ -3763,3 +3763,11 @@
 - 20/7/2020 at 17:15 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
 - 20/7/2020 at 17:30 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
 - 20/7/2020 at 17:45 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 18:00 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 18:15 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 18:30 -> Si tratta sulla bozza Michel, Conte: 'C'è cauto ottimismo'
+- 20/7/2020 at 18:45 -> Si tratta sulla bozza Michel, Costa:Fondo da 700 miliardi
+- 20/7/2020 at 19:00 -> Si tratta sulla bozza Michel, Costa:Fondo da 700 miliardi
+- 20/7/2020 at 19:15 -> I leader Ue verso l'accordo Idea è fondo da 700 miliardi
+- 20/7/2020 at 19:30 -> I leader Ue verso l'accordo Idea è fondo da 700 miliardi
+- 20/7/2020 at 19:45 -> I leader Ue verso l'accordo Idea è fondo da 750 miliardi
