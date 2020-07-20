@@ -3731,3 +3731,11 @@
 - 20/7/2020 at 9:15 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
 - 20/7/2020 at 9:30 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
 - 20/7/2020 at 9:45 -> Ancora niente accordo in Ue, Oggi nuovo round sui fondi
+- 20/7/2020 at 10:00 -> Si tratta ancora per l'intesa, Euro ai massimi, spread giù
+- 20/7/2020 at 10:15 -> Si tratta ancora per l'intesa, Euro ai massimi, spread giù
+- 20/7/2020 at 10:30 -> Si tratta ancora per l'intesa, Euro ai massimi, spread giù
+- 20/7/2020 at 10:45 -> Si tratta ancora per l'intesa, Euro ai massimi, spread giù
+- 20/7/2020 at 11:00 -> Si tratta sulla bozza Michel,, aperture da Olanda e Austria
+- 20/7/2020 at 11:15 -> Si tratta sulla bozza Michel,, aperture da Olanda e Austria
+- 20/7/2020 at 11:30 -> Si tratta sulla bozza Michel,, aperture da Olanda e Austria
+- 20/7/2020 at 11:45 -> Si tratta sulla bozza Michel,, aperture da Olanda e Austria
