@@ -3827,3 +3827,11 @@
 - 21/7/2020 at 9:15 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
 - 21/7/2020 at 9:30 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
 - 21/7/2020 at 9:45 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 10:00 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 10:15 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 10:30 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 10:45 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 11:00 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 11:15 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 11:30 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
+- 21/7/2020 at 11:45 -> Banchi singoli e turni a scuola. Cosa pensano i ragazzi?
