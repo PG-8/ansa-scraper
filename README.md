@@ -3851,3 +3851,11 @@
 - 21/7/2020 at 15:15 -> 'Orgogliosi di essere italiani', All'Italia il 28%, 209 miliardi
 - 21/7/2020 at 15:30 -> 'Orgogliosi di essere italiani', All'Italia il 28%, 209 miliardi
 - 21/7/2020 at 15:45 -> 'Orgogliosi di essere italiani', All'Italia il 28%, 209 miliardi
+- 21/7/2020 at 16:00 -> All'Italia il 28%, 209 miliardi, Gualtieri: Sì a anticipo fondi
+- 21/7/2020 at 16:15 -> Inaugurazione il 3 agosto, per il nuovo ponte di Genova
+- 21/7/2020 at 16:30 -> Inaugurazione il 3 agosto, per il nuovo ponte di Genova
+- 21/7/2020 at 16:45 -> Inaugurazione il 3 agosto, per il nuovo ponte di Genova
+- 21/7/2020 at 17:00 -> Inaugurazione il 3 agosto, per il nuovo ponte di Genova
+- 21/7/2020 at 17:15 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
+- 21/7/2020 at 17:30 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
+- 21/7/2020 at 17:45 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
