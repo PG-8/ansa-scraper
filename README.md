@@ -3811,3 +3811,11 @@
 - 21/7/2020 at 5:15 -> Vertice, "soluzione trovata", Non decide il Consiglio
 - 21/7/2020 at 5:30 -> Vertice, "soluzione trovata", Non decide il Consiglio
 - 21/7/2020 at 5:45 -> Vertice, "soluzione trovata", Non decide il Consiglio
+- 21/7/2020 at 6:00 -> Vertice Ue, trovato l'accordo, "Una giornata storica"
+- 21/7/2020 at 6:15 -> Vertice Ue, trovato l'accordo, "Una giornata storica"
+- 21/7/2020 at 6:30 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 6:45 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 7:00 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 7:15 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 7:30 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
+- 21/7/2020 at 7:45 -> La parola della settimana è 'emergenza' (di Massimo Sebastiani) 
