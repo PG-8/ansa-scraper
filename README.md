@@ -3787,3 +3787,11 @@
 - 20/7/2020 at 23:15 -> Plenaria dei leader europei , All'Italia 209 miliardi
 - 20/7/2020 at 23:30 -> Plenaria dei leader europei , All'Italia 209 miliardi
 - 20/7/2020 at 23:45 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 00:00 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 00:15 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 00:30 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 00:45 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 1:00 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 1:15 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 1:30 -> Plenaria dei leader europei , All'Italia 209 miliardi
+- 21/7/2020 at 1:45 -> Plenaria dei leader europei , All'Italia 209 miliardi
