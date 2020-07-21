@@ -3859,3 +3859,11 @@
 - 21/7/2020 at 17:15 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
 - 21/7/2020 at 17:30 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
 - 21/7/2020 at 17:45 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
+- 21/7/2020 at 18:00 -> Ponte di Genova San Giorgio, L'inaugurazione il 3 agosto
+- 21/7/2020 at 18:15 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 18:30 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 18:45 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 19:00 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 19:15 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 19:30 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 19:45 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
