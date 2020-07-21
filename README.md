@@ -3867,3 +3867,11 @@
 - 21/7/2020 at 19:15 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
 - 21/7/2020 at 19:30 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
 - 21/7/2020 at 19:45 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 20:00 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 20:15 -> Contagi ancora in calo, , sono 129 nelle ultime 24 ore
+- 21/7/2020 at 20:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 21/7/2020 at 20:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 21/7/2020 at 21:00 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 21/7/2020 at 21:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 21/7/2020 at 21:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 21/7/2020 at 21:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
