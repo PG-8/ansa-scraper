@@ -3947,3 +3947,11 @@
 - 22/7/2020 at 15:15 -> 'Reati impressionanti', Arrestati sette carabinieri
 - 22/7/2020 at 15:30 -> 'Reati impressionanti', Arrestati sette carabinieri
 - 22/7/2020 at 15:45 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 16:00 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 16:15 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 16:30 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 16:45 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 17:00 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 17:15 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 17:30 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 17:45 -> 'Reati impressionanti' arrestati sette Carabinieri
