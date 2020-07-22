@@ -3883,3 +3883,11 @@
 - 21/7/2020 at 23:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
 - 21/7/2020 at 23:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
 - 21/7/2020 at 23:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 00:00 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 00:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 00:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 00:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 1:00 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 1:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 1:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 1:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
