@@ -3971,3 +3971,11 @@
 - 22/7/2020 at 21:15 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
 - 22/7/2020 at 21:30 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
 - 22/7/2020 at 21:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 22:00 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 22:15 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 22:30 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 22:45 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 23:00 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 23:15 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 23:30 -> Governo verso scostamento , di bilancio di 25 miliardi
+- 22/7/2020 at 23:45 -> Dal Cdm sì allo scostamento , di bilancio di 25 miliardi
