@@ -3915,3 +3915,11 @@
 - 22/7/2020 at 7:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
 - 22/7/2020 at 7:30 -> I contagi sono ancora in calo, Ma è allerta assembramenti
 - 22/7/2020 at 7:45 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 8:00 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 8:15 -> I contagi sono ancora in calo, Ma è allerta assembramenti
+- 22/7/2020 at 8:30 -> Record negli Stati Uniti , oltre mille morti in 24 ore
+- 22/7/2020 at 8:45 -> Record negli Stati Uniti , oltre mille morti in 24 ore
+- 22/7/2020 at 9:00 -> Record negli Stati Uniti , oltre mille morti in 24 ore
+- 22/7/2020 at 9:15 -> Record negli Stati Uniti , oltre mille morti in 24 ore
+- 22/7/2020 at 9:30 -> Record negli Stati Uniti , oltre mille morti in 24 ore
+- 22/7/2020 at 9:45 -> Oggi il premier riferisce alla Camera e al Senato
