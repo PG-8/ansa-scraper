@@ -3923,3 +3923,11 @@
 - 22/7/2020 at 9:15 -> Record negli Stati Uniti , oltre mille morti in 24 ore
 - 22/7/2020 at 9:30 -> Record negli Stati Uniti , oltre mille morti in 24 ore
 - 22/7/2020 at 9:45 -> Oggi il premier riferisce alla Camera e al Senato
+- 22/7/2020 at 10:00 -> Oggi il premier riferisce alla Camera e al Senato
+- 22/7/2020 at 10:15 -> Oggi il premier riferisce alla Camera e al Senato
+- 22/7/2020 at 10:30 -> Oggi il premier riferisce , alla Camera e al Senato
+- 22/7/2020 at 10:45 -> Oggi il premier riferisce , alla Camera e al Senato
+- 22/7/2020 at 11:00 -> Oggi il premier riferisce , alla Camera e al Senato
+- 22/7/2020 at 11:15 -> Carabinieri arrestati, sequestrata una caserma
+- 22/7/2020 at 11:30 -> Carabinieri arrestati, sequestrata una caserma
+- 22/7/2020 at 11:45 -> Carabinieri arrestati, sequestrata una caserma
