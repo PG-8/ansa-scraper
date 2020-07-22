@@ -3955,3 +3955,11 @@
 - 22/7/2020 at 17:15 -> 'Reati impressionanti' arrestati sette Carabinieri
 - 22/7/2020 at 17:30 -> 'Reati impressionanti' arrestati sette Carabinieri
 - 22/7/2020 at 17:45 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 18:00 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 18:15 -> 'Reati impressionanti' arrestati sette Carabinieri
+- 22/7/2020 at 18:30 -> Turismo, il  65%  degli hotel è a rischio, ripresa nel 2023
+- 22/7/2020 at 18:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 19:00 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 19:15 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 19:30 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 19:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
