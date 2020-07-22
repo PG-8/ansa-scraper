@@ -3963,3 +3963,11 @@
 - 22/7/2020 at 19:15 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
 - 22/7/2020 at 19:30 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
 - 22/7/2020 at 19:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 20:00 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 20:15 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 20:30 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 20:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 21:00 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 21:15 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 21:30 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
+- 22/7/2020 at 21:45 -> Risalgono i contagi in Italia, sono 282 nelle ultime 24 ore
