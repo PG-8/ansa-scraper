@@ -4019,3 +4019,11 @@
 - 23/7/2020 at 9:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
 - 23/7/2020 at 9:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
 - 23/7/2020 at 9:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 10:00 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 10:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 10:30 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
+- 23/7/2020 at 10:45 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
+- 23/7/2020 at 11:00 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
+- 23/7/2020 at 11:15 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
+- 23/7/2020 at 11:30 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
+- 23/7/2020 at 11:45 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
