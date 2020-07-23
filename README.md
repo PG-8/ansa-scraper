@@ -4027,3 +4027,11 @@
 - 23/7/2020 at 11:15 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
 - 23/7/2020 at 11:30 -> Effetto Covid su assunzioni,, crollo -83% ad aprile
 - 23/7/2020 at 11:45 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 12:00 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 12:15 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 12:30 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 12:45 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 13:00 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 13:15 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
+- 23/7/2020 at 13:30 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
+- 23/7/2020 at 13:45 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
