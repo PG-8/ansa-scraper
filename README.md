@@ -4035,3 +4035,11 @@
 - 23/7/2020 at 13:15 -> I paletti di Salvini e Meloni, per il voto sullo scostamento
 - 23/7/2020 at 13:30 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
 - 23/7/2020 at 13:45 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
+- 23/7/2020 at 14:00 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
+- 23/7/2020 at 14:15 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
+- 23/7/2020 at 14:30 -> Tre giovani positivi a Capri , Sindaco: 'Nessuna criticità'
+- 23/7/2020 at 14:45 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 15:00 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 15:15 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 15:30 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 15:45 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
