@@ -4003,3 +4003,11 @@
 - 23/7/2020 at 5:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
 - 23/7/2020 at 5:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
 - 23/7/2020 at 5:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 6:00 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 6:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 6:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 6:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 7:00 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 7:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 7:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 7:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
