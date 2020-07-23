@@ -4059,3 +4059,11 @@
 - 23/7/2020 at 19:15 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
 - 23/7/2020 at 19:30 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
 - 23/7/2020 at 19:45 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 20:00 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 20:15 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 20:30 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 20:45 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 23/7/2020 at 21:00 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 23/7/2020 at 21:15 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 23/7/2020 at 21:30 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 23/7/2020 at 21:45 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
