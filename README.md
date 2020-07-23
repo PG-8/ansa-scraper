@@ -3979,3 +3979,11 @@
 - 22/7/2020 at 23:15 -> Governo verso scostamento , di bilancio di 25 miliardi
 - 22/7/2020 at 23:30 -> Governo verso scostamento , di bilancio di 25 miliardi
 - 22/7/2020 at 23:45 -> Dal Cdm sì allo scostamento , di bilancio di 25 miliardi
+- 23/7/2020 at 00:00 -> Dal Cdm sì allo scostamento , di bilancio di 25 miliardi
+- 23/7/2020 at 00:15 -> Dal Cdm sì allo scostamento , di bilancio di 25 miliardi
+- 23/7/2020 at 00:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 00:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 1:00 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 1:15 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 1:30 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
+- 23/7/2020 at 1:45 -> Sì del Cdm allo scostamento di bilancio di 25 miliardi
