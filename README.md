@@ -4043,3 +4043,11 @@
 - 23/7/2020 at 15:15 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
 - 23/7/2020 at 15:30 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
 - 23/7/2020 at 15:45 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 16:00 -> Il nuovo ponte di Genova , il 5 agosto sarà percorribile
+- 23/7/2020 at 16:15 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 16:30 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 16:45 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 17:00 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 17:15 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 17:30 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 17:45 -> La procura militare indaga, sui carabinieri arrestati
