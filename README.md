@@ -4051,3 +4051,11 @@
 - 23/7/2020 at 17:15 -> La procura militare indaga, sui carabinieri arrestati
 - 23/7/2020 at 17:30 -> La procura militare indaga, sui carabinieri arrestati
 - 23/7/2020 at 17:45 -> La procura militare indaga, sui carabinieri arrestati
+- 23/7/2020 at 18:00 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 18:15 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 18:30 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 18:45 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 19:00 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 19:15 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 19:30 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
+- 23/7/2020 at 19:45 -> Aumentano i contagi, , +306 in 24 ore. Dieci vittime
