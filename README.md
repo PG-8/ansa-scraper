@@ -4115,3 +4115,11 @@
 - 24/7/2020 at 9:15 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
 - 24/7/2020 at 9:30 -> Taylor Swift, nuovo album a sorpresa
 - 24/7/2020 at 9:45 -> Taylor Swift, nuovo album a sorpresa
+- 24/7/2020 at 10:00 -> Taylor Swift, nuovo album a sorpresa
+- 24/7/2020 at 10:15 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 10:30 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 10:45 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 11:00 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 11:15 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 11:30 -> Violento nubifragio a Milano E' esondato il fiume Seveso
+- 24/7/2020 at 11:45 -> Per i carabinieri arrestati, un encomio solenne nel 2018
