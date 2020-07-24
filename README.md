@@ -13,3 +13,6 @@
 - 24/7/2020 at 20:45 -> Quarantena per chi proviene da Romania e Bulgaria
 - 24/7/2020 at 21:00 -> Quarantena per chi proviene da Romania e Bulgaria
 - 24/7/2020 at 21:11 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 21:15 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 21:30 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 21:45 -> Quarantena per chi proviene da Romania e Bulgaria
