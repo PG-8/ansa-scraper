@@ -16,3 +16,11 @@
 - 24/7/2020 at 21:15 -> Quarantena per chi proviene da Romania e Bulgaria
 - 24/7/2020 at 21:30 -> Quarantena per chi proviene da Romania e Bulgaria
 - 24/7/2020 at 21:45 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 22:00 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 22:15 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 22:30 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 22:45 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 23:00 -> Quarantena per chi proviene da Romania e Bulgaria
+- 24/7/2020 at 23:15 -> Camici in Lombardia, indagato Attilio Fontana
+- 24/7/2020 at 23:30 -> Camici in Lombardia, indagato Attilio Fontana
+- 24/7/2020 at 23:45 -> Camici in Lombardia, indagato Attilio Fontana
