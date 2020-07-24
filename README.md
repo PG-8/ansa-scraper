@@ -4139,3 +4139,5 @@
 - 24/7/2020 at 15:15 -> Zanardi ricoverato a Milano , I medici, condizioni instabili
 - 24/7/2020 at 15:30 -> Zanardi ricoverato a Milano , I medici, condizioni instabili
 - 24/7/2020 at 15:45 -> Zanardi ricoverato a Milano , I medici, condizioni instabili
+- 24/7/2020 at 18:42 -> Zanardi ricoverato a Milano , I medici, condizioni instabili
+- 24/7/2020 at 18:45 -> Zanardi ricoverato a Milano , I medici, condizioni instabili
