@@ -4075,3 +4075,11 @@
 - 23/7/2020 at 23:15 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
 - 23/7/2020 at 23:30 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
 - 23/7/2020 at 23:45 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 00:00 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 00:15 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 00:30 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 00:45 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 1:00 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 1:15 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 1:30 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
+- 24/7/2020 at 1:45 -> Salgono i contagi in Italia, , focolai piccoli ma diffusi
