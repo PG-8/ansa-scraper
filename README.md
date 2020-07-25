@@ -80,3 +80,11 @@
 - 25/7/2020 at 13:15 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
 - 25/7/2020 at 13:30 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
 - 25/7/2020 at 13:45 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
+- 25/7/2020 at 14:00 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
+- 25/7/2020 at 14:15 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
+- 25/7/2020 at 14:30 -> Senza mascherine al chiuso, Salerno, multe da mille euro
+- 25/7/2020 at 14:45 -> Senza mascherine al chiuso, Salerno, multe da mille euro
+- 25/7/2020 at 15:00 -> Senza mascherine al chiuso, Salerno, multe da mille euro
+- 25/7/2020 at 15:15 -> Senza mascherine al chiuso, Salerno, multe da mille euro
+- 25/7/2020 at 15:30 -> Senza mascherine al chiuso, Salerno, multe da mille euro
+- 25/7/2020 at 15:45 -> Senza mascherine al chiuso, Salerno, multe da mille euro
