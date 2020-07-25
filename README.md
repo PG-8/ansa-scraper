@@ -96,3 +96,11 @@
 - 25/7/2020 at 17:15 -> Il pusher parla di Montella:, 'Diceva di avere tutti sotto'
 - 25/7/2020 at 17:30 -> Il pusher parla di Montella:, 'Diceva di avere tutti sotto'
 - 25/7/2020 at 17:45 -> Il pusher parla di Montella:, 'Diceva di avere tutti sotto'
+- 25/7/2020 at 18:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 18:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 18:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 18:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 19:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 19:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 19:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 19:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
