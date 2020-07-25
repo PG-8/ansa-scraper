@@ -64,3 +64,11 @@
 - 25/7/2020 at 9:15 -> Rogo in una Rsa a La Spezia morto un anziano ospite
 - 25/7/2020 at 9:30 -> Rogo in una Rsa a La Spezia morto un anziano ospite
 - 25/7/2020 at 9:45 -> Rogo in una Rsa a La Spezia morto un anziano ospite
+- 25/7/2020 at 10:00 -> Rogo in una Rsa a La Spezia morto un anziano ospite
+- 25/7/2020 at 10:15 -> Fontana: 'Sono certo dell'operato della Regione'
+- 25/7/2020 at 10:30 -> Fontana: 'Sono certo dell'operato della Regione'
+- 25/7/2020 at 10:45 -> Fontana: 'Sono certo dell'operato della Regione'
+- 25/7/2020 at 11:00 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
+- 25/7/2020 at 11:15 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
+- 25/7/2020 at 11:30 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
+- 25/7/2020 at 11:45 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
