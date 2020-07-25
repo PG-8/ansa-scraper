@@ -72,3 +72,11 @@
 - 25/7/2020 at 11:15 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
 - 25/7/2020 at 11:30 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
 - 25/7/2020 at 11:45 -> L'ira del sindaco: 'Dichiaro io lo stato d'emergenza'
+- 25/7/2020 at 12:00 -> Lampedusa, ira del sindaco:, 'Serve lo stato di emergenza'
+- 25/7/2020 at 12:15 -> Lampedusa, ira del sindaco:, 'Serve lo stato di emergenza'
+- 25/7/2020 at 12:30 -> Lampedusa, ira del sindaco:, 'Serve lo stato di emergenza'
+- 25/7/2020 at 12:45 -> Lampedusa, ira del sindaco:, 'Serve lo stato di emergenza'
+- 25/7/2020 at 13:00 -> Lampedusa, ira del sindaco:, 'Serve lo stato di emergenza'
+- 25/7/2020 at 13:15 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
+- 25/7/2020 at 13:30 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
+- 25/7/2020 at 13:45 -> Inchiesta partita da bonifico, fatto da Fontana al cognato
