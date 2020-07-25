@@ -56,3 +56,11 @@
 - 25/7/2020 at 7:15 -> Camici in Lombardia, indagato Attilio Fontana
 - 25/7/2020 at 7:30 -> Camici in Lombardia, indagato Attilio Fontana
 - 25/7/2020 at 7:45 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 8:00 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 8:15 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 8:30 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 8:45 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 9:00 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 9:15 -> Rogo in una Rsa a La Spezia morto un anziano ospite
+- 25/7/2020 at 9:30 -> Rogo in una Rsa a La Spezia morto un anziano ospite
+- 25/7/2020 at 9:45 -> Rogo in una Rsa a La Spezia morto un anziano ospite
