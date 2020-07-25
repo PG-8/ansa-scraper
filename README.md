@@ -24,3 +24,11 @@
 - 24/7/2020 at 23:15 -> Camici in Lombardia, indagato Attilio Fontana
 - 24/7/2020 at 23:30 -> Camici in Lombardia, indagato Attilio Fontana
 - 24/7/2020 at 23:45 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 00:00 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 00:15 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 00:30 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 00:45 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 1:00 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 1:15 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 1:30 -> Camici in Lombardia, indagato Attilio Fontana
+- 25/7/2020 at 1:45 -> Camici in Lombardia, indagato Attilio Fontana
