@@ -104,3 +104,11 @@
 - 25/7/2020 at 19:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 25/7/2020 at 19:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 25/7/2020 at 19:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 20:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 20:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 20:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 20:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 21:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 21:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 21:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 25/7/2020 at 21:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
