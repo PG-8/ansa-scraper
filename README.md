@@ -208,3 +208,11 @@
 - 26/7/2020 at 21:15 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
 - 26/7/2020 at 21:30 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
 - 26/7/2020 at 21:45 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 22:00 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 22:15 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 22:30 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 22:45 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 23:00 -> In campo Juve-Samp 1-0 LIVE sblocca un gol di CR7
+- 26/7/2020 at 23:15 -> In campo Juve-Samp 1-0 LIVE sblocca un gol di CR7
+- 26/7/2020 at 23:30 -> In campo Juve-Samp 2-0 LIVE gol di Bernardeschi
+- 26/7/2020 at 23:45 -> In campo Juve-Samp 2-0 LIVE gol di Bernardeschi
