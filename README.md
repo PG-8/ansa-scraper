@@ -152,3 +152,11 @@
 - 26/7/2020 at 7:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 26/7/2020 at 7:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 26/7/2020 at 7:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 8:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 8:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 8:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 8:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 9:00 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 9:15 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 9:30 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 9:45 -> Nel mondo raggiunta quota, 16 milioni di contagiati
