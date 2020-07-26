@@ -192,3 +192,11 @@
 - 26/7/2020 at 17:15 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
 - 26/7/2020 at 17:30 -> Presto test su passeggeri bus dai Paesi a rischio Covid-19
 - 26/7/2020 at 17:45 -> Presto test su passeggeri bus dai Paesi a rischio Covid-19
+- 26/7/2020 at 18:00 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 18:15 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 18:30 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 18:45 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 19:00 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 19:15 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 19:30 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
+- 26/7/2020 at 19:45 -> I nuovi positivi sono 255, Casi in calo, cinque i morti
