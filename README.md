@@ -168,3 +168,11 @@
 - 26/7/2020 at 11:15 -> Nel mondo raggiunta quota, 16 milioni di contagiati
 - 26/7/2020 at 11:30 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
 - 26/7/2020 at 11:45 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 12:00 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 12:15 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 12:30 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 12:45 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 13:00 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 13:15 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 13:30 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 13:45 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
