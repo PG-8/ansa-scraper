@@ -160,3 +160,11 @@
 - 26/7/2020 at 9:15 -> Nel mondo raggiunta quota, 16 milioni di contagiati
 - 26/7/2020 at 9:30 -> Nel mondo raggiunta quota, 16 milioni di contagiati
 - 26/7/2020 at 9:45 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 10:00 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 10:15 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 10:30 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 10:45 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 11:00 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 11:15 -> Nel mondo raggiunta quota, 16 milioni di contagiati
+- 26/7/2020 at 11:30 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
+- 26/7/2020 at 11:45 -> Il volontario confessa, 'Dato fuoco alla cattedrale'
