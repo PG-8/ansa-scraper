@@ -144,3 +144,11 @@
 - 26/7/2020 at 5:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 26/7/2020 at 5:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
 - 26/7/2020 at 5:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 6:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 6:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 6:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 6:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 7:00 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 7:15 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 7:30 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
+- 26/7/2020 at 7:45 -> Lieve aumento dei positivi , I nuovi in Italia sono 275
