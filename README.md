@@ -176,3 +176,19 @@
 - 26/7/2020 at 13:15 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
 - 26/7/2020 at 13:30 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
 - 26/7/2020 at 13:45 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 14:00 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 14:15 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 14:30 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 14:45 -> Verifica sui conti svizzeri, di Fontana 'atto dovuto'
+- 26/7/2020 at 15:00 -> 'Stop all'invio delle cartelle , prorogato fino a novembre'
+- 26/7/2020 at 15:15 -> 'Stop all'invio delle cartelle, prorogato fino a novembre'
+- 26/7/2020 at 15:30 -> 'Stop all'invio delle cartelle, prorogato fino a novembre'
+- 26/7/2020 at 15:45 -> 'Stop all'invio delle cartelle, prorogato fino a novembre'
+- 26/7/2020 at 16:00 -> 'Stop all'invio delle cartelle, prorogato fino a novembre'
+- 26/7/2020 at 16:15 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
+- 26/7/2020 at 16:30 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
+- 26/7/2020 at 16:45 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
+- 26/7/2020 at 17:00 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
+- 26/7/2020 at 17:15 -> Sgravi fiscali per neoassunti, allo studio misure sul lavoro
+- 26/7/2020 at 17:30 -> Presto test su passeggeri bus dai Paesi a rischio Covid-19
+- 26/7/2020 at 17:45 -> Presto test su passeggeri bus dai Paesi a rischio Covid-19
