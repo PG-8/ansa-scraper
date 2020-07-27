@@ -256,3 +256,11 @@
 - 27/7/2020 at 9:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
 - 27/7/2020 at 9:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
 - 27/7/2020 at 9:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 10:00 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 10:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 10:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 10:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 11:00 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 11:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 11:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 11:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
