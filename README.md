@@ -232,3 +232,11 @@
 - 27/7/2020 at 3:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
 - 27/7/2020 at 3:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
 - 27/7/2020 at 3:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 4:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 4:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 4:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 4:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 5:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 5:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 5:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 5:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
