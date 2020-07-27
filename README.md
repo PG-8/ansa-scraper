@@ -280,3 +280,19 @@
 - 27/7/2020 at 15:15 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
 - 27/7/2020 at 15:30 -> 'In classe dal 14 settembre' Test sierologici a campione
 - 27/7/2020 at 15:45 -> 'In classe dal 14 settembre' Test sierologici a campione
+- 27/7/2020 at 16:00 -> 'In classe dal 14 settembre' Test sierologici a campione
+- 27/7/2020 at 16:15 -> 'In classe dal 14 settembre' Test sierologici a campione
+- 27/7/2020 at 16:30 -> Migranti: fuga di massa dalla tensostruttura di Porto Empedocle 
+- 27/7/2020 at 16:45 -> Fuga di massa tra i migranti, a Porto Empedocle
+- 27/7/2020 at 17:00 -> Fuga di massa tra i migranti, a Porto Empedocle
+- 27/7/2020 at 17:15 -> Fuga di massa tra i migranti, a Porto Empedocle
+- 27/7/2020 at 17:30 -> Fuga di massa tra i migranti, a Porto Empedocle
+- 27/7/2020 at 17:45 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 18:00 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 18:15 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 18:30 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 18:45 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 19:00 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 19:15 -> Netto calo dei contagi, cinque vittime in 24 ore
+- 27/7/2020 at 19:30 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 19:45 -> Fughe di migranti, il governo manda l'esercito nei centri
