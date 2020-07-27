@@ -264,3 +264,11 @@
 - 27/7/2020 at 11:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
 - 27/7/2020 at 11:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
 - 27/7/2020 at 11:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 12:00 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 12:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 12:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 12:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 13:00 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 13:15 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 13:30 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 13:45 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
