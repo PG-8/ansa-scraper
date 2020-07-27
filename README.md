@@ -216,3 +216,11 @@
 - 26/7/2020 at 23:15 -> In campo Juve-Samp 1-0 LIVE sblocca un gol di CR7
 - 26/7/2020 at 23:30 -> In campo Juve-Samp 2-0 LIVE gol di Bernardeschi
 - 26/7/2020 at 23:45 -> In campo Juve-Samp 2-0 LIVE gol di Bernardeschi
+- 27/7/2020 at 00:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 00:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 00:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 00:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 1:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 1:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 1:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 1:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
