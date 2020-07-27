@@ -296,3 +296,11 @@
 - 27/7/2020 at 19:15 -> Netto calo dei contagi, cinque vittime in 24 ore
 - 27/7/2020 at 19:30 -> Fughe di migranti, il governo manda l'esercito nei centri
 - 27/7/2020 at 19:45 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 20:00 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 20:15 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 20:30 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 20:45 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 21:00 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 21:15 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 21:30 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 21:45 -> Fughe di migranti, il governo manda l'esercito nei centri
