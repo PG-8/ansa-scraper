@@ -272,3 +272,11 @@
 - 27/7/2020 at 13:15 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
 - 27/7/2020 at 13:30 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
 - 27/7/2020 at 13:45 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 14:00 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 14:15 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 14:30 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 14:45 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 15:00 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 15:15 -> Morta Olivia <br>de Havilland, la star <br>di Via col Vento
+- 27/7/2020 at 15:30 -> 'In classe dal 14 settembre' Test sierologici a campione
+- 27/7/2020 at 15:45 -> 'In classe dal 14 settembre' Test sierologici a campione
