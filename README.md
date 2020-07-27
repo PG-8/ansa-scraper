@@ -248,3 +248,11 @@
 - 27/7/2020 at 7:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
 - 27/7/2020 at 7:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
 - 27/7/2020 at 7:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 8:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 8:15 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 8:30 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 8:45 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 9:00 -> Juventus campione d'Italia, Nono scudetto consecutivo
+- 27/7/2020 at 9:15 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 9:30 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
+- 27/7/2020 at 9:45 -> Cdp in Aspi con la quotazione,&nbsp; sarà operazione di mercato
