@@ -304,3 +304,11 @@
 - 27/7/2020 at 21:15 -> Fughe di migranti, il governo manda l'esercito nei centri
 - 27/7/2020 at 21:30 -> Fughe di migranti, il governo manda l'esercito nei centri
 - 27/7/2020 at 21:45 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 22:00 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 22:15 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 22:30 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 22:45 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 23:00 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 23:15 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 23:30 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 27/7/2020 at 23:45 -> Fughe di migranti, il governo manda l'esercito nei centri
