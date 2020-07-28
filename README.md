@@ -352,3 +352,11 @@
 - 28/7/2020 at 9:15 -> Fughe di migranti, il governo manda l'esercito nei centri
 - 28/7/2020 at 9:30 -> Fughe di migranti, il governo manda l'esercito nei centri
 - 28/7/2020 at 9:45 -> Fughe di migranti, il governo manda l'esercito nei centri
+- 28/7/2020 at 10:00 -> Lampedusa, ancora sbarchi, L'hotspot oltre la capienza
+- 28/7/2020 at 10:15 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
+- 28/7/2020 at 10:30 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
+- 28/7/2020 at 10:45 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
+- 28/7/2020 at 11:00 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
+- 28/7/2020 at 11:15 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
+- 28/7/2020 at 11:30 -> 'La priorità è aprire tutto', Speranza: 'Ad agosto Cts'
+- 28/7/2020 at 11:45 -> 'Ad agosto il parere del Cts', Speranza, priorità è riaprire
