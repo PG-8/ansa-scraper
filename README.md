@@ -360,3 +360,11 @@
 - 28/7/2020 at 11:15 -> Lampedusa, ancora sbarchi, L'hotspot è oltre la capienza
 - 28/7/2020 at 11:30 -> 'La priorità è aprire tutto', Speranza: 'Ad agosto Cts'
 - 28/7/2020 at 11:45 -> 'Ad agosto il parere del Cts', Speranza, priorità è riaprire
+- 28/7/2020 at 12:00 -> 'Ad agosto il parere del Cts', Speranza, priorità è riaprire
+- 28/7/2020 at 12:15 -> 'Ad agosto il parere del Cts', Speranza, priorità è riaprire
+- 28/7/2020 at 12:30 -> Operata sveglia al cervello a 14 anni, con la madre vicina
+- 28/7/2020 at 12:45 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
+- 28/7/2020 at 13:00 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
+- 28/7/2020 at 13:15 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
+- 28/7/2020 at 13:30 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
+- 28/7/2020 at 13:45 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
