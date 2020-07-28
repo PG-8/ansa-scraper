@@ -368,3 +368,11 @@
 - 28/7/2020 at 13:15 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
 - 28/7/2020 at 13:30 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
 - 28/7/2020 at 13:45 -> Agricoltura virtuosa, Spighe verdi a 46 Comuni
+- 28/7/2020 at 14:00 -> 'Ad agosto il parere del Cts', Azzolina: 'Stop classi pollaio'
+- 28/7/2020 at 14:15 -> 'Ad agosto il parere del Cts', Azzolina: 'Stop classi pollaio'
+- 28/7/2020 at 14:30 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 14:45 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 15:00 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 15:15 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 15:30 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 15:45 -> Due migranti sudanesi riportati  in Libia e uccisi
