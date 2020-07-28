@@ -376,3 +376,11 @@
 - 28/7/2020 at 15:15 -> Due migranti sudanesi riportati  in Libia e uccisi
 - 28/7/2020 at 15:30 -> Due migranti sudanesi riportati  in Libia e uccisi
 - 28/7/2020 at 15:45 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 16:00 -> Due migranti sudanesi riportati  in Libia e uccisi
+- 28/7/2020 at 16:15 -> Guardia costiera libica spara, Uccisi tre migranti, 5 feriti
+- 28/7/2020 at 16:30 -> Guardia costiera libica spara, Uccisi tre migranti, 4 feriti
+- 28/7/2020 at 16:45 -> Guardia costiera libica spara, Uccisi tre migranti, 4 feriti
+- 28/7/2020 at 17:00 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
+- 28/7/2020 at 17:15 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
+- 28/7/2020 at 17:30 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
+- 28/7/2020 at 17:45 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
