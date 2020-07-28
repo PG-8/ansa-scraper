@@ -384,3 +384,11 @@
 - 28/7/2020 at 17:15 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
 - 28/7/2020 at 17:30 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
 - 28/7/2020 at 17:45 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
+- 28/7/2020 at 18:00 -> Eutanasia, Marcucci a Casellati: 'Calendarizzare ddl'
+- 28/7/2020 at 18:15 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 18:30 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 18:45 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 19:00 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 19:15 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 19:30 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
+- 28/7/2020 at 19:45 -> In salvo alpinisti caduti in un crepaccio sul Monte Bianco
