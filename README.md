@@ -440,3 +440,11 @@
 - 29/7/2020 at 7:15 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
 - 29/7/2020 at 7:30 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
 - 29/7/2020 at 7:45 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 8:00 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 8:15 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 8:30 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 8:45 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 9:00 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 9:15 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 9:30 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 9:45 -> Conte proroga l'emergenza 'Non è autoritarismo'
