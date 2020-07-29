@@ -488,3 +488,11 @@
 - 29/7/2020 at 19:15 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
 - 29/7/2020 at 19:30 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
 - 29/7/2020 at 19:45 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 20:00 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 20:15 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 20:30 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 20:45 -> Sì a scostamento bilancio, ma è caos commissioni
+- 29/7/2020 at 21:00 -> Sì a scostamento bilancio, ma è caos commissioni
+- 29/7/2020 at 21:15 -> Sì a scostamento di bilancio, ma è caos commissioni
+- 29/7/2020 at 21:30 -> Sì a scostamento di bilancio, ma è caos commissioni
+- 29/7/2020 at 21:45 -> Sì a scostamento di bilancio, ma è caos commissioni
