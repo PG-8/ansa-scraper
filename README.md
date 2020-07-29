@@ -456,3 +456,11 @@
 - 29/7/2020 at 11:15 -> Conte, una scelta inevitabile, per certi aspetti obbligata
 - 29/7/2020 at 11:30 -> Conte, una scelta inevitabile, per certi aspetti obbligata
 - 29/7/2020 at 11:45 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 12:00 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 12:15 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 12:30 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 12:45 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 13:00 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 13:15 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 13:30 -> Conte, scelta inevitabile, E' grave dire liberticida
+- 29/7/2020 at 13:45 -> Camera approva la proroga, Conte:'Non siamo liberticidi'
