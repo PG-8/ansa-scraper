@@ -448,3 +448,11 @@
 - 29/7/2020 at 9:15 -> Conte proroga l'emergenza 'Non è autoritarismo'
 - 29/7/2020 at 9:30 -> Conte proroga l'emergenza 'Non è autoritarismo'
 - 29/7/2020 at 9:45 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 10:00 -> Conte proroga l'emergenza 'Non è autoritarismo'
+- 29/7/2020 at 10:15 -> Conte proroga emergenza, 'non è autoritarismo'
+- 29/7/2020 at 10:30 -> Conte proroga emergenza, 'non è autoritarismo'
+- 29/7/2020 at 10:45 -> Conte, una scelta inevitabile, per certi aspetti obbligata
+- 29/7/2020 at 11:00 -> Conte, una scelta inevitabile, per certi aspetti obbligata
+- 29/7/2020 at 11:15 -> Conte, una scelta inevitabile, per certi aspetti obbligata
+- 29/7/2020 at 11:30 -> Conte, una scelta inevitabile, per certi aspetti obbligata
+- 29/7/2020 at 11:45 -> Conte, scelta inevitabile, E' grave dire liberticida
