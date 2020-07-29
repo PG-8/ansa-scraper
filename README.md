@@ -432,3 +432,11 @@
 - 29/7/2020 at 5:15 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
 - 29/7/2020 at 5:30 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
 - 29/7/2020 at 5:45 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 6:00 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 6:15 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 6:30 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 6:45 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 7:00 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 7:15 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 7:30 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
+- 29/7/2020 at 7:45 -> Proroga fino al 15 ottobre Conte: il virus circola ancora
