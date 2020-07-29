@@ -472,3 +472,11 @@
 - 29/7/2020 at 15:15 -> Sequestrati 25 mila camici non consegnati dalla Dama
 - 29/7/2020 at 15:30 -> Sequestrati 25 mila camici non consegnati dalla Dama
 - 29/7/2020 at 15:45 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 16:00 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 16:15 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 16:30 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 16:45 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 17:00 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 17:15 -> Sequestrati 25 mila camici non consegnati dalla Dama
+- 29/7/2020 at 17:30 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 17:45 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
