@@ -480,3 +480,11 @@
 - 29/7/2020 at 17:15 -> Sequestrati 25 mila camici non consegnati dalla Dama
 - 29/7/2020 at 17:30 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
 - 29/7/2020 at 17:45 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 18:00 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 18:15 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 18:30 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 18:45 -> 'Obiettivo ripresa duratura Atteso rimbalzo Pil del 15%'
+- 29/7/2020 at 19:00 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 19:15 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 19:30 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
+- 29/7/2020 at 19:45 -> Sì a scostamento bilancio, Gualtieri: 'Rimbalzo pil 15%'
