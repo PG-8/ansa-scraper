@@ -544,3 +544,11 @@
 - 30/7/2020 at 9:15 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
 - 30/7/2020 at 9:30 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
 - 30/7/2020 at 9:45 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 10:00 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 10:15 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 10:30 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 10:45 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 11:00 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 11:15 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 11:30 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 11:45 -> Persi 600 mila occupati rispetto al pre-Covid
