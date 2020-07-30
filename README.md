@@ -512,3 +512,11 @@
 - 30/7/2020 at 1:15 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
 - 30/7/2020 at 1:30 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
 - 30/7/2020 at 1:45 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 2:00 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 2:15 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 2:30 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 2:45 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 3:00 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 3:15 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 3:30 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 3:45 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
