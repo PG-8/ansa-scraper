@@ -552,3 +552,11 @@
 - 30/7/2020 at 11:15 -> Persi 600 mila occupati rispetto al pre-Covid
 - 30/7/2020 at 11:30 -> Persi 600 mila occupati rispetto al pre-Covid
 - 30/7/2020 at 11:45 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 12:00 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 12:15 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 12:30 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 12:45 -> Persi 600 mila occupati rispetto al pre-Covid
+- 30/7/2020 at 13:00 -> Mattarella ricorda le vittime, 'Impegno per la verità'
+- 30/7/2020 at 13:15 -> Mattarella ricorda le vittime, 'Impegno per la verità'
+- 30/7/2020 at 13:30 -> Mattarella ricorda le vittime, 'Impegno per la verità'
+- 30/7/2020 at 13:45 -> Hong Kong: candidati pro democrazia esclusi dalle elezioni 
