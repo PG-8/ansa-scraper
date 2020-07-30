@@ -536,3 +536,11 @@
 - 30/7/2020 at 7:15 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
 - 30/7/2020 at 7:30 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
 - 30/7/2020 at 7:45 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 8:00 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 8:15 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 8:30 -> Sì a scostamento di bilancio,, ma è caos sulle commissioni
+- 30/7/2020 at 8:45 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 9:00 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 9:15 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 9:30 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
+- 30/7/2020 at 9:45 -> Oggi il Senato vota su Salvini Lampedusa, ancora sbarchi
