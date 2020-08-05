@@ -560,3 +560,23 @@
 - 30/7/2020 at 13:15 -> Mattarella ricorda le vittime, 'Impegno per la verità'
 - 30/7/2020 at 13:30 -> Mattarella ricorda le vittime, 'Impegno per la verità'
 - 30/7/2020 at 13:45 -> Hong Kong: candidati pro democrazia esclusi dalle elezioni 
+- 30/7/2020 at 14:00 -> Instagram censura Madonna, false informazioni Covid'
+- 30/7/2020 at 14:15 -> Instagram censura Madonna, false informazioni Covid'
+- 30/7/2020 at 14:30 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 30/7/2020 at 14:45 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 30/7/2020 at 15:00 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 30/7/2020 at 15:15 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 30/7/2020 at 15:30 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 30/7/2020 at 15:45 -> Cc arrestati: il Gip dice no alle richieste di scarcerazione
+- 4/8/2020 at 20:30 -> Due forti esplosioni a Beirut, almeno 10 morti, molti feriti
+- 4/8/2020 at 20:45 -> 'Sembrava Hiroshima', Almeno 10 morti, molti feriti
+- 4/8/2020 at 21:00 -> 'Esplosioni come Hiroshima', Almeno 10 morti, molti feriti
+- 4/8/2020 at 21:15 -> 'Esplosioni come Hiroshima', Almeno 27 morti, 2500 feriti
+- 4/8/2020 at 21:30 -> 'Esplosioni come Hiroshima', Almeno 27 morti, 2500 feriti
+- 5/8/2020 at 18:15 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 18:30 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 18:45 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 19:00 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 19:15 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 19:30 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 19:45 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
