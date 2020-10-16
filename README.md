@@ -580,3 +580,6 @@
 - 5/8/2020 at 19:15 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
 - 5/8/2020 at 19:30 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
 - 5/8/2020 at 19:45 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 20:00 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 20:15 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
+- 5/8/2020 at 20:30 -> Sindacati sul piede di guerra, 'No licenziamenti o sciopero'
