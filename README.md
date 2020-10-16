@@ -2,3 +2,10 @@
 
 *The content below is not curated, nor intended to be*
 
+- 16/10/2020 at 22:15 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 22:30 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 22:45 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 23:00 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 23:15 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 23:30 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 23:45 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
