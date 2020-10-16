@@ -5,7 +5,7 @@ const currentDate = [date.getDate(), date.getMonth() + 1, date.getFullYear()]
 const currentTime = [date.getHours(), date.getMinutes()]
 
 function readContent(callback) {
-	fs.readFile('/home/pg-8/programming/ansa-scraper/scrape.txt', 'UTF-8', function (err, content) {
+	fs.readFile('/home/pietro/Desktop/ansa-scraper/scrape.txt', 'UTF-8', function (err, content) {
 		if (err) return callback(err)
 		callback(null, content)
 	})
@@ -29,7 +29,7 @@ const extractResult = (scrape) => {
 
 readContent(function (err, content) {
 	fs.appendFileSync(
-		'/home/pg-8/programming/ansa-scraper/README.md',
+		'/home/pietro/Desktop/ansa-scraper/README.md',
 		`- ${(currentDate.map((el) => el)).toString().replace(/,/g, '/')} at ${(currentTime[0] === 0)? '00': currentTime[0]}:${(currentTime[1] === 0)? '00': currentTime[1]} -> ${extractResult(content)}\n`
 	)
 })

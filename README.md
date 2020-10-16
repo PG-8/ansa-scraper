@@ -583,3 +583,6 @@
 - 5/8/2020 at 20:00 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
 - 5/8/2020 at 20:15 -> Balzo dei contagi, +384, 10 morti, il doppio di ieri
 - 5/8/2020 at 20:30 -> Sindacati sul piede di guerra, 'No licenziamenti o sciopero'
+- 16/10/2020 at 22:00 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 22:5 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 16/10/2020 at 22:5 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
