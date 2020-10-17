@@ -73,3 +73,11 @@
 - 17/10/2020 at 15:15 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
 - 17/10/2020 at 15:30 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
 - 17/10/2020 at 15:45 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
+- 17/10/2020 at 16:00 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
+- 17/10/2020 at 16:15 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
+- 17/10/2020 at 16:30 -> 'Nuova stretta sulla movida, Lo smart working sia al 75%'
+- 17/10/2020 at 16:45 -> Niente stop per parrucchieri, Si valuta per le palestre
+- 17/10/2020 at 17:00 -> Niente stop per parrucchieri, Si valuta per le palestre
+- 17/10/2020 at 17:15 -> Niente stop per parrucchieri, Si valuta per le palestre
+- 17/10/2020 at 17:30 -> Ancora casi in aumento Sono 10.925, i decessi 47
+- 17/10/2020 at 17:45 -> Ancora casi in aumento Sono 10.925, i decessi 47
