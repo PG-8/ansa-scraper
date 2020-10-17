@@ -33,3 +33,11 @@
 - 17/10/2020 at 5:15 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
 - 17/10/2020 at 5:30 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
 - 17/10/2020 at 5:45 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 17/10/2020 at 6:00 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 17/10/2020 at 6:15 -> I contagi a quota 10mila, Conte: 'Ora nuova strategia'
+- 17/10/2020 at 6:30 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
+- 17/10/2020 at 6:45 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
+- 17/10/2020 at 7:00 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
+- 17/10/2020 at 7:15 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
+- 17/10/2020 at 7:30 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
+- 17/10/2020 at 7:45 -> Tra domani e lunedì il dpcm, Ipotesi di coprifuoco alle 22
