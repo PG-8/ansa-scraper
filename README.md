@@ -49,3 +49,11 @@
 - 17/10/2020 at 9:15 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
 - 17/10/2020 at 9:30 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
 - 17/10/2020 at 9:45 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 10:00 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 10:15 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 10:30 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 10:45 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 11:00 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 11:15 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 11:30 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
+- 17/10/2020 at 11:45 -> Aumentano i 'nuovi poveri' Allarme Caritas: sono il 45%
