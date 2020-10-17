@@ -89,3 +89,11 @@
 - 17/10/2020 at 19:15 -> Ancora casi in aumento Sono 10.925, i decessi 47
 - 17/10/2020 at 19:30 -> Ancora casi in aumento Sono 10.925, i decessi 47
 - 17/10/2020 at 19:45 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 20:00 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 20:15 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 20:30 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 20:45 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 21:00 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 21:15 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 21:30 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 21:45 -> Parrucchieri, niente stop, Si valuta per le palestre
