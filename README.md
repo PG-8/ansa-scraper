@@ -97,3 +97,11 @@
 - 17/10/2020 at 21:15 -> Parrucchieri, niente stop, Si valuta per le palestre
 - 17/10/2020 at 21:30 -> Parrucchieri, niente stop, Si valuta per le palestre
 - 17/10/2020 at 21:45 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 22:00 -> Parrucchieri, niente stop, Si valuta per le palestre
+- 17/10/2020 at 22:15 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 22:30 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 22:45 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 23:00 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 23:15 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 23:30 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 17/10/2020 at 23:45 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
