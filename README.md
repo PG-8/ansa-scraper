@@ -153,3 +153,11 @@
 - 18/10/2020 at 11:15 -> Catalfo: 'Zero contributi , per chi assume under35'
 - 18/10/2020 at 11:30 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
 - 18/10/2020 at 11:45 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
+- 18/10/2020 at 12:00 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
+- 18/10/2020 at 12:15 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
+- 18/10/2020 at 12:30 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
+- 18/10/2020 at 12:45 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
+- 18/10/2020 at 13:00 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
+- 18/10/2020 at 13:15 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
+- 18/10/2020 at 13:30 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
+- 18/10/2020 at 13:45 -> Pressing delle Regioni, 'No alla stretta sui locali'
