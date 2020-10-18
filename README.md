@@ -169,3 +169,11 @@
 - 18/10/2020 at 15:15 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
 - 18/10/2020 at 15:30 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
 - 18/10/2020 at 15:45 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 16:00 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 16:15 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 16:30 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 16:45 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 17:00 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 17:15 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 17:30 -> Ancora casi in aumento Sono 11.705. I decessi 69
+- 18/10/2020 at 17:45 -> Ancora casi in aumento Sono 11.705. I decessi 69
