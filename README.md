@@ -185,3 +185,11 @@
 - 18/10/2020 at 19:15 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
 - 18/10/2020 at 19:30 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
 - 18/10/2020 at 19:45 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 20:00 -> Nuove misure anti covid, Tensione su scuola-palestre
+- 18/10/2020 at 20:15 -> Nuove misure anti covid, Tensione su scuola-palestre
+- 18/10/2020 at 20:30 -> Nuove misure anti covid, Tensione su scuola-palestre
+- 18/10/2020 at 20:45 -> Nuove misure anti covid, Tensione su scuola-palestre
+- 18/10/2020 at 21:00 -> Nuove misure anti covid, Tensione su scuola-palestre
+- 18/10/2020 at 21:15 -> Nuove misure anti covid. Tensione su scuola-palestre
+- 18/10/2020 at 21:30 -> Dpcm, nuove misure anti covid. Tensione su scuola e palestre
+- 18/10/2020 at 21:45 -> Distinguere Covid da influenza,Spallanzani sperimenterà test
