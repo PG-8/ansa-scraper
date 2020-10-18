@@ -121,3 +121,11 @@
 - 18/10/2020 at 3:15 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
 - 18/10/2020 at 3:30 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
 - 18/10/2020 at 3:45 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 4:00 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 4:15 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 4:30 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 4:45 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 5:00 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 5:15 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 5:30 -> Braccio di ferro sulla stretta, Conte: 'Scelte con le Regioni'
+- 18/10/2020 at 5:45 -> Braccio di ferro sulla stretta, Stasera l'annuncio di Conte
