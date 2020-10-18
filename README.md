@@ -145,3 +145,11 @@
 - 18/10/2020 at 9:15 -> Assegno unico, vaccini, Sud, Ecco le novità della manovra
 - 18/10/2020 at 9:30 -> Assegno unico, vaccini, Sud, Ecco le novità della manovra
 - 18/10/2020 at 9:45 -> Assegno unico, vaccini, Sud, Ecco le novità della manovra
+- 18/10/2020 at 10:00 -> Assegno unico, vaccini, Sud, Ecco le novità della manovra
+- 18/10/2020 at 10:15 -> Assegno unico, vaccini, Sud, Ecco le novità della manovra
+- 18/10/2020 at 10:30 -> Catalfo: 'Zero contributi , per chi assume under35'
+- 18/10/2020 at 10:45 -> Catalfo: 'Zero contributi , per chi assume under35'
+- 18/10/2020 at 11:00 -> Catalfo: 'Zero contributi , per chi assume under35'
+- 18/10/2020 at 11:15 -> Catalfo: 'Zero contributi , per chi assume under35'
+- 18/10/2020 at 11:30 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
+- 18/10/2020 at 11:45 -> Le nuove misure anti-Covid, Riunione Governo-Regioni
