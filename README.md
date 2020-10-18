@@ -161,3 +161,11 @@
 - 18/10/2020 at 13:15 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
 - 18/10/2020 at 13:30 -> Riunione Governo-Regioni,, Azzolina: scuola in presenza
 - 18/10/2020 at 13:45 -> Pressing delle Regioni, 'No alla stretta sui locali'
+- 18/10/2020 at 14:00 -> 'Stretta localizzata sui locali, in zone di movida o contagi'
+- 18/10/2020 at 14:15 -> 'Stretta localizzata sui locali, in zone di movida o contagi'
+- 18/10/2020 at 14:30 -> 'Stretta localizzata sui locali, No allo stop delle palestre'
+- 18/10/2020 at 14:45 -> 'Stretta localizzata sui locali, No allo stop delle palestre'
+- 18/10/2020 at 15:00 -> 'Stretta localizzata sui locali, No allo stop delle palestre'
+- 18/10/2020 at 15:15 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 15:30 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
+- 18/10/2020 at 15:45 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
