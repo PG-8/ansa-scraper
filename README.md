@@ -193,3 +193,11 @@
 - 18/10/2020 at 21:15 -> Nuove misure anti covid. Tensione su scuola-palestre
 - 18/10/2020 at 21:30 -> Dpcm, nuove misure anti covid. Tensione su scuola e palestre
 - 18/10/2020 at 21:45 -> Distinguere Covid da influenza,Spallanzani sperimenterà test
+- 18/10/2020 at 22:00 -> Distinguere Covid da influenza,Spallanzani sperimenterà test
+- 18/10/2020 at 22:15 -> Dpcm, Conte: I sindaci possono chiudere le piazze. Didattica in presenza
+- 18/10/2020 at 22:30 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 18/10/2020 at 22:45 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 18/10/2020 at 23:00 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 18/10/2020 at 23:15 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 18/10/2020 at 23:30 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 18/10/2020 at 23:45 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
