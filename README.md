@@ -177,3 +177,11 @@
 - 18/10/2020 at 17:15 -> 'Stretta sui locali sia mirata, No allo stop delle palestre'
 - 18/10/2020 at 17:30 -> Ancora casi in aumento Sono 11.705. I decessi 69
 - 18/10/2020 at 17:45 -> Ancora casi in aumento Sono 11.705. I decessi 69
+- 18/10/2020 at 18:00 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 18:15 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 18:30 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 18:45 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 19:00 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 19:15 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 19:30 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
+- 18/10/2020 at 19:45 -> Sono 11.705 i nuovi casi , Milano, situazione 'critica'
