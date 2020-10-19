@@ -289,3 +289,11 @@
 - 19/10/2020 at 21:15 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
 - 19/10/2020 at 21:30 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
 - 19/10/2020 at 21:45 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
+- 19/10/2020 at 22:00 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 22:15 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 22:30 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 22:45 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 23:00 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 23:15 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 23:30 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
+- 19/10/2020 at 23:45 -> Lombardia verso coprifuoco, 'Stop spostamenti dalle 23'
