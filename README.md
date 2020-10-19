@@ -273,3 +273,19 @@
 - 19/10/2020 at 17:15 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
 - 19/10/2020 at 17:30 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
 - 19/10/2020 at 17:45 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
+- 19/10/2020 at 18:00 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
+- 19/10/2020 at 18:15 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
+- 19/10/2020 at 18:30 -> Covid: Brigitte Macron in isolamento
+- 19/10/2020 at 18:45 -> Conte: 'Mes? Ieri ho solo risposto,, ne parleremo nelle sedi opportune'
+- 19/10/2020 at 19:00 -> Conte: 'Patto di legislatura , Il Mes? Ne riparleremo'
+- 19/10/2020 at 19:15 -> Conte: 'Patto di legislatura , Il Mes? Ne riparleremo'
+- 19/10/2020 at 19:30 -> Conte: 'Patto di legislatura , Il Mes? Ne riparleremo'
+- 19/10/2020 at 19:45 -> Conte: 'Patto di legislatura , Il Mes? Ne riparleremo'
+- 19/10/2020 at 20:00 -> Dato record contagi-tamponi, Lombardia vuole coprifuoco
+- 19/10/2020 at 20:15 -> Dato record contagi-tamponi, Lombardia vuole coprifuoco
+- 19/10/2020 at 20:30 -> Dato record contagi-tamponi, Lombardia, verso coprifuoco
+- 19/10/2020 at 20:45 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
+- 19/10/2020 at 21:00 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
+- 19/10/2020 at 21:15 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
+- 19/10/2020 at 21:30 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
+- 19/10/2020 at 21:45 -> Lombardia vuole coprifuoco, Ok del ministro Speranza
