@@ -265,3 +265,11 @@
 - 19/10/2020 at 15:15 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
 - 19/10/2020 at 15:30 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
 - 19/10/2020 at 15:45 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 16:00 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 16:15 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 16:30 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 16:45 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 17:00 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 17:15 -> I primi vaccini a primavera, 'Tamponi, serve strategia'
+- 19/10/2020 at 17:30 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
+- 19/10/2020 at 17:45 -> Casi scendono sotto i 10mila , Calano i tamponi, 73 morti
