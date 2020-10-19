@@ -249,3 +249,11 @@
 - 19/10/2020 at 11:15 -> Conte vara la nuova stretta, Le norme in vigore da oggi
 - 19/10/2020 at 11:30 -> Conte vara la nuova stretta, Le norme in vigore da oggi
 - 19/10/2020 at 11:45 -> Conte vara la nuova stretta, Le norme in vigore da oggi
+- 19/10/2020 at 12:00 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 12:15 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 12:30 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 12:45 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 13:00 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 13:15 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 13:30 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
+- 19/10/2020 at 13:45 -> Sindaci sul piede di guerra, 'La responsabilità su di noi'
