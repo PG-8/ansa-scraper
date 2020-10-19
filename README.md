@@ -209,3 +209,11 @@
 - 19/10/2020 at 1:15 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
 - 19/10/2020 at 1:30 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
 - 19/10/2020 at 1:45 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 2:00 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 2:15 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 2:30 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 2:45 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 3:00 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 3:15 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 3:30 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
+- 19/10/2020 at 3:45 -> La nuova stretta di Conte, Ai sindaci scelta su chiusure
