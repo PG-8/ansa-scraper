@@ -361,3 +361,11 @@
 - 20/10/2020 at 15:15 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
 - 20/10/2020 at 15:30 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
 - 20/10/2020 at 15:45 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 16:00 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 16:15 -> Controlli da parte dei Nas  , in palestre e piscine
+- 20/10/2020 at 16:30 -> Controlli da parte dei Nas  , in palestre e piscine
+- 20/10/2020 at 16:45 -> Controlli da parte dei Nas  , in palestre e piscine
+- 20/10/2020 at 17:00 -> Controlli da parte dei Nas  , in palestre e piscine
+- 20/10/2020 at 17:15 -> 'Misure locali mantengano, coordinamento nazionale'
+- 20/10/2020 at 17:30 -> 'Misure locali mantengano, coordinamento nazionale'
+- 20/10/2020 at 17:45 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
