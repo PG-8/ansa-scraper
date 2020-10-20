@@ -353,3 +353,11 @@
 - 20/10/2020 at 13:15 -> Mattarella: 'Contro il Covid serve responsabilità di tutti'
 - 20/10/2020 at 13:30 -> Mattarella: 'Contro il Covid serve responsabilità di tutti'
 - 20/10/2020 at 13:45 -> I medici: 'Napoli è malata',  De Luca: coprifuoco alle 23
+- 20/10/2020 at 14:00 -> I medici: 'Napoli è malata',  De Luca: coprifuoco alle 23
+- 20/10/2020 at 14:15 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 14:30 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 14:45 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 15:00 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 15:15 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 15:30 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
+- 20/10/2020 at 15:45 -> De Luca: coprifuoco alle 23  Sos medici: 'E' guerra, agire'
