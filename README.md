@@ -385,3 +385,11 @@
 - 20/10/2020 at 21:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
 - 20/10/2020 at 21:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
 - 20/10/2020 at 21:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 22:00 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 22:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 22:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 22:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 23:00 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 23:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 23:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 23:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
