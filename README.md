@@ -369,3 +369,11 @@
 - 20/10/2020 at 17:15 -> 'Misure locali mantengano, coordinamento nazionale'
 - 20/10/2020 at 17:30 -> 'Misure locali mantengano, coordinamento nazionale'
 - 20/10/2020 at 17:45 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 18:00 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 18:15 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 18:30 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 18:45 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 19:00 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 19:15 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 19:30 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 19:45 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
