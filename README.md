@@ -377,3 +377,11 @@
 - 20/10/2020 at 19:15 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
 - 20/10/2020 at 19:30 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
 - 20/10/2020 at 19:45 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 20:00 -> I contagi Covid risalgono , In 24 ore 10.874. I morti 89
+- 20/10/2020 at 20:15 -> I comuni informino  , sulla chiusura delle strade
+- 20/10/2020 at 20:30 -> I comuni informino  , sulla chiusura delle strade
+- 20/10/2020 at 20:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 21:00 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 21:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 21:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 20/10/2020 at 21:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
