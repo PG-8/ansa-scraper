@@ -345,3 +345,11 @@
 - 20/10/2020 at 11:15 -> 'Errori gravi della Regione, Campania verso il lockdown'
 - 20/10/2020 at 11:30 -> Presto il vaccino anti Covid 'Possibile già a dicembre'
 - 20/10/2020 at 11:45 -> Presto il vaccino anti Covid 'Possibile già a dicembre'
+- 20/10/2020 at 12:00 -> Presto il vaccino anti Covid 'Possibile già a dicembre'
+- 20/10/2020 at 12:15 -> Mattarella: 'Contro il Covid, serve responsabilità di tutti'
+- 20/10/2020 at 12:30 -> Mattarella: 'Contro il Covid, serve responsabilità di tutti'
+- 20/10/2020 at 12:45 -> Mattarella: 'Contro il Covid, serve responsabilità di tutti'
+- 20/10/2020 at 13:00 -> Mattarella: 'Contro il Covid, serve responsabilità di tutti'
+- 20/10/2020 at 13:15 -> Mattarella: 'Contro il Covid serve responsabilità di tutti'
+- 20/10/2020 at 13:30 -> Mattarella: 'Contro il Covid serve responsabilità di tutti'
+- 20/10/2020 at 13:45 -> I medici: 'Napoli è malata',  De Luca: coprifuoco alle 23
