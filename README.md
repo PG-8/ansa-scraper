@@ -433,3 +433,11 @@
 - 21/10/2020 at 9:15 -> La stretta delle Regioni Speranza: 'Restate a casa'
 - 21/10/2020 at 9:30 -> La stretta delle Regioni Speranza: 'Restate a casa'
 - 21/10/2020 at 9:45 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 10:00 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 10:15 -> 'La riduzione dell'Irpef, sarà di un certo rilievo'
+- 21/10/2020 at 10:30 -> Governo lavora a protocollo linee guida chiusure Regioni
+- 21/10/2020 at 10:45 -> Si lavora a regole comuni per le 'strette' delle Regioni
+- 21/10/2020 at 11:00 -> Si lavora a regole comuni per le 'strette' delle Regioni
+- 21/10/2020 at 11:15 -> Si lavora a regole comuni per le 'strette' delle Regioni
+- 21/10/2020 at 11:30 -> Si lavora a regole comuni per le 'strette' delle Regioni
+- 21/10/2020 at 11:45 -> Si lavora a regole comuni per le 'strette' delle Regioni
