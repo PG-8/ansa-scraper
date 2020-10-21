@@ -449,3 +449,11 @@
 - 21/10/2020 at 13:15 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
 - 21/10/2020 at 13:30 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
 - 21/10/2020 at 13:45 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 14:00 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 14:15 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 14:30 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 14:45 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 15:00 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 15:15 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
+- 21/10/2020 at 15:30 -> Record di casi, oltre 4mila, Coprifuoco dalle 23 alle 5
+- 21/10/2020 at 15:45 -> Record di casi, oltre 4mila, Coprifuoco dalle 23 alle 5
