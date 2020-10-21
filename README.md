@@ -425,3 +425,11 @@
 - 21/10/2020 at 7:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
 - 21/10/2020 at 7:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
 - 21/10/2020 at 7:45 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 21/10/2020 at 8:00 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 21/10/2020 at 8:15 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 21/10/2020 at 8:30 -> Coprifuoco e chiusure, , la stretta delle Regioni
+- 21/10/2020 at 8:45 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 9:00 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 9:15 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 9:30 -> La stretta delle Regioni Speranza: 'Restate a casa'
+- 21/10/2020 at 9:45 -> La stretta delle Regioni Speranza: 'Restate a casa'
