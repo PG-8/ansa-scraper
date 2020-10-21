@@ -457,3 +457,11 @@
 - 21/10/2020 at 15:15 -> Coprifuoco dalle 23 alle 5, Allarme di Sala per Milano
 - 21/10/2020 at 15:30 -> Record di casi, oltre 4mila, Coprifuoco dalle 23 alle 5
 - 21/10/2020 at 15:45 -> Record di casi, oltre 4mila, Coprifuoco dalle 23 alle 5
+- 21/10/2020 at 16:00 -> Record di casi, oltre 4mila, Riaprono ospedali in Fiera
+- 21/10/2020 at 16:15 -> Record di casi, oltre 4mila, Riaprono ospedali in Fiera
+- 21/10/2020 at 16:30 -> Record di casi, oltre 4mila, Riaprono ospedali in Fiera
+- 21/10/2020 at 16:45 -> La sonda della Nasa ha toccato l'asteroide Bennu
+- 21/10/2020 at 17:00 -> 'La scuola resta in presenza, Misure mirate per ristoranti'
+- 21/10/2020 at 17:15 -> Casi in forte crescita 15.199,  I morti salgono a 127
+- 21/10/2020 at 17:30 -> Casi in forte crescita: 15.199,  I morti salgono a 127
+- 21/10/2020 at 17:45 -> Casi in forte crescita: 15.199, Record di tamponi.127 morti
