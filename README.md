@@ -473,3 +473,11 @@
 - 21/10/2020 at 19:15 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
 - 21/10/2020 at 19:30 -> Impennata dei casi: 15.199 ,  I morti 127. Record tamponi
 - 21/10/2020 at 19:45 -> Impennata dei casi: 15.199 , I morti 127. Record tamponi
+- 21/10/2020 at 20:00 -> Impennata dei casi: 15.199 , I morti 127. Record tamponi
+- 21/10/2020 at 20:15 -> Un volontario del vaccino Astrazeneca morto in Brasile
+- 21/10/2020 at 20:30 -> Morto volontario del vaccino, Non aveva ricevuto la dose
+- 21/10/2020 at 20:45 -> Morto volontario del vaccino, Non aveva ricevuto la dose
+- 21/10/2020 at 21:00 -> Morto volontario del vaccino, Non aveva ricevuto la dose
+- 21/10/2020 at 21:15 -> Morto volontario del vaccino, Non aveva ricevuto la dose
+- 21/10/2020 at 21:30 -> Coprifuoco in Campania, Lombardia e Lazio
+- 21/10/2020 at 21:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
