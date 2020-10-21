@@ -481,3 +481,11 @@
 - 21/10/2020 at 21:15 -> Morto volontario del vaccino, Non aveva ricevuto la dose
 - 21/10/2020 at 21:30 -> Coprifuoco in Campania, Lombardia e Lazio
 - 21/10/2020 at 21:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 22:00 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 22:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 22:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 22:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 23:00 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 23:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 23:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 21/10/2020 at 23:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
