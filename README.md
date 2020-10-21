@@ -465,3 +465,11 @@
 - 21/10/2020 at 17:15 -> Casi in forte crescita 15.199,  I morti salgono a 127
 - 21/10/2020 at 17:30 -> Casi in forte crescita: 15.199,  I morti salgono a 127
 - 21/10/2020 at 17:45 -> Casi in forte crescita: 15.199, Record di tamponi.127 morti
+- 21/10/2020 at 18:00 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 18:15 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 18:30 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 18:45 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 19:00 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 19:15 -> Papa apre alle unioni civili, 'Omosessuali figli di Dio'
+- 21/10/2020 at 19:30 -> Impennata dei casi: 15.199 ,  I morti 127. Record tamponi
+- 21/10/2020 at 19:45 -> Impennata dei casi: 15.199 , I morti 127. Record tamponi
