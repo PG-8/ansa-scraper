@@ -577,3 +577,11 @@
 - 22/10/2020 at 21:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
 - 22/10/2020 at 21:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
 - 22/10/2020 at 21:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 22:00 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 22:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 22:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 22:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 23:00 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 23:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 23:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 23:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
