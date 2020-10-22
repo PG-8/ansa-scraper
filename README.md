@@ -529,3 +529,11 @@
 - 22/10/2020 at 9:15 -> Torna l'autocertificazione, Coprifuoco in tre regioni
 - 22/10/2020 at 9:30 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
 - 22/10/2020 at 9:45 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
+- 22/10/2020 at 10:00 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
+- 22/10/2020 at 10:15 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
+- 22/10/2020 at 10:30 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
+- 22/10/2020 at 10:45 -> Al Louvre la scultura italiana del Rinascimento
+- 22/10/2020 at 11:00 -> Al Louvre la scultura italiana del Rinascimento
+- 22/10/2020 at 11:15 -> Conte: 'Pronti a intervenire di nuovo se sarà necessario'
+- 22/10/2020 at 11:30 -> Conte: 'Pronti a intervenire di nuovo se sarà necessario'
+- 22/10/2020 at 11:45 -> Conte: 'Pronti a intervenire di nuovo se sarà necessario'
