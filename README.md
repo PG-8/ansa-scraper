@@ -521,3 +521,11 @@
 - 22/10/2020 at 7:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
 - 22/10/2020 at 7:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
 - 22/10/2020 at 7:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 8:00 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 8:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 8:30 -> Torna l'autocertificazione, Coprifuoco in tre regioni
+- 22/10/2020 at 8:45 -> Torna l'autocertificazione, Coprifuoco in tre regioni
+- 22/10/2020 at 9:00 -> Torna l'autocertificazione, Coprifuoco in tre regioni
+- 22/10/2020 at 9:15 -> Torna l'autocertificazione, Coprifuoco in tre regioni
+- 22/10/2020 at 9:30 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
+- 22/10/2020 at 9:45 -> Via al concorso della scuola , Oggi la prova per 1.645 prof
