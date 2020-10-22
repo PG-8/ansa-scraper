@@ -553,3 +553,11 @@
 - 22/10/2020 at 15:15 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
 - 22/10/2020 at 15:30 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
 - 22/10/2020 at 15:45 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 16:00 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 16:15 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 16:30 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 16:45 -> Al via la sperimentazione, Tamponi rapidi in farmacia
+- 22/10/2020 at 17:00 -> Tamponi rapidi in farmacia, Anche dai medici di famiglia
+- 22/10/2020 at 17:15 -> Tamponi rapidi in farmacia, Anche dai medici di famiglia
+- 22/10/2020 at 17:30 -> Tamponi rapidi in farmacia, Anche dai medici di famiglia
+- 22/10/2020 at 17:45 -> Mille casi più di ieri: 16.079  , Sfiorati in tutto 37mila morti
