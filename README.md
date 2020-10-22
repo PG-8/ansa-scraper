@@ -561,3 +561,11 @@
 - 22/10/2020 at 17:15 -> Tamponi rapidi in farmacia, Anche dai medici di famiglia
 - 22/10/2020 at 17:30 -> Tamponi rapidi in farmacia, Anche dai medici di famiglia
 - 22/10/2020 at 17:45 -> Mille casi più di ieri: 16.079  , Sfiorati in tutto 37mila morti
+- 22/10/2020 at 18:00 -> Mille casi più di ieri: 16.079  , Sfiorati in tutto 37mila morti
+- 22/10/2020 at 18:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 18:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 18:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 19:00 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 19:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 19:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 22/10/2020 at 19:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
