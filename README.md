@@ -497,3 +497,11 @@
 - 22/10/2020 at 1:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
 - 22/10/2020 at 1:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
 - 22/10/2020 at 1:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 2:00 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 2:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 2:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 2:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 3:00 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 3:15 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 3:30 -> Coprifuoco in tre regioni, torna l'autocertificazione
+- 22/10/2020 at 3:45 -> Coprifuoco in tre regioni, torna l'autocertificazione
