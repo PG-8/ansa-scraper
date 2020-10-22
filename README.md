@@ -545,3 +545,11 @@
 - 22/10/2020 at 13:15 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
 - 22/10/2020 at 13:30 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
 - 22/10/2020 at 13:45 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
+- 22/10/2020 at 14:00 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
+- 22/10/2020 at 14:15 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
+- 22/10/2020 at 14:30 -> Azzolina scrive a Fontana , 'Ricercare altre soluzioni'
+- 22/10/2020 at 14:45 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 15:00 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 15:15 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 15:30 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
+- 22/10/2020 at 15:45 -> Al Trivulzio positivi , 14 ospiti e 5 dipendenti
