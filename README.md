@@ -673,3 +673,11 @@
 - 23/10/2020 at 21:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
 - 23/10/2020 at 21:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
 - 23/10/2020 at 21:45 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 22:00 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 22:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 22:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 22:45 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 23:00 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 23:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 23:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 23:45 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
