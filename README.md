@@ -609,3 +609,11 @@
 - 23/10/2020 at 5:15 -> Trump-Biden, il duello finale, Scintille su tasse e covid
 - 23/10/2020 at 5:30 -> Trump-Biden, il duello finale, Scintille su tasse e covid
 - 23/10/2020 at 5:45 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 6:00 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 6:15 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 6:30 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 6:45 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 7:00 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 7:15 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 7:30 -> Trump-Biden, il duello finale, Scintille su tasse e covid
+- 23/10/2020 at 7:45 -> Trump-Biden, il duello finale, Scintille su tasse e covid
