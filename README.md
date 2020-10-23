@@ -633,3 +633,11 @@
 - 23/10/2020 at 11:15 -> Riapre l'ospedale in Fiera, Oggi i primi sei pazienti
 - 23/10/2020 at 11:30 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
 - 23/10/2020 at 11:45 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 12:00 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 12:15 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 12:30 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 12:45 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 13:00 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
+- 23/10/2020 at 13:15 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
+- 23/10/2020 at 13:30 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
+- 23/10/2020 at 13:45 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
