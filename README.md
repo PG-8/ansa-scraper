@@ -641,3 +641,11 @@
 - 23/10/2020 at 13:15 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
 - 23/10/2020 at 13:30 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
 - 23/10/2020 at 13:45 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
+- 23/10/2020 at 14:00 -> L'appello di 100 scienziati 'Misure rigide in 2-3 giorni'
+- 23/10/2020 at 14:15 -> Le chiusure nelle Regioni, coprifuoco e Dad in Calabria
+- 23/10/2020 at 14:30 -> 'Serve lockdown nazionale In Campania a brevissimo'
+- 23/10/2020 at 14:45 -> 'Serve lockdown nazionale In Campania a brevissimo'
+- 23/10/2020 at 15:00 -> 'Serve lockdown nazionale In Campania a brevissimo'
+- 23/10/2020 at 15:15 -> 'Serve lockdown nazionale In Campania a brevissimo'
+- 23/10/2020 at 15:30 -> In Campania 2280 positivi, 'Chiudiamo tutto per 1 mese'
+- 23/10/2020 at 15:45 -> In Campania 2280 positivi, 'Chiudiamo tutto per 1 mese'
