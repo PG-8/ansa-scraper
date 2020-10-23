@@ -657,3 +657,11 @@
 - 23/10/2020 at 17:15 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
 - 23/10/2020 at 17:30 -> Casi oltre i 19mila in 24 ore, Record di tamponi, 182mila
 - 23/10/2020 at 17:45 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 18:00 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 18:15 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 18:30 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 18:45 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 19:00 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 19:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 19:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 23/10/2020 at 19:45 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
