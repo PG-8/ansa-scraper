@@ -593,3 +593,11 @@
 - 23/10/2020 at 1:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
 - 23/10/2020 at 1:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
 - 23/10/2020 at 1:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 2:00 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 2:15 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 2:30 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 2:45 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 3:00 -> Mille contagi in più: 16.079  , Rapporto con i test al 9,4%
+- 23/10/2020 at 3:15 -> Art Bonus,&nbsp; l'appuntamento <br>su ANSA.it
+- 23/10/2020 at 3:30 -> Art Bonus,&nbsp; l'appuntamento <br>su ANSA.it
+- 23/10/2020 at 3:45 -> Art Bonus,&nbsp; l'appuntamento <br>su ANSA.it
