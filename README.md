@@ -625,3 +625,11 @@
 - 23/10/2020 at 9:15 -> Ultimo duello Trump-Biden Scintille su tasse e Covid
 - 23/10/2020 at 9:30 -> Ultimo duello Trump-Biden Scintille su tasse e Covid
 - 23/10/2020 at 9:45 -> Ultimo duello Trump-Biden Scintille su tasse e Covid
+- 23/10/2020 at 10:00 -> Ultimo duello Trump-Biden Scintille su tasse e Covid
+- 23/10/2020 at 10:15 -> Ultimo duello Trump-Biden Scintille su tasse e Covid
+- 23/10/2020 at 10:30 -> Riapre l'ospedale in Fiera, Oggi i primi sei pazienti
+- 23/10/2020 at 10:45 -> Riapre l'ospedale in Fiera, Oggi i primi sei pazienti
+- 23/10/2020 at 11:00 -> Riapre l'ospedale in Fiera, Oggi i primi sei pazienti
+- 23/10/2020 at 11:15 -> Riapre l'ospedale in Fiera, Oggi i primi sei pazienti
+- 23/10/2020 at 11:30 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
+- 23/10/2020 at 11:45 -> 'Situazione drammatica', Riapre l'ospedale in Fiera
