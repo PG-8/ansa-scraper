@@ -649,3 +649,11 @@
 - 23/10/2020 at 15:15 -> 'Serve lockdown nazionale In Campania a brevissimo'
 - 23/10/2020 at 15:30 -> In Campania 2280 positivi, 'Chiudiamo tutto per 1 mese'
 - 23/10/2020 at 15:45 -> In Campania 2280 positivi, 'Chiudiamo tutto per 1 mese'
+- 23/10/2020 at 16:00 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 16:15 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 16:30 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 16:45 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 17:00 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 17:15 -> Boom a Napoli e Milano, Nelle due regioni 8mila casi
+- 23/10/2020 at 17:30 -> Casi oltre i 19mila in 24 ore, Record di tamponi, 182mila
+- 23/10/2020 at 17:45 -> Oltre i 19mila casi in 24 ore, Record di tamponi, 182mila
