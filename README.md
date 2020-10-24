@@ -745,3 +745,11 @@
 - 24/10/2020 at 15:15 -> Speranza convoca il Cts , Sul tavolo le nuove misure
 - 24/10/2020 at 15:30 -> Speranza convoca il Cts , Sul tavolo le nuove misure
 - 24/10/2020 at 15:45 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 16:00 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 16:15 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 16:30 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 16:45 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 17:00 -> Verso stop palestre e piscine, Locali chiuderanno prima
+- 24/10/2020 at 17:15 -> Verso stop palestre e piscine, Locali chiuderanno prima
+- 24/10/2020 at 17:30 -> Verso stop palestre e piscine, Locali chiuderanno prima
+- 24/10/2020 at 17:45 -> Verso stop palestre e piscine, Locali chiuderanno prima
