@@ -761,3 +761,11 @@
 - 24/10/2020 at 19:15 -> Stop ai locali dopo le 18,  Chiudono i cinema e i teatri
 - 24/10/2020 at 19:30 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
 - 24/10/2020 at 19:45 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 20:00 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 20:15 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 20:30 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 20:45 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 21:00 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 21:15 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 21:30 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 21:45 -> Stop ristoranti e bar dalle 18, Chiudono i cinema e i teatri
