@@ -721,3 +721,11 @@
 - 24/10/2020 at 9:15 -> Violenti scontri a Napoli, fumogeni contro la Regione
 - 24/10/2020 at 9:30 -> Violenti scontri a Napoli, fumogeni contro la Regione
 - 24/10/2020 at 9:45 -> Violenti scontri a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 10:00 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 10:15 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 10:30 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 10:45 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 11:00 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 11:15 -> Verso nuove chiusure, Allarme di Confesercenti
+- 24/10/2020 at 11:30 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
+- 24/10/2020 at 11:45 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
