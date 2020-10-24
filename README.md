@@ -753,3 +753,11 @@
 - 24/10/2020 at 17:15 -> Verso stop palestre e piscine, Locali chiuderanno prima
 - 24/10/2020 at 17:30 -> Verso stop palestre e piscine, Locali chiuderanno prima
 - 24/10/2020 at 17:45 -> Verso stop palestre e piscine, Locali chiuderanno prima
+- 24/10/2020 at 18:00 -> Altri 19mila contagiati , In 24 ore 151 vittime
+- 24/10/2020 at 18:15 -> Altri 19mila contagiati , In 24 ore 151 vittime
+- 24/10/2020 at 18:30 -> Altri 19mila contagiati , In 24 ore 151 vittime
+- 24/10/2020 at 18:45 -> Altri 19mila contagiati , In 24 ore 151 vittime
+- 24/10/2020 at 19:00 -> Altri 19mila contagiati , In 24 ore 151 vittime
+- 24/10/2020 at 19:15 -> Stop ai locali dopo le 18,  Chiudono i cinema e i teatri
+- 24/10/2020 at 19:30 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
+- 24/10/2020 at 19:45 -> Stop ristoranti e bar dalle 18  Chiudono i cinema e i teatri
