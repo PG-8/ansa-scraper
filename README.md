@@ -729,3 +729,11 @@
 - 24/10/2020 at 11:15 -> Verso nuove chiusure, Allarme di Confesercenti
 - 24/10/2020 at 11:30 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
 - 24/10/2020 at 11:45 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
+- 24/10/2020 at 12:00 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
+- 24/10/2020 at 12:15 -> 'La pandemia non aumenti, le diseguaglianze in Italia'
+- 24/10/2020 at 12:30 -> Conte:'Settimane complesse , dobbiamo unire le forze'
+- 24/10/2020 at 12:45 -> Conte:'Settimane complesse , dobbiamo unire le forze'
+- 24/10/2020 at 13:00 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
+- 24/10/2020 at 13:15 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
+- 24/10/2020 at 13:30 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
+- 24/10/2020 at 13:45 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
