@@ -705,3 +705,11 @@
 - 24/10/2020 at 5:15 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
 - 24/10/2020 at 5:30 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
 - 24/10/2020 at 5:45 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 6:00 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 6:15 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 6:30 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 6:45 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 7:00 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 7:15 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 7:30 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 7:45 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
