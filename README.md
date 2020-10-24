@@ -737,3 +737,11 @@
 - 24/10/2020 at 13:15 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
 - 24/10/2020 at 13:30 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
 - 24/10/2020 at 13:45 -> 'Assaltati i pronto soccorso, , malati Covid in attesa giorni'
+- 24/10/2020 at 14:00 -> Condanna della Lamorgese 'Violenze inaccettabili'
+- 24/10/2020 at 14:15 -> Condanna della Lamorgese 'Violenze inaccettabili'
+- 24/10/2020 at 14:30 -> Condanna della Lamorgese 'Violenze inaccettabili'
+- 24/10/2020 at 14:45 -> Condanna della Lamorgese 'Violenze inaccettabili'
+- 24/10/2020 at 15:00 -> Condanna della Lamorgese 'Violenze inaccettabili'
+- 24/10/2020 at 15:15 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 15:30 -> Speranza convoca il Cts , Sul tavolo le nuove misure
+- 24/10/2020 at 15:45 -> Speranza convoca il Cts , Sul tavolo le nuove misure
