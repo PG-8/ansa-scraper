@@ -681,3 +681,11 @@
 - 23/10/2020 at 23:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
 - 23/10/2020 at 23:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
 - 23/10/2020 at 23:45 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 24/10/2020 at 00:00 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 24/10/2020 at 00:15 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 24/10/2020 at 00:30 -> Oltre i 19mila casi in 24 ore, Iss: epidemia peggiora,Rt 1,5
+- 24/10/2020 at 00:45 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 1:00 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 1:15 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 1:30 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
+- 24/10/2020 at 1:45 -> Guerriglia urbana a Napoli, fumogeni contro la Regione
