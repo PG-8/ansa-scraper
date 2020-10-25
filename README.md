@@ -777,3 +777,11 @@
 - 24/10/2020 at 23:15 -> Stop ristoranti e bar dalle 18, Chiudono i cinema e i teatri
 - 24/10/2020 at 23:30 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
 - 24/10/2020 at 23:45 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 00:00 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 00:15 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 00:30 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 00:45 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 1:00 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 1:15 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 1:30 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 1:45 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
