@@ -869,3 +869,11 @@
 - 25/10/2020 at 21:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
 - 25/10/2020 at 21:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
 - 25/10/2020 at 21:45 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 22:00 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 22:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 22:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 22:45 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 25/10/2020 at 23:00 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 25/10/2020 at 23:15 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 25/10/2020 at 23:30 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 25/10/2020 at 23:45 -> Conte vara il mini lockdown 'Misure per Natale sereno'
