@@ -789,3 +789,11 @@
 - 25/10/2020 at 2:15 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
 - 25/10/2020 at 2:30 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
 - 25/10/2020 at 2:45 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 2:00 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 2:15 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 2:30 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 2:45 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 3:00 -> Stop ristoranti e bar dalle 18 Scontro Governo-Regioni
+- 25/10/2020 at 3:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 3:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 3:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
