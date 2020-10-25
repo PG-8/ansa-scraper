@@ -829,3 +829,11 @@
 - 25/10/2020 at 11:15 -> Conte ha firmato il Dpcm, , sarà in vigore da domani
 - 25/10/2020 at 11:30 -> Conte ha firmato il Dpcm,, sarà in vigore da domani
 - 25/10/2020 at 11:45 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 12:00 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 12:15 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 12:30 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 12:45 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 13:00 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 13:15 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
+- 25/10/2020 at 13:30 -> Chiusura ristoranti alle 18 Lezioni online anche al 100%
+- 25/10/2020 at 13:45 -> Leggendaria Alida Valli, in un film <br>la sua storia
