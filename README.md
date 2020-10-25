@@ -821,3 +821,11 @@
 - 25/10/2020 at 9:15 -> Stop ristoranti e bar alle 18 , In arrivo le nuove misure
 - 25/10/2020 at 9:30 -> Stop ristoranti e bar alle 18 , In arrivo le nuove misure
 - 25/10/2020 at 9:45 -> Disordini nella notte a Roma Protesta in centro - VIDEO
+- 25/10/2020 at 10:00 -> Disordini nella notte a Roma Protesta in centro - VIDEO
+- 25/10/2020 at 10:15 -> Disordini nella notte a Roma Protesta in centro - VIDEO
+- 25/10/2020 at 10:30 -> Zaia: 'Serve buonsenso, ragionevole chiusura alle 23'
+- 25/10/2020 at 10:45 -> Zaia: 'Serve buonsenso, ragionevole chiusura alle 23'
+- 25/10/2020 at 11:00 -> Zaia: 'Serve buonsenso, ragionevole chiusura alle 23'
+- 25/10/2020 at 11:15 -> Conte ha firmato il Dpcm, , sarà in vigore da domani
+- 25/10/2020 at 11:30 -> Conte ha firmato il Dpcm,, sarà in vigore da domani
+- 25/10/2020 at 11:45 -> Chiusura ristoranti alle 18, Lezioni online anche al 100%
