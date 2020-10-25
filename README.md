@@ -861,3 +861,11 @@
 - 25/10/2020 at 19:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
 - 25/10/2020 at 19:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
 - 25/10/2020 at 19:45 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 20:00 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 20:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 20:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 20:45 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 21:00 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 21:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 21:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 21:45 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
