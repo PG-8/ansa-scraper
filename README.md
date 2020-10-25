@@ -813,3 +813,11 @@
 - 25/10/2020 at 7:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
 - 25/10/2020 at 7:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
 - 25/10/2020 at 7:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 8:00 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 8:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 8:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 8:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 9:00 -> Stop ristoranti e bar alle 18 , In arrivo le nuove misure
+- 25/10/2020 at 9:15 -> Stop ristoranti e bar alle 18 , In arrivo le nuove misure
+- 25/10/2020 at 9:30 -> Stop ristoranti e bar alle 18 , In arrivo le nuove misure
+- 25/10/2020 at 9:45 -> Disordini nella notte a Roma Protesta in centro - VIDEO
