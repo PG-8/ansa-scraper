@@ -797,3 +797,11 @@
 - 25/10/2020 at 3:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
 - 25/10/2020 at 3:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
 - 25/10/2020 at 3:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 4:00 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 4:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 4:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 4:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 5:00 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 5:15 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 5:30 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
+- 25/10/2020 at 5:45 -> Stop ristoranti e bar alle 18 Disordini in piazza a Roma
