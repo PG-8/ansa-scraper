@@ -845,3 +845,11 @@
 - 25/10/2020 at 15:15 -> 'Misure ora per affrontare , il Natale più serenamente'
 - 25/10/2020 at 15:30 -> 'Misure ora per affrontare , il Natale più serenamente'
 - 25/10/2020 at 15:45 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 16:00 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 16:15 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 16:30 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 16:45 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 17:00 -> 'Misure ora per affrontare , il Natale più serenamente'
+- 25/10/2020 at 17:15 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 17:30 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
+- 25/10/2020 at 17:45 -> Balzo dei contagi in Italia, oltre 21mila in un giorno
