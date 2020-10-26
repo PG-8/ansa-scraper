@@ -949,3 +949,11 @@
 - 26/10/2020 at 17:15 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
 - 26/10/2020 at 17:30 -> Contagi in calo, sono 17mila, con 40mila tamponi in meno
 - 26/10/2020 at 17:45 -> Contagi in calo, sono 17mila, Meno tamponi, 141 i morti
+- 26/10/2020 at 18:00 -> Contagi in calo, sono 17mila, 13mila pazienti in intensiva
+- 26/10/2020 at 18:15 -> Contagi in calo, sono 17mila, 13mila pazienti ricoverati
+- 26/10/2020 at 18:30 -> Contagi in calo, sono 17mila, Tamponi-positivi al 13,6%
+- 26/10/2020 at 18:45 -> Rischio di tensioni sociali Sale l'allerta del Viminale
+- 26/10/2020 at 19:00 -> Tensioni sociali, è allarme, Sale l'allerta del Viminale
+- 26/10/2020 at 19:15 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
+- 26/10/2020 at 19:30 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
+- 26/10/2020 at 19:45 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
