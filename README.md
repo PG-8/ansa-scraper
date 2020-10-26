@@ -909,3 +909,11 @@
 - 26/10/2020 at 7:15 -> Conte vara il mini lockdown 'Misure per Natale sereno'
 - 26/10/2020 at 7:30 -> Conte vara il mini lockdown 'Misure per Natale sereno'
 - 26/10/2020 at 7:45 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 26/10/2020 at 8:00 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 26/10/2020 at 8:15 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 26/10/2020 at 8:30 -> Conte vara il mini lockdown 'Misure per Natale sereno'
+- 26/10/2020 at 8:45 -> Da oggi fino al 24 novembre, è in vigore il nuovo Dpcm
+- 26/10/2020 at 9:00 -> Da oggi fino al 24 novembre, è in vigore il nuovo Dpcm
+- 26/10/2020 at 9:15 -> Da oggi fino al 24 novembre, è in vigore il nuovo Dpcm
+- 26/10/2020 at 9:30 -> Ondata più forte della prima, Il virus fa tremare la Francia
+- 26/10/2020 at 9:45 -> Ondata più forte della prima, Il virus fa tremare la Francia
