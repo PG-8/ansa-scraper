@@ -941,3 +941,11 @@
 - 26/10/2020 at 15:15 -> Atteso per domani il decreto, con gli aiuti per chi chiude
 - 26/10/2020 at 15:30 -> Atteso per domani il decreto, con gli aiuti per chi chiude
 - 26/10/2020 at 15:45 -> Attesa per decreto sugli aiuti, Irritazione di Iv per chiusure
+- 26/10/2020 at 16:00 -> Renzi all'attacco sul Dpcm: 'Chideremo delle modifiche'
+- 26/10/2020 at 16:15 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
+- 26/10/2020 at 16:30 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
+- 26/10/2020 at 16:45 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
+- 26/10/2020 at 17:00 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
+- 26/10/2020 at 17:15 -> Renzi all'attacco sul Dpcm: 'Chiederemo modifiche'
+- 26/10/2020 at 17:30 -> Contagi in calo, sono 17mila, con 40mila tamponi in meno
+- 26/10/2020 at 17:45 -> Contagi in calo, sono 17mila, Meno tamponi, 141 i morti
