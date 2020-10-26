@@ -933,3 +933,11 @@
 - 26/10/2020 at 13:15 -> 'Non è stato facile decidere sulla didattica a distanza'
 - 26/10/2020 at 13:30 -> 'Non è stato facile decidere sulla didattica a distanza'
 - 26/10/2020 at 13:45 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 14:00 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 14:15 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 14:30 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 14:45 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 15:00 -> Atteso per domani il decreto, con gli aiuti per chi chiude
+- 26/10/2020 at 15:15 -> Atteso per domani il decreto, con gli aiuti per chi chiude
+- 26/10/2020 at 15:30 -> Atteso per domani il decreto, con gli aiuti per chi chiude
+- 26/10/2020 at 15:45 -> Attesa per decreto sugli aiuti, Irritazione di Iv per chiusure
