@@ -925,3 +925,11 @@
 - 26/10/2020 at 11:15 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
 - 26/10/2020 at 11:30 -> Ricciardi boccia le misure , 'Passo avanti, ma non basta'
 - 26/10/2020 at 11:45 -> Ricciardi boccia le misure , 'Passo avanti, ma non basta'
+- 26/10/2020 at 12:00 -> Mattarella: la ricerca,  vincerà sulla pandemia
+- 26/10/2020 at 12:15 -> 'Sostenere la ricerca,,  vincerà sulla pandemia'
+- 26/10/2020 at 12:30 -> 'Sostenere la ricerca,,  vincerà sulla pandemia'
+- 26/10/2020 at 12:45 -> 'Sulla didattica a distanza non è stato facile decidere'
+- 26/10/2020 at 13:00 -> 'Sulla didattica a distanza non è stato facile decidere'
+- 26/10/2020 at 13:15 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 13:30 -> 'Non è stato facile decidere sulla didattica a distanza'
+- 26/10/2020 at 13:45 -> 'Non è stato facile decidere sulla didattica a distanza'
