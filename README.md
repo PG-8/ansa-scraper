@@ -965,3 +965,11 @@
 - 26/10/2020 at 21:15 -> Alta tensione a Napoli, Scontri a Milano e Torino
 - 26/10/2020 at 21:30 -> Alta tensione a Napoli, Scontri a Milano e Torino
 - 26/10/2020 at 21:45 -> Alta tensione a Napoli, Scontri a Milano e Torino
+- 26/10/2020 at 22:00 -> Guerriglia a Torino e Milano, Vetrine infrante e un ferito
+- 26/10/2020 at 22:15 -> Guerriglia a Torino e Milano, Vetrine infrante e un ferito
+- 26/10/2020 at 22:30 -> Guerriglia a Torino e Milano, Vetrine infrante e un ferito
+- 26/10/2020 at 22:45 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 10 fermi
+- 26/10/2020 at 23:00 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 10 fermi
+- 26/10/2020 at 23:15 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 26/10/2020 at 23:30 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 26/10/2020 at 23:45 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
