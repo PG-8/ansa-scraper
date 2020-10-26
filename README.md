@@ -957,3 +957,11 @@
 - 26/10/2020 at 19:15 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
 - 26/10/2020 at 19:30 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
 - 26/10/2020 at 19:45 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
+- 26/10/2020 at 20:00 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
+- 26/10/2020 at 20:15 -> L'Italia chiude alle 18 Tensioni sociali, è allarme
+- 26/10/2020 at 20:30 -> Tensioni sociali, è allarme, Corteo contro De Luca
+- 26/10/2020 at 20:45 -> Tensioni sociali, è allarme, Cortei a Napoli e Torino
+- 26/10/2020 at 21:00 -> Tensioni sociali, è allarme, Cortei a Napoli e Torino
+- 26/10/2020 at 21:15 -> Alta tensione a Napoli, Scontri a Milano e Torino
+- 26/10/2020 at 21:30 -> Alta tensione a Napoli, Scontri a Milano e Torino
+- 26/10/2020 at 21:45 -> Alta tensione a Napoli, Scontri a Milano e Torino
