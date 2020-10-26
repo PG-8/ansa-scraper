@@ -917,3 +917,11 @@
 - 26/10/2020 at 9:15 -> Da oggi fino al 24 novembre, è in vigore il nuovo Dpcm
 - 26/10/2020 at 9:30 -> Ondata più forte della prima, Il virus fa tremare la Francia
 - 26/10/2020 at 9:45 -> Ondata più forte della prima, Il virus fa tremare la Francia
+- 26/10/2020 at 10:00 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 10:15 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 10:30 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 10:45 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 11:00 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 11:15 -> Dad oltre 75%, ira dei presidi , 'Lesa l'autonomia scolastica'
+- 26/10/2020 at 11:30 -> Ricciardi boccia le misure , 'Passo avanti, ma non basta'
+- 26/10/2020 at 11:45 -> Ricciardi boccia le misure , 'Passo avanti, ma non basta'
