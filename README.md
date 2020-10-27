@@ -1045,3 +1045,11 @@
 - 27/10/2020 at 17:15 -> Allarme medici ospedalieri: 'Mancano 4mila specialisti'
 - 27/10/2020 at 17:30 -> Allarme medici ospedalieri: 'Mancano 4mila specialisti'
 - 27/10/2020 at 17:45 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 18:00 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 18:15 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 18:30 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 18:45 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 19:00 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 19:15 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 19:30 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
+- 27/10/2020 at 19:45 -> Franceschini: 'Dal Cdm 1 miliardo per cultura e turismo'
