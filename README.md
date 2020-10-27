@@ -1037,3 +1037,11 @@
 - 27/10/2020 at 15:15 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
 - 27/10/2020 at 15:30 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
 - 27/10/2020 at 15:45 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 16:00 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 16:15 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 16:30 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 16:45 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 17:00 -> 'Lockdown Napoli e Milano', Fontana: 'Vogliamo evitarlo'
+- 27/10/2020 at 17:15 -> Allarme medici ospedalieri: 'Mancano 4mila specialisti'
+- 27/10/2020 at 17:30 -> Allarme medici ospedalieri: 'Mancano 4mila specialisti'
+- 27/10/2020 at 17:45 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
