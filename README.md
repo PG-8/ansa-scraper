@@ -997,3 +997,11 @@
 - 27/10/2020 at 5:15 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
 - 27/10/2020 at 5:30 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
 - 27/10/2020 at 5:45 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 6:00 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 6:15 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 6:30 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 6:45 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 7:00 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 7:15 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 7:30 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
+- 27/10/2020 at 7:45 -> Guerriglia a Torino e Milano, Negozi saccheggiati, 12 fermi
