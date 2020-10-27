@@ -1021,3 +1021,11 @@
 - 27/10/2020 at 11:15 -> Guerriglia e negozi attaccati, A Milano 28 in questura
 - 27/10/2020 at 11:30 -> Guerriglia e negozi attaccati, A Milano 28 in questura
 - 27/10/2020 at 11:45 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 12:00 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 12:15 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 12:30 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 12:45 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 13:00 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 13:15 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 13:30 -> 'Ok oggi al decreto ristori, bisogna marciare insieme'
+- 27/10/2020 at 13:45 -> 'Il lockdown è necessario,  per Napoli e Milano'
