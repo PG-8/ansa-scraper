@@ -1053,3 +1053,19 @@
 - 27/10/2020 at 19:15 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
 - 27/10/2020 at 19:30 -> Contagi record, quasi 22mila, I morti 221, 174mila tamponi
 - 27/10/2020 at 19:45 -> Franceschini: 'Dal Cdm 1 miliardo per cultura e turismo'
+- 27/10/2020 at 20:00 -> Franceschini: 'Dal Cdm 1 miliardo per cultura e turismo'
+- 27/10/2020 at 20:15 -> Conte: 'Vale oltre 5 miliardi, Risorse saranno immediate'
+- 27/10/2020 at 20:30 -> Conte: 'Vale oltre 5 miliardi, Risorse saranno immediate'
+- 27/10/2020 at 20:45 -> Conte: 'Vale oltre 5 miliardi, Risorse saranno immediate'
+- 27/10/2020 at 21:00 -> Conte: 'Vale oltre 5 miliardi, Risorse saranno immediate'
+- 27/10/2020 at 21:15 -> Via libera a decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 21:30 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 21:45 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 22:00 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 22:15 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 22:30 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 22:45 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 23:00 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 23:15 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 23:30 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 27/10/2020 at 23:45 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
