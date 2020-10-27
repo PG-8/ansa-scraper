@@ -1013,3 +1013,11 @@
 - 27/10/2020 at 9:15 -> Guerriglia a Torino e Milano, Negozi saccheggiati
 - 27/10/2020 at 9:30 -> Guerriglia e negozi attaccati, A Milano 28 in questura
 - 27/10/2020 at 9:45 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 10:00 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 10:15 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 10:30 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 10:45 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 11:00 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 11:15 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 11:30 -> Guerriglia e negozi attaccati, A Milano 28 in questura
+- 27/10/2020 at 11:45 -> Guerriglia e negozi attaccati, A Milano 28 in questura
