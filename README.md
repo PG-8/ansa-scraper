@@ -1141,3 +1141,11 @@
 - 28/10/2020 at 17:15 -> Il Covid spaventa le Borse , Male Wall Street, Milano-4%
 - 28/10/2020 at 17:30 -> Il Covid spaventa le Borse , Male Wall Street, Milano-4%
 - 28/10/2020 at 17:45 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 18:00 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 18:15 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 18:30 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 18:45 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 19:00 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 19:15 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 19:30 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
+- 28/10/2020 at 19:45 -> Record di casi, quasi 25 mila, Le scuole chiuse in Puglia
