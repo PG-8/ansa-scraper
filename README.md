@@ -1149,3 +1149,11 @@
 - 28/10/2020 at 19:15 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
 - 28/10/2020 at 19:30 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
 - 28/10/2020 at 19:45 -> Record di casi, quasi 25 mila, Le scuole chiuse in Puglia
+- 28/10/2020 at 20:00 -> Record di casi, quasi 25 mila, Le scuole chiuse in Puglia
+- 28/10/2020 at 20:15 -> Record di casi, quasi 25 mila, Le scuole chiuse in Puglia
+- 28/10/2020 at 20:30 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 28/10/2020 at 20:45 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 28/10/2020 at 21:00 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 28/10/2020 at 21:15 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 28/10/2020 at 21:30 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 28/10/2020 at 21:45 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
