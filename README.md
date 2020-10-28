@@ -1117,3 +1117,11 @@
 - 28/10/2020 at 11:15 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
 - 28/10/2020 at 11:30 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
 - 28/10/2020 at 11:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 12:00 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 12:15 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 12:30 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 12:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 13:00 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 13:15 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 13:30 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 13:45 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
