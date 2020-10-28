@@ -1133,3 +1133,11 @@
 - 28/10/2020 at 15:15 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
 - 28/10/2020 at 15:30 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
 - 28/10/2020 at 15:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 16:00 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 16:15 -> 'Regole severe ma necessarie o l'epidemia sfugge di mano'
+- 28/10/2020 at 16:30 -> 'Regole severe ma necessarie o l'epidemia sfugge di mano'
+- 28/10/2020 at 16:45 -> 'Regole severe ma necessarie o l'epidemia sfugge di mano'
+- 28/10/2020 at 17:00 -> Il Covid spaventa le Borse , Male Wall Street, Milano-4%
+- 28/10/2020 at 17:15 -> Il Covid spaventa le Borse , Male Wall Street, Milano-4%
+- 28/10/2020 at 17:30 -> Il Covid spaventa le Borse , Male Wall Street, Milano-4%
+- 28/10/2020 at 17:45 -> Record di casi, quasi 25 mila, Altre 125 terapie intensive
