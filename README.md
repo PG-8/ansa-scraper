@@ -1125,3 +1125,11 @@
 - 28/10/2020 at 13:15 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
 - 28/10/2020 at 13:30 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
 - 28/10/2020 at 13:45 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 14:00 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 14:15 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 14:30 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 14:45 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 15:00 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 15:15 -> Sala-de Magistris a Speranza 'Il lockdown idea Ricciardi?'
+- 28/10/2020 at 15:30 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 15:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
