@@ -1109,3 +1109,11 @@
 - 28/10/2020 at 9:15 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
 - 28/10/2020 at 9:30 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
 - 28/10/2020 at 9:45 -> Il Covid spaventa le Borse Piazza Affari affonda, -2,7%
+- 28/10/2020 at 10:00 -> Il Covid spaventa le Borse Piazza Affari affonda, -2,7%
+- 28/10/2020 at 10:15 -> Il Covid spaventa le Borse Piazza Affari affonda, -2,7%
+- 28/10/2020 at 10:30 -> Il Covid spaventa le Borse Piazza Affari affonda, -2,7%
+- 28/10/2020 at 10:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 11:00 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 11:15 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 11:30 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
+- 28/10/2020 at 11:45 -> ANSA.it pronta ad ospitare spettacoli, teatri ed enti cultura
