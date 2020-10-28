@@ -1101,3 +1101,11 @@
 - 28/10/2020 at 7:15 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
 - 28/10/2020 at 7:30 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
 - 28/10/2020 at 7:45 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 28/10/2020 at 8:00 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 28/10/2020 at 8:15 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 28/10/2020 at 8:30 -> Via libera al decreto ristori,, pacchetto da oltre 5 miliardi
+- 28/10/2020 at 8:45 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
+- 28/10/2020 at 9:00 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
+- 28/10/2020 at 9:15 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
+- 28/10/2020 at 9:30 -> In Cina i casi sono in risalita, Usa, più di 73mila in 24 ore
+- 28/10/2020 at 9:45 -> Il Covid spaventa le Borse Piazza Affari affonda, -2,7%
