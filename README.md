@@ -1229,3 +1229,11 @@
 - 29/10/2020 at 15:15 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
 - 29/10/2020 at 15:30 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
 - 29/10/2020 at 15:45 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 16:00 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 16:15 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 16:30 -> A Nizza 3 morti, 2 decapitati, 'Killer veniva da Lampedusa'
+- 29/10/2020 at 16:45 -> A Nizza 3 morti, 2 decapitati, Killer sbarcato a Lampedusa
+- 29/10/2020 at 17:00 -> A Nizza 3 morti, 2 decapitati, Killer sbarcato a Lampedusa
+- 29/10/2020 at 17:15 -> A Nizza 3 morti, 2 decapitati, Killer sbarcato a Lampedusa
+- 29/10/2020 at 17:30 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
+- 29/10/2020 at 17:45 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
