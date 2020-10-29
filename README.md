@@ -1213,3 +1213,19 @@
 - 29/10/2020 at 11:15 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
 - 29/10/2020 at 11:30 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
 - 29/10/2020 at 11:45 -> Attacco a Nizza, 3 morti , Sindaco: 'Chiudere le chiese'
+- 29/10/2020 at 12:00 -> La Francia  sotto attacco, A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 12:15 -> La Francia sotto attacco, A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 12:30 -> La Francia sotto attacco, A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 12:45 -> La Francia sotto attacco, A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 13:00 -> La Francia sotto attacco, A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 13:15 -> 'Massima allerta' in Francia , A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 13:30 -> 'Massima allerta' in Francia , A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 13:45 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati<br />Ucciso un uomo ad Avignone
+- 29/10/2020 at 14:00 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 14:15 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 14:30 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 14:45 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 15:00 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 15:15 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 15:30 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
+- 29/10/2020 at 15:45 -> Massima allerta in Francia , A Nizza 3 morti, 2 decapitati
