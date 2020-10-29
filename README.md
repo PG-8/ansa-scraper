@@ -1237,3 +1237,11 @@
 - 29/10/2020 at 17:15 -> A Nizza 3 morti, 2 decapitati, Killer sbarcato a Lampedusa
 - 29/10/2020 at 17:30 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
 - 29/10/2020 at 17:45 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
+- 29/10/2020 at 18:00 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
+- 29/10/2020 at 18:15 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
+- 29/10/2020 at 18:30 -> Nuovo record di casi, 26mila Test oltre 200mila, 217 morti
+- 29/10/2020 at 18:45 -> Nuovo record di casi,26mila, Italia verso lo scenario 4
+- 29/10/2020 at 19:00 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 29/10/2020 at 19:15 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 29/10/2020 at 19:30 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 29/10/2020 at 19:45 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
