@@ -1197,3 +1197,11 @@
 - 29/10/2020 at 7:15 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
 - 29/10/2020 at 7:30 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
 - 29/10/2020 at 7:45 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 29/10/2020 at 8:00 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 29/10/2020 at 8:15 -> In Francia scatta il lockdown, Macron: 'Siamo sommersi'
+- 29/10/2020 at 8:30 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 8:45 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 9:00 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 9:15 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 9:30 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 9:45 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
