@@ -1205,3 +1205,11 @@
 - 29/10/2020 at 9:15 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
 - 29/10/2020 at 9:30 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
 - 29/10/2020 at 9:45 -> Recovery, è ancora scontro Pe-Consiglio sul bilancio Ue
+- 29/10/2020 at 10:00 -> La grande protesta dei ristoratori nelle piazze d'Italia
+- 29/10/2020 at 10:15 -> Attacco vicino Notre-Dame Nizza, 'almeno un morto' 
+- 29/10/2020 at 10:30 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
+- 29/10/2020 at 10:45 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
+- 29/10/2020 at 11:00 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
+- 29/10/2020 at 11:15 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
+- 29/10/2020 at 11:30 -> Nizza, attacco in cattedrale , Tre morti. 'E' terrorismo'
+- 29/10/2020 at 11:45 -> Attacco a Nizza, 3 morti , Sindaco: 'Chiudere le chiese'
