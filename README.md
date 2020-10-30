@@ -1285,3 +1285,11 @@
 - 30/10/2020 at 5:15 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
 - 30/10/2020 at 5:30 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
 - 30/10/2020 at 5:45 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 6:00 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 6:15 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 6:30 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 6:45 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 7:00 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 7:15 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 7:30 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
+- 30/10/2020 at 7:45 -> Nuovo record di casi,26mila, L'Italia verso lo scenario 4
