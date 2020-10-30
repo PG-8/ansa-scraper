@@ -1349,3 +1349,11 @@
 - 30/10/2020 at 21:15 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
 - 30/10/2020 at 21:30 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
 - 30/10/2020 at 21:45 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 22:00 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 22:15 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 22:30 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 22:45 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 23:00 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 23:15 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
+- 30/10/2020 at 23:30 -> Manifestazione a Firenze Tensione e cariche polizia
+- 30/10/2020 at 23:45 -> Scontri al corteo di Firenze Cariche polizia e due fermati
