@@ -1325,3 +1325,11 @@
 - 30/10/2020 at 15:15 -> Forte terremoto nell'Egeo,,  mini-tsunami a Smirne
 - 30/10/2020 at 15:30 -> Forte terremoto nell'Egeo,,  mini-tsunami a Smirne
 - 30/10/2020 at 15:45 -> 3.186 contagi in Campania , 'Il governo perde tempo'
+- 30/10/2020 at 16:00 -> 3.186 contagi in Campania , 'Il governo perde tempo'
+- 30/10/2020 at 16:15 -> <span style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold;">Al via all'accordo per  tamponi da medici e pediatri</span>
+- 30/10/2020 at 16:30 -> <span style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold;">Al via all'accordo per  tamponi da medici e pediatri</span>
+- 30/10/2020 at 16:45 -> <span style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 40px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold;">Via all'accordo per tamponi da medici e pediatri</span>
+- 30/10/2020 at 17:00 -> Turismo, un nuovo lockdown brucerebbe 440 mila posti
+- 30/10/2020 at 17:15 -> Rischio alto per 11 regioni , Cinque gia' nello scenario 4
+- 30/10/2020 at 17:30 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 17:45 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
