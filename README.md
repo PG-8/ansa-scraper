@@ -1333,3 +1333,11 @@
 - 30/10/2020 at 17:15 -> Rischio alto per 11 regioni , Cinque gia' nello scenario 4
 - 30/10/2020 at 17:30 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
 - 30/10/2020 at 17:45 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 18:00 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 18:15 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 18:30 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 18:45 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 19:00 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 19:15 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 19:30 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
+- 30/10/2020 at 19:45 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
