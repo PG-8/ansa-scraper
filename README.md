@@ -1301,3 +1301,11 @@
 - 30/10/2020 at 9:15 -> Curva sale, si tenta un freno , Italia va verso lo scenario 4
 - 30/10/2020 at 9:30 -> Curva sale, si tenta un freno , Italia va verso lo scenario 4
 - 30/10/2020 at 9:45 -> Curva sale, si tenta un freno , Italia va verso lo scenario 4
+- 30/10/2020 at 10:00 -> Curva sale, si tenta un freno , Italia va verso lo scenario 4
+- 30/10/2020 at 10:15 -> Curva sale, si tenta un freno , Italia va verso lo scenario 4
+- 30/10/2020 at 10:30 -> Rimbalzo terzo trimestre, , il Pil schizza a +16,1%
+- 30/10/2020 at 10:45 -> Rimbalzo nel terzo trimestre il Pil schizza a +16,1%
+- 30/10/2020 at 11:00 -> Rimbalzo nel terzo trimestre il Pil schizza a +16,1%
+- 30/10/2020 at 11:15 -> Rimbalzo nel terzo trimestre il Pil schizza a +16,1%
+- 30/10/2020 at 11:30 -> Rimbalzo nel terzo trimestre il Pil schizza a +16,1%
+- 30/10/2020 at 11:45 -> Lamorgese: 'Stop polemiche', La famiglia inchioda il killer
