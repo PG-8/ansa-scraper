@@ -1341,3 +1341,11 @@
 - 30/10/2020 at 19:15 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
 - 30/10/2020 at 19:30 -> Oggi oltre 31 mila nuovi casi, Iss, sono a rischio 11 regioni
 - 30/10/2020 at 19:45 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 20:00 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 20:15 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 20:30 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 20:45 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 21:00 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 21:15 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 21:30 -> Conte: 'Blocco licenziamenti prorogato fino a fine marzo'
+- 30/10/2020 at 21:45 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
