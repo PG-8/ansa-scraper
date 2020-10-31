@@ -1405,3 +1405,11 @@
 - 31/10/2020 at 11:15 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
 - 31/10/2020 at 11:30 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
 - 31/10/2020 at 11:45 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
+- 31/10/2020 at 12:00 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
+- 31/10/2020 at 12:15 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
+- 31/10/2020 at 12:30 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
+- 31/10/2020 at 12:45 -> 'Riunioni incessanti, , Dpcm sarà più restrittivo'
+- 31/10/2020 at 13:00 -> 'Riunioni incessanti, , Dpcm sarà più restrittivo'
+- 31/10/2020 at 13:15 -> Conte: 'Al lavoro per capire , se servono nuove misure'
+- 31/10/2020 at 13:30 -> Conte: 'Al lavoro per capire , se servono nuove misure'
+- 31/10/2020 at 13:45 -> 'Scuola in presenza a rischio, ma al lavoro per difenderla'
