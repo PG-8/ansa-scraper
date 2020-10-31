@@ -1397,3 +1397,11 @@
 - 31/10/2020 at 9:15 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
 - 31/10/2020 at 9:30 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
 - 31/10/2020 at 9:45 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 10:00 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 10:15 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 10:30 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 10:45 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 11:00 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 11:15 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 11:30 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
+- 31/10/2020 at 11:45 -> Il presidente Cei Bassetti , è stato trasferito in ospedale
