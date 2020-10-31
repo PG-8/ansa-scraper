@@ -1373,3 +1373,11 @@
 - 31/10/2020 at 3:15 -> Scontri in piazza a Firenze Molotov contro la polizia
 - 31/10/2020 at 3:30 -> Scontri in piazza a Firenze Molotov contro la polizia
 - 31/10/2020 at 3:45 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 4:00 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 4:15 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 4:30 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 4:45 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 5:00 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 5:15 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 5:30 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 5:45 -> Scontri in piazza a Firenze Molotov contro la polizia
