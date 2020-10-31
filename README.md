@@ -1389,3 +1389,11 @@
 - 31/10/2020 at 7:15 -> Scontri in piazza a Firenze Molotov contro la polizia
 - 31/10/2020 at 7:30 -> Scontri in piazza a Firenze Molotov contro la polizia
 - 31/10/2020 at 7:45 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 8:00 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 8:15 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 8:30 -> Proteste in piazza a Firenze , Venti i fermi per gli scontri
+- 31/10/2020 at 8:45 -> Proteste in piazza a Firenze , Venti i fermi per gli scontri
+- 31/10/2020 at 9:00 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 9:15 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 9:30 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
+- 31/10/2020 at 9:45 -> Usa, nuovo record di contagi, Gran Bretagna valuta stretta
