@@ -1445,3 +1445,11 @@
 - 31/10/2020 at 21:15 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
 - 31/10/2020 at 21:30 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
 - 31/10/2020 at 21:45 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 22:00 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 22:15 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 22:30 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 22:45 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 23:00 -> Cts: 'Lockdown provinciali,, rivedere trasporto pubblico'
+- 31/10/2020 at 23:15 -> Cts: 'Lockdown provinciali,, rivedere trasporto pubblico'
+- 31/10/2020 at 23:30 -> Cts: 'Lockdown provinciali,, rivedere trasporto pubblico'
+- 31/10/2020 at 23:45 -> Cts: 'Lockdown provinciali,, rivedere trasporto pubblico'
