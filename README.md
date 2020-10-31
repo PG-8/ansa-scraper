@@ -1429,3 +1429,11 @@
 - 31/10/2020 at 17:15 -> Addio a Sean Connery,, leggenda del cinema
 - 31/10/2020 at 17:30 -> Spari ad un prete ortodosso, aggressore in fuga a Lione
 - 31/10/2020 at 17:45 -> Oltre 31mila casi, 297 morti Riunione urgente del Cts
+- 31/10/2020 at 18:00 -> Oltre 31mila casi, 297 morti Riunione urgente del Cts
+- 31/10/2020 at 18:15 -> Oltre 31mila casi, 297 morti Riunione urgente del Cts
+- 31/10/2020 at 18:30 -> Oltre 31mila casi, 297 morti Riunione urgente del Cts
+- 31/10/2020 at 18:45 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 19:00 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 19:15 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 19:30 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
+- 31/10/2020 at 19:45 -> Oltre 31mila casi, 297 morti , Verso stop in zone a rischio
