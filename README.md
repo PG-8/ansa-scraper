@@ -1413,3 +1413,11 @@
 - 31/10/2020 at 13:15 -> Conte: 'Al lavoro per capire , se servono nuove misure'
 - 31/10/2020 at 13:30 -> Conte: 'Al lavoro per capire , se servono nuove misure'
 - 31/10/2020 at 13:45 -> 'Scuola in presenza a rischio, ma al lavoro per difenderla'
+- 31/10/2020 at 14:00 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 14:15 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 14:30 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 14:45 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 15:00 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 15:15 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 15:30 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 15:45 -> Addio a Sean Connery,, leggenda del cinema
