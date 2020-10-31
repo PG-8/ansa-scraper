@@ -1421,3 +1421,11 @@
 - 31/10/2020 at 15:15 -> Addio a Sean Connery,, leggenda del cinema
 - 31/10/2020 at 15:30 -> Addio a Sean Connery,, leggenda del cinema
 - 31/10/2020 at 15:45 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 16:00 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 16:15 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 16:30 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 16:45 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 17:00 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 17:15 -> Addio a Sean Connery,, leggenda del cinema
+- 31/10/2020 at 17:30 -> Spari ad un prete ortodosso, aggressore in fuga a Lione
+- 31/10/2020 at 17:45 -> Oltre 31mila casi, 297 morti Riunione urgente del Cts
