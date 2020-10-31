@@ -1357,3 +1357,11 @@
 - 30/10/2020 at 23:15 -> Oltre 31 mila nuovi contagi, Iss, stare a casa più possibile
 - 30/10/2020 at 23:30 -> Manifestazione a Firenze Tensione e cariche polizia
 - 30/10/2020 at 23:45 -> Scontri al corteo di Firenze Cariche polizia e due fermati
+- 31/10/2020 at 00:00 -> Scontri al corteo di Firenze Tensione e cariche polizia
+- 31/10/2020 at 00:15 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 00:30 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 00:45 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 1:00 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 1:15 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 1:30 -> Scontri in piazza a Firenze Molotov contro la polizia
+- 31/10/2020 at 1:45 -> Scontri in piazza a Firenze Molotov contro la polizia
