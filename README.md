@@ -1533,3 +1533,11 @@
 - 1/11/2020 at 19:15 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
 - 1/11/2020 at 19:30 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
 - 1/11/2020 at 19:45 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
+- 1/11/2020 at 20:00 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
+- 1/11/2020 at 20:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 20:30 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 20:45 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 21:00 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 21:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 21:30 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 21:45 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
