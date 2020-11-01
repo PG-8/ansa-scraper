@@ -1517,3 +1517,11 @@
 - 1/11/2020 at 15:15 -> 'No al lockdown generale, , intervenire sugli over 70'
 - 1/11/2020 at 15:30 -> 'No al lockdown generale,, intervenire sugli over 70'
 - 1/11/2020 at 15:45 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 16:00 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 16:15 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 16:30 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 16:45 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 17:00 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 17:15 -> 'No al lockdown generale,, intervenire sugli over 70'
+- 1/11/2020 at 17:30 -> Contagi sotto quota 30 mila, 208 vittime in 24 ore
+- 1/11/2020 at 17:45 -> Contagi sotto quota 30 mila, 208 vittime in 24 ore
