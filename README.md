@@ -1525,3 +1525,11 @@
 - 1/11/2020 at 17:15 -> 'No al lockdown generale,, intervenire sugli over 70'
 - 1/11/2020 at 17:30 -> Contagi sotto quota 30 mila, 208 vittime in 24 ore
 - 1/11/2020 at 17:45 -> Contagi sotto quota 30 mila, 208 vittime in 24 ore
+- 1/11/2020 at 18:00 -> Contagi sotto quota 30 mila, 208 vittime in 24 ore
+- 1/11/2020 at 18:15 -> Circa 30mila casi, 208 morti Sale rapporto positivi-test
+- 1/11/2020 at 18:30 -> Circa 30mila casi, 208 morti Sale rapporto positivi-test
+- 1/11/2020 at 18:45 -> Circa 30mila casi, 208 morti Sale rapporto positivi-test
+- 1/11/2020 at 19:00 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
+- 1/11/2020 at 19:15 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
+- 1/11/2020 at 19:30 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
+- 1/11/2020 at 19:45 -> Le Regioni per il coprifuoco  Conte: 'Dipende dal rischio'
