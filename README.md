@@ -1493,3 +1493,19 @@
 - 1/11/2020 at 9:15 -> Speranza: 'Curva terrificante Ci sono 48 ore per la stretta'
 - 1/11/2020 at 9:30 -> Speranza: 'Curva terrificante Ci sono 48 ore per la stretta'
 - 1/11/2020 at 9:45 -> Speranza: 'Curva terrificante Ci sono 48 ore per la stretta'
+- 1/11/2020 at 10:00 -> Speranza: 'Curva terrificante Ci sono 48 ore per la stretta'
+- 1/11/2020 at 10:15 -> Speranza: 'Curva terrificante Ci sono 48 ore per la stretta'
+- 1/11/2020 at 10:30 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 10:45 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 11:00 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 11:15 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 11:30 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 11:45 -> Al vaglio le nuove misure Riunione con gli enti locali
+- 1/11/2020 at 12:00 -> Mattarella: 'Basta egoismi, uniti nel contrasto al Covid'
+- 1/11/2020 at 12:15 -> Mattarella: 'Basta egoismi, uniti nel contrasto al Covid'
+- 1/11/2020 at 12:30 -> Mattarella: 'Basta egoismi, uniti nel contrasto al Covid'
+- 1/11/2020 at 12:45 -> 'No al lockdown generale, , intervenire sugli anziani'
+- 1/11/2020 at 13:00 -> 'No al lockdown generale, , intervenire sugli anziani'
+- 1/11/2020 at 13:15 -> 'No al lockdown generale, , intervenire sugli anziani'
+- 1/11/2020 at 13:30 -> 'No al lockdown generale, , intervenire sugli anziani'
+- 1/11/2020 at 13:45 -> 'No al lockdown generale, , intervenire sugli anziani'
