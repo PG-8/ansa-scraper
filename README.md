@@ -1541,3 +1541,11 @@
 - 1/11/2020 at 21:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
 - 1/11/2020 at 21:30 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
 - 1/11/2020 at 21:45 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 22:00 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 22:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 22:30 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 22:45 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 23:00 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 23:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
+- 1/11/2020 at 23:30 -> Ipotesi coprifuoco dalle 21, Si cerca accordo, slitta Dpcm
+- 1/11/2020 at 23:45 -> Ipotesi coprifuoco dalle 21, Si cerca accordo, slitta Dpcm
