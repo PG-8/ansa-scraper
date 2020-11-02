@@ -1637,3 +1637,11 @@
 - 2/11/2020 at 21:15 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
 - 2/11/2020 at 21:30 -> Spari vicino alla sinagoga , Un morto, un uomo in fuga
 - 2/11/2020 at 21:45 -> Spari nel centro di Vienna , Un morto, un uomo in fuga
+- 2/11/2020 at 22:00 -> Spari nel centro di Vienna , 7 morti, un uomo in fuga
+- 2/11/2020 at 22:15 -> Ore di terrore a Vienna , Spari nel centro, 7 morti
+- 2/11/2020 at 22:30 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
+- 2/11/2020 at 22:45 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
+- 2/11/2020 at 23:00 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
+- 2/11/2020 at 23:15 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
+- 2/11/2020 at 23:30 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
+- 2/11/2020 at 23:45 -> Spari a Vienna, sette morti 'Hanno sparato nei locali'
