@@ -1597,3 +1597,11 @@
 - 2/11/2020 at 11:15 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
 - 2/11/2020 at 11:30 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
 - 2/11/2020 at 11:45 -> Coprifuoco nazionale alle 21, Nuovo dpcm, sì a zone rosse
+- 2/11/2020 at 12:00 -> Coprifuoco nazionale alle 21, Nel nuovo dpcm zone rosse
+- 2/11/2020 at 12:15 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
+- 2/11/2020 at 12:30 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
+- 2/11/2020 at 12:45 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
+- 2/11/2020 at 13:00 -> 'Curva impone nuove misure Italia verso scenario quattro'
+- 2/11/2020 at 13:15 -> 'Curva impone nuove misure Italia verso scenario quattro'
+- 2/11/2020 at 13:30 -> Conte: 'Coprifuoco serale, fasce di rischio differenziate'
+- 2/11/2020 at 13:45 -> Conte: 'Coprifuoco serale, rischio regioni differenziato'
