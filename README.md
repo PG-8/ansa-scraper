@@ -1589,3 +1589,11 @@
 - 2/11/2020 at 9:15 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
 - 2/11/2020 at 9:30 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
 - 2/11/2020 at 9:45 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 10:00 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 10:15 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 10:30 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 10:45 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
+- 2/11/2020 at 11:00 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
+- 2/11/2020 at 11:15 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
+- 2/11/2020 at 11:30 -> Addio al mattatore Proietti, Mattarella: 'Grande dolore'
+- 2/11/2020 at 11:45 -> Coprifuoco nazionale alle 21, Nuovo dpcm, sì a zone rosse
