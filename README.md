@@ -1581,3 +1581,11 @@
 - 2/11/2020 at 7:15 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
 - 2/11/2020 at 7:30 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
 - 2/11/2020 at 7:45 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 8:00 -> Addio a Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 8:15 -> Addio a Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 8:30 -> Addio a Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 8:45 -> Addio a Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 9:00 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 9:15 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 9:30 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 9:45 -> Addio al mattatore Proietti, 50 anni di teatro e cinema
