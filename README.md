@@ -1621,3 +1621,11 @@
 - 2/11/2020 at 17:15 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
 - 2/11/2020 at 17:30 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
 - 2/11/2020 at 17:45 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
+- 2/11/2020 at 18:00 -> Addio a Gigi Proietti nel giorno dell'80 compleanno
+- 2/11/2020 at 18:15 -> Conte: 'Coprifuoco serale, , fasce di rischio per aree'
+- 2/11/2020 at 18:30 -> Conte: 'Coprifuoco serale, , fasce di rischio per aree'
+- 2/11/2020 at 18:45 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 19:00 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 19:15 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 19:30 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 19:45 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
