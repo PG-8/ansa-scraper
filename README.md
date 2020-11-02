@@ -1573,3 +1573,11 @@
 - 2/11/2020 at 5:15 -> Gigi Proietti in terapia intensiva, problemi cardiaci
 - 2/11/2020 at 5:30 -> Gigi Proietti in terapia intensiva, problemi cardiaci
 - 2/11/2020 at 5:45 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 6:00 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 6:15 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 6:30 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 6:45 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 7:00 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 7:15 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 7:30 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
+- 2/11/2020 at 7:45 -> Morto l'attore Gigi Proietti, 50 anni di teatro e cinema
