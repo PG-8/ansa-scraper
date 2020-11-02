@@ -1629,3 +1629,11 @@
 - 2/11/2020 at 19:15 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
 - 2/11/2020 at 19:30 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
 - 2/11/2020 at 19:45 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 20:00 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 20:15 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 20:30 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 20:45 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 21:00 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 21:15 -> 'Le Regioni divise in tre fasce, Misure saranno conseguenti'
+- 2/11/2020 at 21:30 -> Spari vicino alla sinagoga , Un morto, un uomo in fuga
+- 2/11/2020 at 21:45 -> Spari nel centro di Vienna , Un morto, un uomo in fuga
