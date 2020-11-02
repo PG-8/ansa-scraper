@@ -1549,3 +1549,11 @@
 - 1/11/2020 at 23:15 -> Regioni, coprifuoco e over70, Braccio di ferro col governo
 - 1/11/2020 at 23:30 -> Ipotesi coprifuoco dalle 21, Si cerca accordo, slitta Dpcm
 - 1/11/2020 at 23:45 -> Ipotesi coprifuoco dalle 21, Si cerca accordo, slitta Dpcm
+- 2/11/2020 at 00:00 -> Ipotesi coprifuoco dalle 21, Si cerca accordo, slitta Dpcm
+- 2/11/2020 at 00:15 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 00:30 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 00:45 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 1:00 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 1:15 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 1:30 -> Gigi Proietti in terapia intensiva, problemi cardiaci
+- 2/11/2020 at 1:45 -> Gigi Proietti in terapia intensiva, problemi cardiaci
