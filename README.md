@@ -1709,3 +1709,11 @@
 - 3/11/2020 at 15:15 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
 - 3/11/2020 at 15:30 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
 - 3/11/2020 at 15:45 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 16:00 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 16:15 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 16:30 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 16:45 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 17:00 -> Covid, l'allarme dei medici  'C'è un rischio tsunami'
+- 3/11/2020 at 17:15 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
+- 3/11/2020 at 17:30 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
+- 3/11/2020 at 17:45 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
