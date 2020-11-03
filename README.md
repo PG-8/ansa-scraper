@@ -1725,3 +1725,11 @@
 - 3/11/2020 at 19:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 3/11/2020 at 19:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 3/11/2020 at 19:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 20:00 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 20:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 20:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 20:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 21:00 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 21:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 21:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 21:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
