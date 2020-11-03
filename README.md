@@ -1645,3 +1645,11 @@
 - 2/11/2020 at 23:15 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
 - 2/11/2020 at 23:30 -> Spari a Vienna, sette morti 'Forse presi degli ostaggi'
 - 2/11/2020 at 23:45 -> Spari a Vienna, sette morti 'Hanno sparato nei locali'
+- 3/11/2020 at 00:00 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 00:15 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 00:30 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 00:45 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 1:00 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 1:15 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 1:30 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
+- 3/11/2020 at 1:45 -> Commando attacca Vienna , Due morti e numerosi feriti
