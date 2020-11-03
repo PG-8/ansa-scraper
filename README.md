@@ -1669,3 +1669,11 @@
 - 3/11/2020 at 5:15 -> Commando attacca Vienna , Tre morti e numerosi feriti
 - 3/11/2020 at 5:30 -> Commando attacca Vienna , Tre morti e numerosi feriti
 - 3/11/2020 at 5:45 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 6:00 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 6:15 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 6:30 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 6:45 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 7:00 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 7:15 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 7:30 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 7:45 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
