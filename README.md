@@ -1717,3 +1717,11 @@
 - 3/11/2020 at 17:15 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
 - 3/11/2020 at 17:30 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
 - 3/11/2020 at 17:45 -> Il Dpcm entro stanotte, , coprifuoco dalle 21 o 22
+- 3/11/2020 at 18:00 -> Salgono i contagi: +28mila, Record di morti da maggio
+- 3/11/2020 at 18:15 -> Salgono i contagi: +28mila, Record di morti da maggio
+- 3/11/2020 at 18:30 -> Salgono i contagi: +28mila, Record di morti da maggio
+- 3/11/2020 at 18:45 -> Salgono i contagi: +28mila, Record di morti da maggio
+- 3/11/2020 at 19:00 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 19:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 19:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 19:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
