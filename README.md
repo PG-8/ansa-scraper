@@ -1733,3 +1733,12 @@
 - 3/11/2020 at 21:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 3/11/2020 at 21:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 3/11/2020 at 21:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 22:00 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 22:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 22:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 22:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 23:00 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 23:15 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 23:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 3/11/2020 at 23:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
+- 4/11/2020 at 00:00 -> La sfida Trump-Biden,, volata verso la Casa Bianca
