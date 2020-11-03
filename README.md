@@ -1677,3 +1677,11 @@
 - 3/11/2020 at 7:15 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
 - 3/11/2020 at 7:30 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
 - 3/11/2020 at 7:45 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 8:00 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 8:15 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 8:30 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 8:45 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 9:00 -> Sale a 3 il numero dei morti, Ucciso terrorista dell'Isis
+- 3/11/2020 at 9:15 -> Sale a 4 il numero dei morti Ucciso terrorista dell'Isis
+- 3/11/2020 at 9:30 -> Sale a 4 il numero dei morti Attacco annunciato su social
+- 3/11/2020 at 9:45 -> Sale a 4 il numero dei morti Attacco annunciato su social
