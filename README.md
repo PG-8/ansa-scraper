@@ -1685,3 +1685,11 @@
 - 3/11/2020 at 9:15 -> Sale a 4 il numero dei morti Ucciso terrorista dell'Isis
 - 3/11/2020 at 9:30 -> Sale a 4 il numero dei morti Attacco annunciato su social
 - 3/11/2020 at 9:45 -> Sale a 4 il numero dei morti Attacco annunciato su social
+- 3/11/2020 at 10:00 -> Rapina in banca a Milano, Dipendenti in ostaggio
+- 3/11/2020 at 10:15 -> Rapina in banca a Milano, Dipendenti in ostaggio
+- 3/11/2020 at 10:30 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
+- 3/11/2020 at 10:45 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
+- 3/11/2020 at 11:00 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
+- 3/11/2020 at 11:15 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
+- 3/11/2020 at 11:30 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
+- 3/11/2020 at 11:45 -> Ostaggi presi in banca illesi, Rapinatori in fuga da fogne
