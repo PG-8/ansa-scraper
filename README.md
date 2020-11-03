@@ -1653,3 +1653,11 @@
 - 3/11/2020 at 1:15 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
 - 3/11/2020 at 1:30 -> Terrore a Vienna, 7 morti 'Hanno sparato nei locali'
 - 3/11/2020 at 1:45 -> Commando attacca Vienna , Due morti e numerosi feriti
+- 3/11/2020 at 2:00 -> Commando attacca Vienna , Due morti e numerosi feriti
+- 3/11/2020 at 2:15 -> Commando attacca Vienna , Due morti e numerosi feriti
+- 3/11/2020 at 2:30 -> Commando attacca Vienna , Due morti e numerosi feriti
+- 3/11/2020 at 2:45 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 3:00 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 3:15 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 3:30 -> Commando attacca Vienna , Tre morti e numerosi feriti
+- 3/11/2020 at 3:45 -> Commando attacca Vienna , Tre morti e numerosi feriti
