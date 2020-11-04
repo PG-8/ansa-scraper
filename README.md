@@ -1813,3 +1813,11 @@
 - 4/11/2020 at 17:15 -> Biden avanti in Michigan Trump: 'E' molto strano'
 - 4/11/2020 at 17:30 -> Giovane di 19 anni ucciso a coltellate<br> nel Napoletano
 - 4/11/2020 at 17:45 -> Stabile la crescita dei contagi +30.550 in 24 ore,352 morti
+- 4/11/2020 at 18:00 -> Stabile la crescita dei contagi +30.550 in 24 ore,352 morti
+- 4/11/2020 at 18:15 -> Stabile la crescita dei contagi +30.550 in 24 ore,352 morti
+- 4/11/2020 at 18:30 -> Stabile la crescita dei contagi +30.550 in 24 ore,352 morti
+- 4/11/2020 at 18:45 -> Stabile la crescita dei contagi 30.550 in 24 ore, 352 morti
+- 4/11/2020 at 19:00 -> Stabile la crescita dei contagi 30.550 in 24 ore, 352 i morti
+- 4/11/2020 at 19:15 -> Misure in vigore da venerdì, Stasera conferenza di Conte
+- 4/11/2020 at 19:30 -> Misure in vigore da venerdì, Stasera conferenza di Conte
+- 4/11/2020 at 19:45 -> Misure in vigore da venerdì, Stasera conferenza di Conte
