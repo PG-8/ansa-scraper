@@ -1797,3 +1797,19 @@
 - 4/11/2020 at 13:15 -> Trump evoca Corte Suprema, Staff Biden: 'Uno scandalo'
 - 4/11/2020 at 13:30 -> Trump evoca Corte Suprema, Staff Biden: 'Uno scandalo'
 - 4/11/2020 at 13:45 -> Trump evoca Corte Suprema, Staff Biden: 'Uno scandalo'
+- 4/11/2020 at 14:00 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 14:15 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 14:30 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 14:45 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 15:00 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 15:15 -> Trump-Biden, duro scontro  , E il tycoon minaccia ricorso
+- 4/11/2020 at 15:30 -> Biden recupera in Michigan Duro scontro con Trump
+- 4/11/2020 at 15:45 -> Biden recupera in Michigan Duro scontro con Trump
+- 4/11/2020 at 16:00 -> Biden recupera in Michigan Duro scontro con Trump
+- 4/11/2020 at 16:15 -> Biden avanti in Michigan Duro scontro con Trump
+- 4/11/2020 at 16:30 -> Biden avanti in Michigan Duro scontro con Trump
+- 4/11/2020 at 16:45 -> Biden avanti in Michigan Trump: 'E' molto strano'
+- 4/11/2020 at 17:00 -> Biden avanti in Michigan Trump: 'E' molto strano'
+- 4/11/2020 at 17:15 -> Biden avanti in Michigan Trump: 'E' molto strano'
+- 4/11/2020 at 17:30 -> Giovane di 19 anni ucciso a coltellate<br> nel Napoletano
+- 4/11/2020 at 17:45 -> Stabile la crescita dei contagi +30.550 in 24 ore,352 morti
