@@ -1773,3 +1773,11 @@
 - 4/11/2020 at 7:15 -> La notte delle elezioni , senza un vincitore
 - 4/11/2020 at 7:30 -> La notte delle elezioni , senza un vincitore
 - 4/11/2020 at 7:45 -> Usa 2020: record donne candidate per Congresso 
+- 4/11/2020 at 8:00 -> Usa 2020: record donne candidate per Congresso 
+- 4/11/2020 at 8:15 -> Usa 2020: record donne candidate per Congresso 
+- 4/11/2020 at 8:30 -> Gli Usa con il fiato sospeso, Biden: 'Serve pazienza'
+- 4/11/2020 at 8:45 -> Gli Usa con il fiato sospeso, Trump: 'Ho vinto ovunque'
+- 4/11/2020 at 9:00 -> Gli Usa con il fiato sospeso, Trump: 'Ho vinto ovunque'
+- 4/11/2020 at 9:15 -> Gli Usa con il fiato sospeso, Trump: 'Ho vinto ovunque'
+- 4/11/2020 at 9:30 -> Trump evoca Corte Suprema, Biden: 'Contare tutti i voti'
+- 4/11/2020 at 9:45 -> Trump evoca Corte Suprema, Biden: 'Contare tutti i voti'
