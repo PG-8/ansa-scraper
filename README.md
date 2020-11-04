@@ -1757,3 +1757,11 @@
 - 4/11/2020 at 3:15 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
 - 4/11/2020 at 3:30 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
 - 4/11/2020 at 3:45 -> Democratici mantengono , il controllo della Camera
+- 4/11/2020 at 4:00 -> Democratici mantengono , il controllo della Camera
+- 4/11/2020 at 4:15 -> Trump avanti in Texas, , testa a testa in Ohio
+- 4/11/2020 at 4:30 -> Ohio-Texas, sorpasso Trump, Biden avanti in Arizona
+- 4/11/2020 at 4:45 -> Ohio-Texas, sorpasso Trump, Biden avanti in Arizona
+- 4/11/2020 at 5:00 -> Trump vince in Florida, Biden ora trema
+- 4/11/2020 at 5:15 -> Trump vince in Florida, Biden ora trema
+- 4/11/2020 at 5:30 -> Trump vince in Florida, Biden ora trema
+- 4/11/2020 at 5:45 -> Trump vince in Florida, Biden strappa l'Arizona
