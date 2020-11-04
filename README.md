@@ -1742,3 +1742,10 @@
 - 3/11/2020 at 23:30 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 3/11/2020 at 23:45 -> Coprifuoco dalle 22 alle 5, Misure in vigore da giovedì
 - 4/11/2020 at 00:00 -> La sfida Trump-Biden,, volata verso la Casa Bianca
+- 4/11/2020 at 00:15 -> La sfida Trump-Biden,, volata verso la Casa Bianca
+- 4/11/2020 at 00:30 -> Chiudono i primi seggi, Trump: 'Siamo messi bene'
+- 4/11/2020 at 00:45 -> Chiudono i primi seggi, Affluenza mai così alta
+- 4/11/2020 at 1:00 -> Affluenza mai così alta Trump avanti nei primi voti
+- 4/11/2020 at 1:15 -> Affluenza mai così alta Chiusi i seggi in sei stati
+- 4/11/2020 at 1:30 -> Testa a testa Trump-Biden , in Georgia e South Carolina
+- 4/11/2020 at 1:45 -> Biden avanti nei primi dati, in Florida e in Georgia
