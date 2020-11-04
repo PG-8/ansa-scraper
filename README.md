@@ -1821,3 +1821,11 @@
 - 4/11/2020 at 19:15 -> Misure in vigore da venerdì, Stasera conferenza di Conte
 - 4/11/2020 at 19:30 -> Misure in vigore da venerdì, Stasera conferenza di Conte
 - 4/11/2020 at 19:45 -> Misure in vigore da venerdì, Stasera conferenza di Conte
+- 4/11/2020 at 20:00 -> Misure in vigore da venerdì, Stasera conferenza di Conte
+- 4/11/2020 at 20:15 -> Misure in vigore da venerdì, Stasera conferenza di Conte
+- 4/11/2020 at 20:30 -> 'Pericoloso aspettare per la Lombardia <br>la zona rossa'
+- 4/11/2020 at 20:45 -> 'Pericoloso aspettare per la Lombardia <br>la zona rossa'
+- 4/11/2020 at 21:00 -> 'Pericoloso aspettare per la Lombardia <br>la zona rossa'
+- 4/11/2020 at 21:15 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
+- 4/11/2020 at 21:30 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
+- 4/11/2020 at 21:45 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
