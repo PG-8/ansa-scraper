@@ -1765,3 +1765,11 @@
 - 4/11/2020 at 5:15 -> Trump vince in Florida, Biden ora trema
 - 4/11/2020 at 5:30 -> Trump vince in Florida, Biden ora trema
 - 4/11/2020 at 5:45 -> Trump vince in Florida, Biden strappa l'Arizona
+- 4/11/2020 at 6:00 -> A Trump l'Ohio e la Florida, Biden strappa l'Arizona
+- 4/11/2020 at 6:15 -> A Trump l'Ohio e il Texas, Biden strappa l'Arizona
+- 4/11/2020 at 6:30 -> A Trump l'Ohio e il Texas, Biden strappa l'Arizona
+- 4/11/2020 at 6:45 -> A Trump l'Ohio e il Texas, Biden strappa l'Arizona
+- 4/11/2020 at 7:00 -> La notte delle elezioni , senza un vincitore
+- 4/11/2020 at 7:15 -> La notte delle elezioni , senza un vincitore
+- 4/11/2020 at 7:30 -> La notte delle elezioni , senza un vincitore
+- 4/11/2020 at 7:45 -> Usa 2020: record donne candidate per Congresso 
