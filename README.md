@@ -1749,3 +1749,11 @@
 - 4/11/2020 at 1:15 -> Affluenza mai così alta Chiusi i seggi in sei stati
 - 4/11/2020 at 1:30 -> Testa a testa Trump-Biden , in Georgia e South Carolina
 - 4/11/2020 at 1:45 -> Biden avanti nei primi dati, in Florida e in Georgia
+- 4/11/2020 at 2:00 -> Testa a testa in Florida, West Virginia a Trump
+- 4/11/2020 at 2:15 -> Testa a testa in Florida, West Virginia a Trump
+- 4/11/2020 at 2:30 -> Biden avanti in Pennsylvania e Texas, testa a testa Florida
+- 4/11/2020 at 2:45 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
+- 4/11/2020 at 3:00 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
+- 4/11/2020 at 3:15 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
+- 4/11/2020 at 3:30 -> Biden avanti in Pennsylvania Texas, Ohio e Michigan
+- 4/11/2020 at 3:45 -> Democratici mantengono , il controllo della Camera
