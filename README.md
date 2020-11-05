@@ -1877,3 +1877,11 @@
 - 5/11/2020 at 9:15 -> Biden verso la Casa Bianca, Trump: 'Rubano il voto'
 - 5/11/2020 at 9:30 -> Biden verso la Casa Bianca, Trump: 'Rubano il voto'
 - 5/11/2020 at 9:45 -> Biden verso la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 10:00 -> Biden verso la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 10:15 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
+- 5/11/2020 at 10:30 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
+- 5/11/2020 at 10:45 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
+- 5/11/2020 at 11:00 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
+- 5/11/2020 at 11:15 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
+- 5/11/2020 at 11:30 -> L'economia nel 2022 non tonerà a livelli pre-pandemia
+- 5/11/2020 at 11:45 -> Economia italiana nel 2022 , non sarà a livelli pre-Covid
