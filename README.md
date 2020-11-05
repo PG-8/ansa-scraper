@@ -1885,3 +1885,11 @@
 - 5/11/2020 at 11:15 -> Biden verso la Casa Bianca, Uno Stato e sarà presidente
 - 5/11/2020 at 11:30 -> L'economia nel 2022 non tonerà a livelli pre-pandemia
 - 5/11/2020 at 11:45 -> Economia italiana nel 2022 , non sarà a livelli pre-Covid
+- 5/11/2020 at 12:00 -> 'Il Pil dell'Italia nel 2022 , non sarà a livelli pre-Covid'
+- 5/11/2020 at 12:15 -> 'Il Pil dell'Italia nel 2022 , non sarà a livelli pre-Covid'
+- 5/11/2020 at 12:30 -> 'Il Pil dell'Italia nel 2022 , non sarà a livelli pre-Covid'
+- 5/11/2020 at 12:45 -> 'Il Pil dell'Italia nel 2022 , non sarà a livelli pre-Covid'
+- 5/11/2020 at 13:00 -> 'Il Pil dell'Italia nel 2022 , non sarà a livelli pre-Covid'
+- 5/11/2020 at 13:15 -> Speranza contro le Regioni  'Non ignorino la gravità'
+- 5/11/2020 at 13:30 -> Speranza contro le Regioni  'Non ignorino la gravità'
+- 5/11/2020 at 13:45 -> Speranza contro le Regioni  'Non ignorino la gravità'
