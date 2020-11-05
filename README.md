@@ -1837,3 +1837,11 @@
 - 4/11/2020 at 23:15 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
 - 4/11/2020 at 23:30 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
 - 4/11/2020 at 23:45 -> Lombardia, Piemonte, Calabria e Valle d'Aosta
+- 5/11/2020 at 00:00 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 00:15 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 00:30 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 00:45 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 1:00 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 1:15 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 1:30 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
+- 5/11/2020 at 1:45 -> Biden vede la Casa Bianca, Trump: 'Rubano il voto'
