@@ -2005,3 +2005,11 @@
 - 6/11/2020 at 17:15 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
 - 6/11/2020 at 17:30 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
 - 6/11/2020 at 17:45 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 18:00 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 18:15 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 18:30 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 18:45 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 19:00 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 19:15 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 19:30 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
+- 6/11/2020 at 19:45 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
