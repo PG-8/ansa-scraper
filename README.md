@@ -1981,3 +1981,11 @@
 - 6/11/2020 at 11:15 -> Quattro Regioni zone rosse, Scattano le nuove misure
 - 6/11/2020 at 11:30 -> 'Il virus è un treno che corre,, dpcm perché non ci travolga'
 - 6/11/2020 at 11:45 -> 'Il virus è un treno che corre,, dpcm perché non ci travolga'
+- 6/11/2020 at 12:00 -> Coronavirus, Londra prima e durante il lockdown
+- 6/11/2020 at 12:15 -> Coronavirus, Londra prima e durante il lockdown
+- 6/11/2020 at 12:30 -> Coronavirus, Londra prima e durante il lockdown
+- 6/11/2020 at 12:45 -> L'inchino di Roma al re Proietti, lungo applauso al Globe
+- 6/11/2020 at 13:00 -> L'inchino di Roma al re Proietti, lungo applauso al Globe
+- 6/11/2020 at 13:15 -> 'Non c'è altra strada, , via precauzione obbligata'
+- 6/11/2020 at 13:30 -> 'Non c'è altra strada, , via precauzione obbligata'
+- 6/11/2020 at 13:45 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
