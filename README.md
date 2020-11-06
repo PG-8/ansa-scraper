@@ -1941,3 +1941,11 @@
 - 6/11/2020 at 1:15 -> Tregua al vertice dei leader Conte: un patto fino al 2023
 - 6/11/2020 at 1:30 -> Tregua al vertice dei leader Conte: un patto fino al 2023
 - 6/11/2020 at 1:45 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 2:00 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 2:15 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 2:30 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 2:45 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 3:00 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 3:15 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 3:30 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 3:45 -> Biden parla da presidente, Trump denuncia brogli
