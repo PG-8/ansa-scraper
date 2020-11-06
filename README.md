@@ -1997,3 +1997,11 @@
 - 6/11/2020 at 15:15 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
 - 6/11/2020 at 15:30 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
 - 6/11/2020 at 15:45 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 16:00 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 16:15 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 16:30 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 16:45 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 17:00 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 17:15 -> 'Con il Dpcm non vogliamo dare schiaffi a nessuno'
+- 6/11/2020 at 17:30 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
+- 6/11/2020 at 17:45 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
