@@ -1965,3 +1965,11 @@
 - 6/11/2020 at 7:15 -> Biden parla da presidente, Trump denuncia brogli
 - 6/11/2020 at 7:30 -> Biden parla da presidente, Trump denuncia brogli
 - 6/11/2020 at 7:45 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 8:00 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 8:15 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 8:30 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 8:45 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 9:00 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 9:15 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 9:30 -> Biden parla da presidente,, Trump denuncia brogli
+- 6/11/2020 at 9:45 -> Biden parla da presidente, Trump denuncia brogli
