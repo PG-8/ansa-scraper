@@ -2013,3 +2013,11 @@
 - 6/11/2020 at 19:15 -> Nuovo record di contagi sfiorano i 38mila, 446 morti
 - 6/11/2020 at 19:30 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
 - 6/11/2020 at 19:45 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
+- 6/11/2020 at 20:00 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
+- 6/11/2020 at 20:15 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
+- 6/11/2020 at 20:30 -> Pennsylvania, Biden allunga Ha oltre 12mila voti in più
+- 6/11/2020 at 20:45 -> Pennsylvania, Biden allunga , Trump: 'Pronti a vie legali'
+- 6/11/2020 at 21:00 -> Pennsylvania, Biden allunga , Trump: 'Pronti a vie legali'
+- 6/11/2020 at 21:15 -> Pennsylvania, Biden allunga , Trump: 'Pronti a vie legali'
+- 6/11/2020 at 21:30 -> Pennsylvania, Biden allunga , Trump: 'Pronti a vie legali'
+- 6/11/2020 at 21:45 -> Pennsylvania, Biden allunga , Trump: 'Pronti a vie legali'
