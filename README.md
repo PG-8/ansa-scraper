@@ -1973,3 +1973,11 @@
 - 6/11/2020 at 9:15 -> Biden parla da presidente,, Trump denuncia brogli
 - 6/11/2020 at 9:30 -> Biden parla da presidente,, Trump denuncia brogli
 - 6/11/2020 at 9:45 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 10:00 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 10:15 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 10:30 -> Biden parla da presidente, Trump denuncia brogli
+- 6/11/2020 at 10:45 -> Quattro Regioni zone rosse, Scattano le nuove misure
+- 6/11/2020 at 11:00 -> Quattro Regioni zone rosse, Scattano le nuove misure
+- 6/11/2020 at 11:15 -> Quattro Regioni zone rosse, Scattano le nuove misure
+- 6/11/2020 at 11:30 -> 'Il virus è un treno che corre,, dpcm perché non ci travolga'
+- 6/11/2020 at 11:45 -> 'Il virus è un treno che corre,, dpcm perché non ci travolga'
