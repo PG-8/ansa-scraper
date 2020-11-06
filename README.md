@@ -1933,3 +1933,11 @@
 - 5/11/2020 at 23:15 -> Tregua al vertice dei leader Conte: un patto fino al 2023
 - 5/11/2020 at 23:30 -> Tregua al vertice dei leader Conte: un patto fino al 2023
 - 5/11/2020 at 23:45 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 00:00 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 00:15 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 00:30 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 00:45 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 1:00 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 1:15 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 1:30 -> Tregua al vertice dei leader Conte: un patto fino al 2023
+- 6/11/2020 at 1:45 -> Tregua al vertice dei leader Conte: un patto fino al 2023
