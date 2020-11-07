@@ -2085,3 +2085,11 @@
 - 7/11/2020 at 13:15 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
 - 7/11/2020 at 13:30 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
 - 7/11/2020 at 13:45 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 14:00 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 14:15 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 14:30 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 14:45 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 15:00 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
+- 7/11/2020 at 15:15 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
+- 7/11/2020 at 15:30 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
+- 7/11/2020 at 15:45 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
