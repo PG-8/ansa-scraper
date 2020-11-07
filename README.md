@@ -2101,3 +2101,11 @@
 - 7/11/2020 at 17:15 -> Viminale, possibile chiudere piazze anche prima delle 21
 - 7/11/2020 at 17:30 -> Quasi 40mila nuovi casi, , le vittime sono 425
 - 7/11/2020 at 17:45 -> I nuovi casi sono 39.811, , le vittime sono 425
+- 7/11/2020 at 18:00 -> Usa 2020: flop Kanye West, solo 60 mila voti 
+- 7/11/2020 at 18:15 -> Usa, quando McCain ammise la sconfitta contro Obama
+- 7/11/2020 at 18:30 -> Usa, quando McCain ammise la sconfitta contro Obama
+- 7/11/2020 at 18:45 -> Usa, quando McCain ammise la sconfitta contro Obama
+- 7/11/2020 at 19:00 -> I colori di van Gogh da vivere in digitale
+- 7/11/2020 at 19:15 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 7/11/2020 at 19:30 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 7/11/2020 at 19:45 -> La parola della settimana è misura (di Massimo Sebastiani)
