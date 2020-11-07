@@ -2053,3 +2053,11 @@
 - 7/11/2020 at 5:15 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
 - 7/11/2020 at 5:30 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
 - 7/11/2020 at 5:45 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 6:00 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 6:15 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 6:30 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 6:45 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 7:00 -> Biden, 'il  Paese sia unito e guarisca le sue ferite'
+- 7/11/2020 at 7:15 -> Biden, 'il  Paese sia unito e guarisca le sue ferite'
+- 7/11/2020 at 7:30 -> Biden, 'il  Paese sia unito e guarisca le sue ferite'
+- 7/11/2020 at 7:45 -> Biden: 'Il  Paese sia unito e guarisca le sue ferite'
