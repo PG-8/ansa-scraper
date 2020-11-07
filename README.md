@@ -2077,3 +2077,11 @@
 - 7/11/2020 at 11:15 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
 - 7/11/2020 at 11:30 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
 - 7/11/2020 at 11:45 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
+- 7/11/2020 at 12:00 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
+- 7/11/2020 at 12:15 -> Conte: 'Via il commissario, per la sanità della Calabria'
+- 7/11/2020 at 12:30 -> Conte: 'Via il commissario, per la sanità della Calabria'
+- 7/11/2020 at 12:45 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 13:00 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 13:15 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 13:30 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
+- 7/11/2020 at 13:45 -> Stop ai mercatini di Natale, Sconsigliato figli dai nonni
