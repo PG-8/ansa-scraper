@@ -2045,3 +2045,11 @@
 - 7/11/2020 at 3:15 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
 - 7/11/2020 at 3:30 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
 - 7/11/2020 at 3:45 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 4:00 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 4:15 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 4:30 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 4:45 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 5:00 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 5:15 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 5:30 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
+- 7/11/2020 at 5:45 -> Biden a un passo dalla vittoria, prosegue il conteggio dei voti, 
