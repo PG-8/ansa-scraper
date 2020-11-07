@@ -2037,3 +2037,11 @@
 - 7/11/2020 at 1:15 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
 - 7/11/2020 at 1:30 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
 - 7/11/2020 at 1:45 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
+- 7/11/2020 at 2:00 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
+- 7/11/2020 at 2:15 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
+- 7/11/2020 at 2:30 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
+- 7/11/2020 at 2:45 -> Biden ha la vittoria in tasca , Trump: 'Pronti a vie legali'
+- 7/11/2020 at 3:00 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 3:15 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 3:30 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
+- 7/11/2020 at 3:45 -> Biden avanti in Pennsylvania ma per Corte suprema voti giunti dopo il 3/11 vanno contati a parte
