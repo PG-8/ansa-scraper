@@ -2093,3 +2093,11 @@
 - 7/11/2020 at 15:15 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
 - 7/11/2020 at 15:30 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
 - 7/11/2020 at 15:45 -> Riparte conta Pennsylvania Trump accusa: 'Voti illegali'
+- 7/11/2020 at 16:00 -> Trump accusa: 'Voti illegali', Commissione, non c'è prova
+- 7/11/2020 at 16:15 -> Viminale, possibile chiudere piazze anche prima delle 21
+- 7/11/2020 at 16:30 -> Viminale, possibile chiudere piazze anche prima delle 21
+- 7/11/2020 at 16:45 -> Viminale, possibile chiudere piazze anche prima delle 21
+- 7/11/2020 at 17:00 -> Viminale, possibile chiudere piazze anche prima delle 21
+- 7/11/2020 at 17:15 -> Viminale, possibile chiudere piazze anche prima delle 21
+- 7/11/2020 at 17:30 -> Quasi 40mila nuovi casi, , le vittime sono 425
+- 7/11/2020 at 17:45 -> I nuovi casi sono 39.811, , le vittime sono 425
