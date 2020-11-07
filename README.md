@@ -2069,3 +2069,11 @@
 - 7/11/2020 at 9:15 -> Biden: 'Il  Paese sia unito , e guarisca le sue ferite'
 - 7/11/2020 at 9:30 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
 - 7/11/2020 at 9:45 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 10:00 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 10:15 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 10:30 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 10:45 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 11:00 -> 'Rifiutando tre fasce per aree, si rischia lockdown generale'
+- 7/11/2020 at 11:15 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
+- 7/11/2020 at 11:30 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
+- 7/11/2020 at 11:45 -> Contagiati tutti i 70 ospiti , di una rsa di Foggia
