@@ -2205,3 +2205,11 @@
 - 8/11/2020 at 19:15 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
 - 8/11/2020 at 19:30 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
 - 8/11/2020 at 19:45 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 20:00 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 20:15 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 20:30 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 20:45 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 21:00 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 21:15 -> 'E' necessario un lockdown , totale in tutto il Paese'
+- 8/11/2020 at 21:30 -> 'Serve un lockdown totale , o in un mese 1omila morti'
+- 8/11/2020 at 21:45 -> 'Serve un lockdown totale , o in un mese 1omila morti'
