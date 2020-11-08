@@ -2197,3 +2197,11 @@
 - 8/11/2020 at 17:15 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
 - 8/11/2020 at 17:30 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
 - 8/11/2020 at 17:45 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 18:00 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 18:15 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 18:30 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 18:45 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 19:00 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 19:15 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 19:30 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
+- 8/11/2020 at 19:45 -> 'E' necessario un lockdown , totale in tutto il Paese'
