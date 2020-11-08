@@ -2189,3 +2189,11 @@
 - 8/11/2020 at 15:15 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
 - 8/11/2020 at 15:30 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
 - 8/11/2020 at 15:45 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 16:00 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 16:15 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 16:30 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 16:45 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 17:00 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 17:15 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 17:30 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 17:45 -> Numeri in calo in 24 ore,, 32.616 i contagi e 331 vittime
