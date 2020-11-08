@@ -2181,3 +2181,11 @@
 - 8/11/2020 at 13:15 -> La parola della settimana è misura (di Massimo Sebastiani)
 - 8/11/2020 at 13:30 -> La parola della settimana è misura (di Massimo Sebastiani)
 - 8/11/2020 at 13:45 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 8/11/2020 at 14:00 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 8/11/2020 at 14:15 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 8/11/2020 at 14:30 -> La parola della settimana è misura (di Massimo Sebastiani)
+- 8/11/2020 at 14:45 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 15:00 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 15:15 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 15:30 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
+- 8/11/2020 at 15:45 -> A Napoli ospedali in crisi, Alto Adige, tutta zona rossa
