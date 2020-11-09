@@ -2301,3 +2301,11 @@
 - 9/11/2020 at 19:15 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
 - 9/11/2020 at 19:30 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
 - 9/11/2020 at 19:45 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 20:00 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 20:15 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 20:30 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 20:45 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 21:00 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 21:15 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 21:30 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 21:45 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
