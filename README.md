@@ -2293,3 +2293,11 @@
 - 9/11/2020 at 17:15 -> 'Il vaccino efficace al 90%',, 300 milioni di dosi per l'Ue
 - 9/11/2020 at 17:30 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
 - 9/11/2020 at 17:45 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 18:00 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 18:15 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 18:30 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 18:45 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 19:00 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 19:15 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 19:30 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
+- 9/11/2020 at 19:45 -> Moda e sostenibilità, la pandemia accelera la rivoluzione?
