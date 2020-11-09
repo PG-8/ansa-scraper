@@ -2253,3 +2253,11 @@
 - 9/11/2020 at 7:15 -> 'Serve un lockdown totale , o in un mese 1omila morti'
 - 9/11/2020 at 7:30 -> 'Serve un lockdown totale , o in un mese 1omila morti'
 - 9/11/2020 at 7:45 -> 'Serve un lockdown totale , o in un mese 1omila morti'
+- 9/11/2020 at 8:00 -> 'Serve un lockdown totale , o in un mese 1omila morti'
+- 9/11/2020 at 8:15 -> 'Serve un lockdown totale , o in un mese 1omila morti'
+- 9/11/2020 at 8:30 -> 'Serve un lockdown totale , o in un mese 1omila morti'
+- 9/11/2020 at 8:45 -> Conto alla rovescia , per la cabina di regia
+- 9/11/2020 at 9:00 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 9:15 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 9:30 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 9:45 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
