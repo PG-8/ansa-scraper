@@ -2269,3 +2269,11 @@
 - 9/11/2020 at 11:15 -> Le Borse europee in festa ,  dopo la vittoria di Joe Biden
 - 9/11/2020 at 11:30 -> Le Borse europee in festa ,  dopo la vittoria di Joe Biden
 - 9/11/2020 at 11:45 -> I mercati festeggiano Biden , Borse in rally, Milano+2%
+- 9/11/2020 at 12:00 -> I mercati festeggiano Biden , Borse in rally, Milano+2%
+- 9/11/2020 at 12:15 -> I mercati festeggiano Biden , Borse in rally, Milano+2%
+- 9/11/2020 at 12:30 -> L'Alto Adige zona rossa , si avvia al lockdown duro
+- 9/11/2020 at 12:45 -> Verso il lockdown duro,, da oggi è zona rossa
+- 9/11/2020 at 13:00 -> Verso il lockdown duro,, da oggi è zona rossa
+- 9/11/2020 at 13:15 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
+- 9/11/2020 at 13:30 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
+- 9/11/2020 at 13:45 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
