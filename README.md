@@ -2277,3 +2277,11 @@
 - 9/11/2020 at 13:15 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
 - 9/11/2020 at 13:30 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
 - 9/11/2020 at 13:45 -> I ricoveri raddoppieranno, nei prossimi 7 giorni
+- 9/11/2020 at 14:00 -> 'Il vaccino efficace al 90%', Borse euforiche, Milano +5%
+- 9/11/2020 at 14:15 -> 'Il vaccino efficace al 90%', Borse euforiche, Milano +5%
+- 9/11/2020 at 14:30 -> 'Il vaccino efficace al 90%', Borse euforiche, Milano +5%
+- 9/11/2020 at 14:45 -> 'Il vaccino efficace al 90%', Borse euforiche, Milano +5%
+- 9/11/2020 at 15:00 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 15:15 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 15:30 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 15:45 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
