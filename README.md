@@ -2285,3 +2285,11 @@
 - 9/11/2020 at 15:15 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
 - 9/11/2020 at 15:30 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
 - 9/11/2020 at 15:45 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 16:00 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 16:15 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 16:30 -> 'Il vaccino efficace al 90%', Speranza: 'Serve prudenza'
+- 9/11/2020 at 16:45 -> 'Il vaccino efficace al 90%',, 300 milioni di dosi per l'Ue
+- 9/11/2020 at 17:00 -> 'Il vaccino efficace al 90%',, 300 milioni di dosi per l'Ue
+- 9/11/2020 at 17:15 -> 'Il vaccino efficace al 90%',, 300 milioni di dosi per l'Ue
+- 9/11/2020 at 17:30 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
+- 9/11/2020 at 17:45 -> In 24 ore 25mila nuovi casi, Giù i tamponi, 365 i morti
