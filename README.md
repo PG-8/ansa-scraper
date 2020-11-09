@@ -2261,3 +2261,11 @@
 - 9/11/2020 at 9:15 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
 - 9/11/2020 at 9:30 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
 - 9/11/2020 at 9:45 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 10:00 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 10:15 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 10:30 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 10:45 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 11:00 -> Spara alla moglie e ai figli, poi si uccide nella sua casa
+- 9/11/2020 at 11:15 -> Le Borse europee in festa ,  dopo la vittoria di Joe Biden
+- 9/11/2020 at 11:30 -> Le Borse europee in festa ,  dopo la vittoria di Joe Biden
+- 9/11/2020 at 11:45 -> I mercati festeggiano Biden , Borse in rally, Milano+2%
