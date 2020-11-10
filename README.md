@@ -2357,3 +2357,11 @@
 - 10/11/2020 at 9:15 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
 - 10/11/2020 at 9:30 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
 - 10/11/2020 at 9:45 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 10:00 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 10:15 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 10:30 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 10:45 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 11:00 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 11:15 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 11:30 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 11:45 -> Cala produzione industriale, A settembre tonfo del 5,6%
