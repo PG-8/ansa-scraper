@@ -2349,3 +2349,11 @@
 - 10/11/2020 at 7:15 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
 - 10/11/2020 at 7:30 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
 - 10/11/2020 at 7:45 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 8:00 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 8:15 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 8:30 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 8:45 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 9:00 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 9:15 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 9:30 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
+- 10/11/2020 at 9:45 -> <p>'L'epidemia sta peggiorando', Altre 5 Regioni 'arancioni'</p>
