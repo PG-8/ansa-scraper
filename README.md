@@ -2389,3 +2389,11 @@
 - 10/11/2020 at 17:15 -> L'Ue: 'Domani il via libera , al contratto con la Pfizer'
 - 10/11/2020 at 17:30 -> L'Ue: 'Domani il via libera , al contratto con la Pfizer'
 - 10/11/2020 at 17:45 -> Iss: serve stretta in 4 Regioni , 'Alto rischio di progressione'
+- 10/11/2020 at 18:00 -> Iss: serve stretta in 4 Regioni , 'Alto rischio di progressione'
+- 10/11/2020 at 18:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 18:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 18:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 19:00 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 19:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 19:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 10/11/2020 at 19:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
