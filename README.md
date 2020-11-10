@@ -2373,3 +2373,11 @@
 - 10/11/2020 at 13:15 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
 - 10/11/2020 at 13:30 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
 - 10/11/2020 at 13:45 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
+- 10/11/2020 at 14:00 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
+- 10/11/2020 at 14:15 -> 'Quattro Regioni a rischio serve anticipare le misure'
+- 10/11/2020 at 14:30 -> 'Quattro Regioni a rischio serve anticipare le misure'
+- 10/11/2020 at 14:45 -> 'Serve anticipare la stretta , in quattro Regioni a rischio'
+- 10/11/2020 at 15:00 -> 'Serve anticipare la stretta , in quattro Regioni a rischio'
+- 10/11/2020 at 15:15 -> 'Serve anticipare la stretta , in quattro Regioni a rischio'
+- 10/11/2020 at 15:30 -> 'Serve anticipare la stretta , in quattro Regioni a rischio'
+- 10/11/2020 at 15:45 -> 'Serve anticipare la stretta , in quattro Regioni a rischio'
