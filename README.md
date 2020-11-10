@@ -2365,3 +2365,11 @@
 - 10/11/2020 at 11:15 -> Cala produzione industriale, A settembre tonfo del 5,6%
 - 10/11/2020 at 11:30 -> Cala produzione industriale, A settembre tonfo del 5,6%
 - 10/11/2020 at 11:45 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 12:00 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 12:15 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 12:30 -> Cala produzione industriale, A settembre tonfo del 5,6%
+- 10/11/2020 at 12:45 -> Il Viminale ai prefetti:, 'Stretta su assembramenti'
+- 10/11/2020 at 13:00 -> Il Viminale ai prefetti:, 'Stretta su assembramenti'
+- 10/11/2020 at 13:15 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
+- 10/11/2020 at 13:30 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
+- 10/11/2020 at 13:45 -> Putin: 'Totale cessate fuoco tra azeri e armeni' in&nbsp;Nagorno
