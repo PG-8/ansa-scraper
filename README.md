@@ -2453,3 +2453,11 @@
 - 11/11/2020 at 9:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 11/11/2020 at 9:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 11/11/2020 at 9:45 -> 'Dobbiamo fare di tutto , per tenere aperte le scuole'
+- 11/11/2020 at 10:00 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 10:15 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 10:30 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 10:45 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 11:00 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 11:15 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 11:30 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 11:45 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
