@@ -2477,3 +2477,11 @@
 - 11/11/2020 at 15:15 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
 - 11/11/2020 at 15:30 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
 - 11/11/2020 at 15:45 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 16:00 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 16:15 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 16:30 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 16:45 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 17:00 -> I medici e gli infermieri, 'Ospedali vicini al collasso'
+- 11/11/2020 at 17:15 -> Superato il milione di casi , dall'inizio della pandemia
+- 11/11/2020 at 17:30 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 17:45 -> Superato il milione di casi, , cala il rapporto positivi/test
