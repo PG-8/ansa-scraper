@@ -2445,3 +2445,11 @@
 - 11/11/2020 at 7:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 11/11/2020 at 7:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 11/11/2020 at 7:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 8:00 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 8:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 8:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 8:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 9:00 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 9:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 9:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 9:45 -> 'Dobbiamo fare di tutto , per tenere aperte le scuole'
