@@ -2461,3 +2461,11 @@
 - 11/11/2020 at 11:15 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
 - 11/11/2020 at 11:30 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
 - 11/11/2020 at 11:45 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 12:00 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 12:15 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 12:30 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 12:45 -> Arrestati ex vertici di Aspi , Castellucci ai domiciliari
+- 11/11/2020 at 13:00 -> Castellucci ai domiciliari, 'Risparmi sulle barriere'
+- 11/11/2020 at 13:15 -> Castellucci ai domiciliari, 'Risparmi sulle barriere'
+- 11/11/2020 at 13:30 -> Castellucci ai domiciliari, 'Risparmi sulle barriere'
+- 11/11/2020 at 13:45 -> Castellucci ai domiciliari, 'Risparmi sulle barriere'
