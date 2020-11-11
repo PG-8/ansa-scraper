@@ -2485,3 +2485,11 @@
 - 11/11/2020 at 17:15 -> Superato il milione di casi , dall'inizio della pandemia
 - 11/11/2020 at 17:30 -> Superato il milione di casi, , cala il rapporto positivi/test
 - 11/11/2020 at 17:45 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 18:00 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 18:15 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 18:30 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 18:45 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 19:00 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 19:15 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 19:30 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 11/11/2020 at 19:45 -> Superato il milione di casi, , cala il rapporto positivi/test
