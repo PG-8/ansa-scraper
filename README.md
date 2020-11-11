@@ -2413,3 +2413,11 @@
 - 10/11/2020 at 23:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 10/11/2020 at 23:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
 - 10/11/2020 at 23:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 00:00 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 00:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 00:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 00:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 1:00 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 1:15 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 1:30 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
+- 11/11/2020 at 1:45 -> I nuovi casi sono 35mila, Salgono le vittime, sono 580
