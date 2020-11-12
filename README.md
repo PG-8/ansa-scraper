@@ -2581,3 +2581,11 @@
 - 12/11/2020 at 17:15 -> Le ordinanze 'anti-struscio', E' scontro sulla Campania
 - 12/11/2020 at 17:30 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
 - 12/11/2020 at 17:45 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 18:00 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 18:15 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 18:30 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 18:45 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 19:00 -> Arcuri: 'I primi vaccini , in Italia a fine gennaio'
+- 12/11/2020 at 19:15 -> Arcuri: 'I primi vaccini , in Italia a fine gennaio'
+- 12/11/2020 at 19:30 -> 'I vaccini in Italia a gennaio,  prima a sanitari ed anziani'
+- 12/11/2020 at 19:45 -> 'I vaccini in Italia a gennaio,  prima a sanitari ed anziani'
