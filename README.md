@@ -2541,3 +2541,11 @@
 - 12/11/2020 at 7:15 -> Superato il milione di casi, , cala il rapporto positivi/test
 - 12/11/2020 at 7:30 -> Superato il milione di casi, , cala il rapporto positivi/test
 - 12/11/2020 at 7:45 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 8:00 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 8:15 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 8:30 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 8:45 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 9:00 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 9:15 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 9:30 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 9:45 -> Superato il milione di casi, , cala il rapporto positivi/test
