@@ -2557,3 +2557,11 @@
 - 12/11/2020 at 11:15 -> Oggi le decisioni del governo , sulle zone rosse-arancioni
 - 12/11/2020 at 11:30 -> A rischio chiusura 460.000, piccole e medie imprese
 - 12/11/2020 at 11:45 -> A rischio chiusura 460.000, piccole e medie imprese
+- 12/11/2020 at 12:00 -> A rischio chiusura 460.000, piccole e medie imprese
+- 12/11/2020 at 12:15 -> A rischio chiusura 460.000, piccole e medie imprese
+- 12/11/2020 at 12:30 -> Contagi in carcere a +600%, Gimbe: +70% dei decessi
+- 12/11/2020 at 12:45 -> Contagi in carcere a +600%, Gimbe: +70% dei decessi
+- 12/11/2020 at 13:00 -> Superata la soglia dell'1% della popolazione infetta
+- 12/11/2020 at 13:15 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
+- 12/11/2020 at 13:30 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
+- 12/11/2020 at 13:45 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
