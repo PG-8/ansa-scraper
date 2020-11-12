@@ -2549,3 +2549,11 @@
 - 12/11/2020 at 9:15 -> Superato il milione di casi, , cala il rapporto positivi/test
 - 12/11/2020 at 9:30 -> Superato il milione di casi, , cala il rapporto positivi/test
 - 12/11/2020 at 9:45 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 10:00 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 10:15 -> Superato il milione di casi, , cala il rapporto positivi/test
+- 12/11/2020 at 10:30 -> Oggi le decisioni del governo , sulle zone rosse-arancioni
+- 12/11/2020 at 10:45 -> Oggi le decisioni del governo , sulle zone rosse-arancioni
+- 12/11/2020 at 11:00 -> Oggi le decisioni del governo , sulle zone rosse-arancioni
+- 12/11/2020 at 11:15 -> Oggi le decisioni del governo , sulle zone rosse-arancioni
+- 12/11/2020 at 11:30 -> A rischio chiusura 460.000, piccole e medie imprese
+- 12/11/2020 at 11:45 -> A rischio chiusura 460.000, piccole e medie imprese
