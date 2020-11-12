@@ -2565,3 +2565,19 @@
 - 12/11/2020 at 13:15 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
 - 12/11/2020 at 13:30 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
 - 12/11/2020 at 13:45 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
+- 12/11/2020 at 14:00 -> Boom di casi tra i sanitari, Infetto 1% della popolazione
+- 12/11/2020 at 14:15 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 14:30 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 14:45 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 15:00 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 15:15 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 15:30 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 15:45 -> 'Natale con i parenti stretti', Campania,'domani si decide'
+- 12/11/2020 at 16:00 -> 'Vietato lo struscio in centro', Ecco le ordinanze anti-Covid
+- 12/11/2020 at 16:15 -> 'Vietato lo struscio in centro', Ecco le ordinanze anti-Covid
+- 12/11/2020 at 16:30 -> 'Vietato lo struscio in centro', Ecco le ordinanze anti-Covid
+- 12/11/2020 at 16:45 -> Le ordinanze 'anti-struscio', E' scontro sulla Campania
+- 12/11/2020 at 17:00 -> Le ordinanze 'anti-struscio', E' scontro sulla Campania
+- 12/11/2020 at 17:15 -> Le ordinanze 'anti-struscio', E' scontro sulla Campania
+- 12/11/2020 at 17:30 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
+- 12/11/2020 at 17:45 -> Quasi 38mila nuovi contagi, Record di tamponi, 234mila
