@@ -2683,3 +2683,11 @@
 - 13/11/2020 at 19:15 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
 - 13/11/2020 at 19:30 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
 - 13/11/2020 at 19:45 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 20:00 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 20:15 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 20:30 -> Contagi e tamponi record, 'Rt cala a 1,4, ma non basta'
+- 13/11/2020 at 20:45 -> Contagi e tamponi record, 'Rt cala a 1,4, ma non basta'
+- 13/11/2020 at 21:00 -> Contagi e tamponi record, 'Rt cala a 1,4, ma non basta'
+- 13/11/2020 at 21:15 -> Contagi e tamponi record, 'Rt cala a 1,4, ma non basta'
+- 13/11/2020 at 21:30 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
+- 13/11/2020 at 21:45 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
