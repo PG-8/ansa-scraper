@@ -2667,3 +2667,11 @@
 - 13/11/2020 at 15:15 -> 'A Napoli persone disperate, mancano bombole ossigeno'
 - 13/11/2020 at 15:30 -> 'La gente è in difficoltà, occorrono i Buoni spesa'
 - 13/11/2020 at 15:45 -> 'La gente è in difficoltà, occorrono i Buoni spesa'
+- 13/11/2020 at 16:00 -> 'La gente è in difficoltà, occorrono i Buoni spesa'
+- 13/11/2020 at 16:15 -> La Campania e la Toscana  verso la 'zona rossa'
+- 13/11/2020 at 16:30 -> La Campania e la Toscana  verso la 'zona rossa'
+- 13/11/2020 at 16:45 -> La Campania e la Toscana  verso la 'zona rossa'
+- 13/11/2020 at 17:00 -> La Campania e la Toscana  sono diventate 'zona rossa'
+- 13/11/2020 at 17:15 -> La Campania e la Toscana sono diventate  'zona rossa'
+- 13/11/2020 at 17:30 -> La Campania e la Toscana sono diventate  'zona rossa'
+- 13/11/2020 at 17:45 -> Nuovo record, 40.902 casi, 254mila test, le vittime 550
