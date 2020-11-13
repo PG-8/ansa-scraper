@@ -2643,3 +2643,11 @@
 - 13/11/2020 at 9:15 -> Oggi si decide sulle nuove , regioni arancioni e rosse
 - 13/11/2020 at 9:30 -> Oggi si decide sulle nuove , regioni arancioni e rosse
 - 13/11/2020 at 9:45 -> Barcone con 70 migranti , a sud di Lampedusa
+- 13/11/2020 at 10:00 -> Barcone con 70 migranti , a sud di Lampedusa
+- 13/11/2020 at 10:15 -> Barcone con 70 migranti , a sud di Lampedusa
+- 13/11/2020 at 10:30 -> Barcone con 70 migranti , a sud di Lampedusa
+- 13/11/2020 at 10:45 -> Barcone con 70 migranti , a sud di Lampedusa
+- 13/11/2020 at 11:00 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
+- 13/11/2020 at 11:15 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
+- 13/11/2020 at 11:30 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
+- 13/11/2020 at 11:45 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
