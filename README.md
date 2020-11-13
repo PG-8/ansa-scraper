@@ -2675,3 +2675,11 @@
 - 13/11/2020 at 17:15 -> La Campania e la Toscana sono diventate  'zona rossa'
 - 13/11/2020 at 17:30 -> La Campania e la Toscana sono diventate  'zona rossa'
 - 13/11/2020 at 17:45 -> Nuovo record, 40.902 casi, 254mila test, le vittime 550
+- 13/11/2020 at 18:00 -> Nuovo record, 40.902 casi, 254mila test, le vittime 550
+- 13/11/2020 at 18:15 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 18:30 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 18:45 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 19:00 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 19:15 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 19:30 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
+- 13/11/2020 at 19:45 -> Contagi e tamponi record, Rt cala a 1,4, primo segnale
