@@ -2635,3 +2635,11 @@
 - 13/11/2020 at 7:15 -> Quasi 38mila nuovi contagi, Arcuri: 'Il vaccino a gennaio'
 - 13/11/2020 at 7:30 -> Quasi 38mila nuovi contagi, Arcuri: 'Il vaccino a gennaio'
 - 13/11/2020 at 7:45 -> Quasi 38mila nuovi contagi, Arcuri: 'Il vaccino a gennaio'
+- 13/11/2020 at 8:00 -> Quasi 38mila nuovi contagi, Arcuri: 'Il vaccino a gennaio'
+- 13/11/2020 at 8:15 -> Quasi 38mila nuovi contagi, Arcuri: 'Il vaccino a gennaio'
+- 13/11/2020 at 8:30 -> Oggi si decide sulle nuove , regioni arancioni e rosse
+- 13/11/2020 at 8:45 -> Oggi si decide sulle nuove , regioni arancioni e rosse
+- 13/11/2020 at 9:00 -> Oggi si decide sulle nuove , regioni arancioni e rosse
+- 13/11/2020 at 9:15 -> Oggi si decide sulle nuove , regioni arancioni e rosse
+- 13/11/2020 at 9:30 -> Oggi si decide sulle nuove , regioni arancioni e rosse
+- 13/11/2020 at 9:45 -> Barcone con 70 migranti , a sud di Lampedusa
