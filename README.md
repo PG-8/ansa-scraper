@@ -2651,3 +2651,11 @@
 - 13/11/2020 at 11:15 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
 - 13/11/2020 at 11:30 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
 - 13/11/2020 at 11:45 -> Intesa SanPaolo, Barbero racconta Giovanna d'Arco
+- 13/11/2020 at 12:00 -> Conte: spero che l'Rt cali, ci incoraggerebbe a proseguire
+- 13/11/2020 at 12:15 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 12:30 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 12:45 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 13:00 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 13:15 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 13:30 -> Conte: 'Spero che l'Rt cali, , ci spronerebbe a proseguire'
+- 13/11/2020 at 13:45 -> 'Natale è momento spirituale, non viene bene farlo in tanti'
