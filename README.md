@@ -2739,3 +2739,11 @@
 - 14/11/2020 at 9:15 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
 - 14/11/2020 at 9:30 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
 - 14/11/2020 at 9:45 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 10:00 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 10:15 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 10:30 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 10:45 -> 'Non può scrivere le regole, chi per primo non le segue'
+- 14/11/2020 at 11:00 -> 'Non può scrivere le regole, chi per primo non le segue'
+- 14/11/2020 at 11:15 -> 'Non può scrivere le regole, chi per primo non le segue'
+- 14/11/2020 at 11:30 -> 'Non può scrivere le regole, chi per primo non le segue'
+- 14/11/2020 at 11:45 -> Covid, nasce il movimento 'Schools for future' contro la didattica a distanza
