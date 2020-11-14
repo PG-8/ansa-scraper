@@ -2731,3 +2731,11 @@
 - 14/11/2020 at 7:15 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
 - 14/11/2020 at 7:30 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
 - 14/11/2020 at 7:45 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
+- 14/11/2020 at 8:00 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
+- 14/11/2020 at 8:15 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
+- 14/11/2020 at 8:30 -> Contagi e tamponi record, 'Rischio elevato nel Paese'
+- 14/11/2020 at 8:45 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 9:00 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 9:15 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 9:30 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
+- 14/11/2020 at 9:45 -> Spesa, scuola, uscite e sport, Le tre zone e le regole locali
