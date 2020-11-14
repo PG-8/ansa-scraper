@@ -2771,3 +2771,11 @@
 - 14/11/2020 at 17:15 -> Favola Sinner, a Sofia vince il primo torneo Atp
 - 14/11/2020 at 17:30 -> Rallenta la curva, 37.255 casi, Coprifuoco a Natale?si vedrà
 - 14/11/2020 at 17:45 -> Rallenta la curva, 37.255 casi, Aumentano i ricoveri,+484
+- 14/11/2020 at 18:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 18:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 18:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 18:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 19:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 19:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 19:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 19:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
