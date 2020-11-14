@@ -2755,3 +2755,19 @@
 - 14/11/2020 at 13:15 -> 'Due settimane per capire, Pronta bozza piano vaccino'
 - 14/11/2020 at 13:30 -> 'Due settimane per capire, Pronta bozza piano vaccino'
 - 14/11/2020 at 13:45 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 14:00 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 14:15 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 14:30 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 14:45 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 15:00 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 15:15 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 15:30 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 15:45 -> 'Due settimane per capire, Pronta bozza piano vaccino'
+- 14/11/2020 at 16:00 -> A Napoli il è centro gremito , bar pieni per l''ultimo' caffè
+- 14/11/2020 at 16:15 -> A Napoli il centro è gremito , bar pieni per l''ultimo' caffè
+- 14/11/2020 at 16:30 -> A Napoli il centro è gremito , bar pieni per 'l'ultimo' caffé
+- 14/11/2020 at 16:45 -> Favola Sinner, a Sofia vince il primo torneo Atp
+- 14/11/2020 at 17:00 -> Favola Sinner, a Sofia vince il primo torneo Atp
+- 14/11/2020 at 17:15 -> Favola Sinner, a Sofia vince il primo torneo Atp
+- 14/11/2020 at 17:30 -> Rallenta la curva, 37.255 casi, Coprifuoco a Natale?si vedrà
+- 14/11/2020 at 17:45 -> Rallenta la curva, 37.255 casi, Aumentano i ricoveri,+484
