@@ -2779,3 +2779,11 @@
 - 14/11/2020 at 19:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 14/11/2020 at 19:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 14/11/2020 at 19:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 20:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 20:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 20:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 20:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 21:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 21:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 21:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 14/11/2020 at 21:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
