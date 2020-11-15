@@ -2867,3 +2867,11 @@
 - 15/11/2020 at 17:15 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
 - 15/11/2020 at 17:30 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
 - 15/11/2020 at 17:45 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 18:00 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 18:15 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 18:30 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 18:45 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 19:00 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 19:15 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 19:30 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 19:45 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
