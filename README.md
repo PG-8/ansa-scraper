@@ -2851,3 +2851,11 @@
 - 15/11/2020 at 13:15 -> Hamilton vince il mondiale settimo titolo come Schumi
 - 15/11/2020 at 13:30 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
 - 15/11/2020 at 13:45 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
+- 15/11/2020 at 14:00 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
+- 15/11/2020 at 14:15 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
+- 15/11/2020 at 14:30 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 14:45 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 15:00 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 15:15 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 15:30 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 15:45 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
