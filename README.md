@@ -2811,3 +2811,11 @@
 - 15/11/2020 at 3:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 15/11/2020 at 3:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 15/11/2020 at 3:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 4:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 4:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 4:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 4:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 5:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 5:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 5:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 5:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
