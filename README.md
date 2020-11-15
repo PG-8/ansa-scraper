@@ -2859,3 +2859,11 @@
 - 15/11/2020 at 15:15 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
 - 15/11/2020 at 15:30 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
 - 15/11/2020 at 15:45 -> Il Covid in Italia da tempo, 'C'era già da settembre 2019'
+- 15/11/2020 at 16:00 -> 'Non concedo la vittoria,, sono state elezioni truccate'
+- 15/11/2020 at 16:15 -> 'Non concedo la vittoria,, sono state elezioni truccate'
+- 15/11/2020 at 16:30 -> Conte: 'Se serve a migliorare cambiare idea è giusto'
+- 15/11/2020 at 16:45 -> Conte: 'Se serve a migliorare cambiare idea è giusto'
+- 15/11/2020 at 17:00 -> Conte: 'Giusto cambiare idea se serve a migliorare'
+- 15/11/2020 at 17:15 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 17:30 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
+- 15/11/2020 at 17:45 -> Oggi 33.979 casi, 546 morti Raggiunte le 45mila vittime
