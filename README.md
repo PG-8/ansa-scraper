@@ -2843,3 +2843,11 @@
 - 15/11/2020 at 11:15 -> Natale in pochi e a casa, , il coprifuoco deciso dai dati
 - 15/11/2020 at 11:30 -> Natale in pochi e a casa, , il coprifuoco deciso dai dati
 - 15/11/2020 at 11:45 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 12:00 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 12:15 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 12:30 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 12:45 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 13:00 -> La virologa del team di Fauci 'Due vaccini già a dicembre'
+- 15/11/2020 at 13:15 -> Hamilton vince il mondiale settimo titolo come Schumi
+- 15/11/2020 at 13:30 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
+- 15/11/2020 at 13:45 -> Hamilton vince il mondiale 'Ben oltre i miei sogni'
