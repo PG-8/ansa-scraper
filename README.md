@@ -2827,3 +2827,11 @@
 - 15/11/2020 at 7:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 15/11/2020 at 7:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
 - 15/11/2020 at 7:45 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 8:00 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 8:15 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 8:30 -> Rallenta la curva, 37.255 casi, Oltre 500 ricoveri,544 morti
+- 15/11/2020 at 8:45 -> Rallenta la curva dei contagi, Obiettivo: indice Rt sotto 1
+- 15/11/2020 at 9:00 -> Rallenta la curva dei contagi, Obiettivo: indice Rt sotto 1
+- 15/11/2020 at 9:15 -> Natale in pochi e a casa, , il coprifuoco deciso dai dati
+- 15/11/2020 at 9:30 -> Natale in pochi e a casa, , il coprifuoco deciso dai dati
+- 15/11/2020 at 9:45 -> Natale in pochi e a casa, , il coprifuoco deciso dai dati
