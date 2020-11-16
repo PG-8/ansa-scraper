@@ -2963,3 +2963,11 @@
 - 16/11/2020 at 17:15 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
 - 16/11/2020 at 17:30 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
 - 16/11/2020 at 17:45 -> Oltre 27mila casi, 504 morti, Dato positivi-test sfiora 18%
+- 16/11/2020 at 18:00 -> Oltre 27mila casi, 504 morti, Dato positivi-test sfiora 18%
+- 16/11/2020 at 18:15 -> Il Consiglio dei ministri, ha approvato la manovra
+- 16/11/2020 at 18:30 -> Il Consiglio dei ministri, ha approvato la manovra
+- 16/11/2020 at 18:45 -> Via libera alla manovra, Da sisma a medici, le novità
+- 16/11/2020 at 19:00 -> Via libera alla manovra, Da sisma a medici, le novità
+- 16/11/2020 at 19:15 -> Via libera alla manovra, Da sisma a medici, le novità
+- 16/11/2020 at 19:30 -> Via libera alla manovra, Da sisma a medici, le novità
+- 16/11/2020 at 19:45 -> Via libera alla manovra, In corso vertice centrodestra
