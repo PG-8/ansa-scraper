@@ -2923,3 +2923,11 @@
 - 16/11/2020 at 7:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
 - 16/11/2020 at 7:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
 - 16/11/2020 at 7:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 8:00 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 8:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 8:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 8:45 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 9:00 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 9:15 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 9:30 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 9:45 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
