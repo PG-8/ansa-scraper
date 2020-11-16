@@ -2955,3 +2955,11 @@
 - 16/11/2020 at 15:15 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
 - 16/11/2020 at 15:30 -> Zuccatelli lascia l'incarico Renzi: 'Conte scelga Strada'
 - 16/11/2020 at 15:45 -> Zuccatelli lascia l'incarico Renzi: 'Conte scelga Strada'
+- 16/11/2020 at 16:00 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 16:15 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 16:30 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 16:45 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 17:00 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 17:15 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 17:30 -> Zuccatelli lascia l'incarico, Verso la nomina di Gaudio
+- 16/11/2020 at 17:45 -> Oltre 27mila casi, 504 morti, Dato positivi-test sfiora 18%
