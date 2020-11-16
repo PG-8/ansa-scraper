@@ -2947,3 +2947,11 @@
 - 16/11/2020 at 13:15 -> Cominciato l'iter per l'ok,  del vaccino Moderna
 - 16/11/2020 at 13:30 -> Cominciato l'iter per l'ok,  del vaccino Moderna
 - 16/11/2020 at 13:45 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 14:00 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 14:15 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 14:30 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 14:45 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 15:00 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 15:15 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
+- 16/11/2020 at 15:30 -> Zuccatelli lascia l'incarico Renzi: 'Conte scelga Strada'
+- 16/11/2020 at 15:45 -> Zuccatelli lascia l'incarico Renzi: 'Conte scelga Strada'
