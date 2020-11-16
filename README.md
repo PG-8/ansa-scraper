@@ -2915,3 +2915,11 @@
 - 16/11/2020 at 5:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
 - 16/11/2020 at 5:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
 - 16/11/2020 at 5:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 6:00 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 6:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 6:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 6:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 7:00 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 7:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 7:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 7:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
