@@ -2939,3 +2939,11 @@
 - 16/11/2020 at 11:15 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
 - 16/11/2020 at 11:30 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
 - 16/11/2020 at 11:45 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 12:00 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 12:15 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 12:30 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 12:45 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 13:00 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
+- 16/11/2020 at 13:15 -> Cominciato l'iter per l'ok,  del vaccino Moderna
+- 16/11/2020 at 13:30 -> Cominciato l'iter per l'ok,  del vaccino Moderna
+- 16/11/2020 at 13:45 -> Al via iter per l'ok al vaccino , Moderna: 'Efficace al 94,5%'
