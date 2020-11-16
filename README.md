@@ -2891,3 +2891,11 @@
 - 15/11/2020 at 23:15 -> L'Abruzzo verso il lockdown, in vigore le nuove zone rosse
 - 15/11/2020 at 23:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
 - 15/11/2020 at 23:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 00:00 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 00:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 00:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 00:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 1:00 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 1:15 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 1:30 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
+- 16/11/2020 at 1:45 -> L'Abruzzo verso il lockdown , Scontro De Luca-Governo
