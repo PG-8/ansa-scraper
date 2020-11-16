@@ -2931,3 +2931,11 @@
 - 16/11/2020 at 9:15 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
 - 16/11/2020 at 9:30 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
 - 16/11/2020 at 9:45 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 10:00 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 10:15 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 10:30 -> Speranza: 'Resto prudente, , decisivi i prossimi 10 giorni'
+- 16/11/2020 at 10:45 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
+- 16/11/2020 at 11:00 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
+- 16/11/2020 at 11:15 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
+- 16/11/2020 at 11:30 -> Anche il vaccino Janssen , in fase 3 di sperimentazione
+- 16/11/2020 at 11:45 -> Arcuri: 'Non c'è pressione sulle terapie intensive'
