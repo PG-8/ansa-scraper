@@ -2971,3 +2971,11 @@
 - 16/11/2020 at 19:15 -> Via libera alla manovra, Da sisma a medici, le novità
 - 16/11/2020 at 19:30 -> Via libera alla manovra, Da sisma a medici, le novità
 - 16/11/2020 at 19:45 -> Via libera alla manovra, In corso vertice centrodestra
+- 16/11/2020 at 20:00 -> Via libera alla manovra, In corso vertice centrodestra
+- 16/11/2020 at 20:15 -> Via libera alla manovra, Ipotesi nuovo scostamento
+- 16/11/2020 at 20:30 -> Via libera alla manovra, Ipotesi nuovo scostamento
+- 16/11/2020 at 20:45 -> Via libera alla manovra, Ipotesi nuovo scostamento
+- 16/11/2020 at 21:00 -> Via libera alla manovra, Ipotesi nuovo scostamento
+- 16/11/2020 at 21:15 -> Gino Strada: 'Il tandem , con Gaudio non esiste'
+- 16/11/2020 at 21:30 -> Gino Strada: 'Il tandem , con Gaudio non esiste'
+- 16/11/2020 at 21:45 -> Gino Strada: 'Il tandem , con Gaudio non esiste'
