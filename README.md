@@ -3043,3 +3043,11 @@
 - 17/11/2020 at 13:15 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
 - 17/11/2020 at 13:30 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
 - 17/11/2020 at 13:45 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 14:00 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 14:15 -> Veneto, 100 morti in 24 ore, Ma segno meno sui ricoveri
+- 17/11/2020 at 14:30 -> Veneto, 100 morti in 24 ore, Ma segno meno sui ricoveri
+- 17/11/2020 at 14:45 -> Veneto, 100 morti in 24 ore, Ma segno meno sui ricoveri
+- 17/11/2020 at 15:00 -> Calabria, Gaudio si dimette, 'I motivi sono personali'
+- 17/11/2020 at 15:15 -> Calabria, Gaudio si dimette, 'I motivi sono personali'
+- 17/11/2020 at 15:30 -> Calabria, Gaudio si dimette, 'I motivi sono personali'
+- 17/11/2020 at 15:45 -> Gaudio rinuncia all'incarico, 'I motivi sono personali'
