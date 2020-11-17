@@ -3075,3 +3075,11 @@
 - 17/11/2020 at 21:15 -> 'Il virus un nemico insidioso , Guai a dividersi adesso'
 - 17/11/2020 at 21:30 -> 'Il virus un nemico insidioso , Guai a dividersi adesso'
 - 17/11/2020 at 21:45 -> 'Il virus un nemico insidioso , Guai a dividersi adesso'
+- 17/11/2020 at 22:00 -> 'Il virus un nemico insidioso , Guai a dividersi adesso'
+- 17/11/2020 at 22:15 -> Scontro Regioni-Governo, Speranza per i 21 parametri
+- 17/11/2020 at 22:30 -> Scontro Regioni-Governo, Speranza per i 21 parametri
+- 17/11/2020 at 22:45 -> Scontro Regioni-Governo, Speranza per i 21 parametri
+- 17/11/2020 at 23:00 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 17/11/2020 at 23:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 17/11/2020 at 23:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 17/11/2020 at 23:45 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
