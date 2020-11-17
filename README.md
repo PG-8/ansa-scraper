@@ -3019,3 +3019,19 @@
 - 17/11/2020 at 7:15 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
 - 17/11/2020 at 7:30 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
 - 17/11/2020 at 7:45 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
+- 17/11/2020 at 8:00 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
+- 17/11/2020 at 8:15 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
+- 17/11/2020 at 8:30 -> L'annuncio di Moderna , 'Vaccino efficace al 94.5%'
+- 17/11/2020 at 8:45 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 9:00 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 9:15 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 9:30 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 9:45 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 10:00 -> Covid, 232 ispezioni del Nas Irregolarità in 37 Rsa
+- 17/11/2020 at 10:15 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 10:30 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 10:45 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 11:00 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 11:15 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 11:30 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 11:45 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
