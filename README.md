@@ -3035,3 +3035,11 @@
 - 17/11/2020 at 11:15 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
 - 17/11/2020 at 11:30 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
 - 17/11/2020 at 11:45 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 12:00 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 12:15 -> Nuovo allarme sui consumi Crollano dell'8% a ottobre
+- 17/11/2020 at 12:30 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 12:45 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 13:00 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 13:15 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 13:30 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
+- 17/11/2020 at 13:45 -> I rianimatori ad Arcuri , 'Solo il ventilatore non basta'
