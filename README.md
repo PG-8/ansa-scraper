@@ -3091,3 +3091,11 @@
 - 18/11/2020 at 1:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
 - 18/11/2020 at 1:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
 - 18/11/2020 at 1:45 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 2:00 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 2:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 2:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 2:45 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 3:00 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 3:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 3:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 3:45 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
