@@ -3155,3 +3155,11 @@
 - 18/11/2020 at 17:15 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
 - 18/11/2020 at 17:30 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
 - 18/11/2020 at 17:45 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
+- 18/11/2020 at 18:00 -> Oltre 34mila i nuovi casi , e 753 le vittime in 24 ore
+- 18/11/2020 at 18:15 -> Oltre 34mila i nuovi casi, e 753 morti, positivi al 14,6%
+- 18/11/2020 at 18:30 -> Oltre 34mila casi, 753 morti Giù positivi-test, al 14,6%
+- 18/11/2020 at 18:45 -> Oltre 34mila casi, 753 morti Giù positivi-test, al 14,6%
+- 18/11/2020 at 19:00 -> Oltre 34mila casi, 753 morti Giù positivi-test, al 14,6%
+- 18/11/2020 at 19:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 18/11/2020 at 19:30 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 18/11/2020 at 19:45 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
