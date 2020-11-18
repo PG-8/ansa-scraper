@@ -3123,3 +3123,11 @@
 - 18/11/2020 at 9:15 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
 - 18/11/2020 at 9:30 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
 - 18/11/2020 at 9:45 -> Azzolina: 'No altre chiusure  lavoro per il rientro di tutti'
+- 18/11/2020 at 10:00 -> Azzolina: 'No altre chiusure  lavoro per il rientro di tutti'
+- 18/11/2020 at 10:15 -> Azzolina: 'No a nuove strette lavoro per il rientro di tutti'
+- 18/11/2020 at 10:30 -> Azzolina: 'No a nuove strette lavoro per il rientro di tutti'
+- 18/11/2020 at 10:45 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 11:00 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 11:15 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 11:30 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 11:45 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
