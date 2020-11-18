@@ -3139,3 +3139,11 @@
 - 18/11/2020 at 13:15 -> 'Interventi mirati e a tempo per contenere il contagio'
 - 18/11/2020 at 13:30 -> 'Interventi mirati e a tempo per contenere il contagio'
 - 18/11/2020 at 13:45 -> 'Interventi mirati e a tempo per contenere il contagio'
+- 18/11/2020 at 14:00 -> Conte: 'C'è un disagio diffuso, lavoriamo a nuove misure'
+- 18/11/2020 at 14:15 -> Conte: 'C'è un disagio diffuso, lavoriamo a nuove misure'
+- 18/11/2020 at 14:30 -> Conte: 'C'è un disagio diffuso, lavoriamo a nuove misure'
+- 18/11/2020 at 14:45 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 15:00 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 15:15 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 15:30 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 15:45 -> Allarme terapie intensive, In Svizzera finiti i posti letto
