@@ -3115,3 +3115,11 @@
 - 18/11/2020 at 7:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
 - 18/11/2020 at 7:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
 - 18/11/2020 at 7:45 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 8:00 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 8:15 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 8:30 -> Calabria, arriva Gino Strada, Accordo Emergency-P. Civile
+- 18/11/2020 at 8:45 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
+- 18/11/2020 at 9:00 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
+- 18/11/2020 at 9:15 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
+- 18/11/2020 at 9:30 -> Manovra attesa alle Camere, Governo valuta nuovo deficit
+- 18/11/2020 at 9:45 -> Azzolina: 'No altre chiusure  lavoro per il rientro di tutti'
