@@ -3131,3 +3131,11 @@
 - 18/11/2020 at 11:15 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
 - 18/11/2020 at 11:30 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
 - 18/11/2020 at 11:45 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 12:00 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 12:15 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 12:30 -> Il governatore Cirio avverte: 'No al Natale come l'estate'
+- 18/11/2020 at 12:45 -> Arbitro lo rimprovera, il capitano argentino mostra il suo orgoglio
+- 18/11/2020 at 13:00 -> Arbitro lo rimprovera, il capitano argentino mostra il suo orgoglio
+- 18/11/2020 at 13:15 -> 'Interventi mirati e a tempo per contenere il contagio'
+- 18/11/2020 at 13:30 -> 'Interventi mirati e a tempo per contenere il contagio'
+- 18/11/2020 at 13:45 -> 'Interventi mirati e a tempo per contenere il contagio'
