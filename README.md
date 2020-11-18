@@ -3147,3 +3147,11 @@
 - 18/11/2020 at 15:15 -> Allarme terapie intensive, In Svizzera finiti i posti letto
 - 18/11/2020 at 15:30 -> Allarme terapie intensive, In Svizzera finiti i posti letto
 - 18/11/2020 at 15:45 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 16:00 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 16:15 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 16:30 -> Allarme terapie intensive, In Svizzera finiti i posti letto
+- 18/11/2020 at 16:45 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
+- 18/11/2020 at 17:00 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
+- 18/11/2020 at 17:15 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
+- 18/11/2020 at 17:30 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
+- 18/11/2020 at 17:45 -> Piene le terapie intensive,, oltre la soglia in 17 regioni
