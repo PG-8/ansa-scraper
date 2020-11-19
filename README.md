@@ -3219,3 +3219,11 @@
 - 19/11/2020 at 9:15 -> Arrestato il presidente , del Consiglio regionale
 - 19/11/2020 at 9:30 -> Arrestato il presidente , del Consiglio regionale
 - 19/11/2020 at 9:45 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 10:00 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 10:15 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 10:30 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 10:45 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 11:00 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
+- 19/11/2020 at 11:15 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
+- 19/11/2020 at 11:30 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
+- 19/11/2020 at 11:45 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
