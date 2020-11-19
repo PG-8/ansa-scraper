@@ -3227,3 +3227,11 @@
 - 19/11/2020 at 11:15 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
 - 19/11/2020 at 11:30 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
 - 19/11/2020 at 11:45 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
+- 19/11/2020 at 12:00 -> Gualtieri: il veto è improprio, a tutta l'Ue serve  un accordo
+- 19/11/2020 at 12:15 -> Gimbe: 'Rallentano i casi, +42% di vittime in 7 giorni'
+- 19/11/2020 at 12:30 -> Gimbe: 'Rallentano i casi,, +42% di vittime in 7 giorni'
+- 19/11/2020 at 12:45 -> Gimbe: 'Rallentano i casi,, +42% di vittime in 7 giorni'
+- 19/11/2020 at 13:00 -> Gimbe: 'Rallentano i casi,, +42% di vittime in 7 giorni'
+- 19/11/2020 at 13:15 -> Gimbe: 'Rallentano i casi,, +42% di vittime in 7 giorni'
+- 19/11/2020 at 13:30 -> Gimbe: 'Rallentano i casi,, +42% di vittime in 7 giorni'
+- 19/11/2020 at 13:45 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
