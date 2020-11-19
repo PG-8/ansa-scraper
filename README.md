@@ -3211,3 +3211,11 @@
 - 19/11/2020 at 7:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
 - 19/11/2020 at 7:30 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
 - 19/11/2020 at 7:45 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 8:00 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 8:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 8:30 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 8:45 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 9:00 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 9:15 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 9:30 -> Arrestato il presidente , del Consiglio regionale
+- 19/11/2020 at 9:45 -> Arrestato il presidente , del Consiglio regionale
