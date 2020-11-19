@@ -3259,3 +3259,11 @@
 - 19/11/2020 at 19:15 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
 - 19/11/2020 at 19:30 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
 - 19/11/2020 at 19:45 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 20:00 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 20:15 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 20:30 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 20:45 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 21:00 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 21:15 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 21:30 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 19/11/2020 at 21:45 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
