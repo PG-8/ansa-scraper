@@ -3251,3 +3251,11 @@
 - 19/11/2020 at 17:15 -> Possibili altre regioni rosse, Conte:'Sia un Natale sobrio'
 - 19/11/2020 at 17:30 -> Possibili altre regioni rosse, Conte: 'Sia un Natale sobrio'
 - 19/11/2020 at 17:45 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 18:00 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 18:15 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 18:30 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 18:45 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 19:00 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 19:15 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 19:30 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
+- 19/11/2020 at 19:45 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
