@@ -3243,3 +3243,11 @@
 - 19/11/2020 at 15:15 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
 - 19/11/2020 at 15:30 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
 - 19/11/2020 at 15:45 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
+- 19/11/2020 at 16:00 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
+- 19/11/2020 at 16:15 -> Conte: 'Sia un Natale sobrio oppure la curva si impenna'
+- 19/11/2020 at 16:30 -> Possibili altre regioni rosse, Conte:'Sia un Natale sobrio'
+- 19/11/2020 at 16:45 -> Possibili altre regioni rosse, Conte:'Sia un Natale sobrio'
+- 19/11/2020 at 17:00 -> Possibili altre regioni rosse, Conte:'Sia un Natale sobrio'
+- 19/11/2020 at 17:15 -> Possibili altre regioni rosse, Conte:'Sia un Natale sobrio'
+- 19/11/2020 at 17:30 -> Possibili altre regioni rosse, Conte: 'Sia un Natale sobrio'
+- 19/11/2020 at 17:45 -> Oltre 36mila casi, 653 morti, Incidenza test-positivi 14,4%
