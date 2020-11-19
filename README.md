@@ -3187,3 +3187,11 @@
 - 19/11/2020 at 1:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
 - 19/11/2020 at 1:30 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
 - 19/11/2020 at 1:45 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 2:00 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 2:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 2:30 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 2:45 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 3:00 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 3:15 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 3:30 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
+- 19/11/2020 at 3:45 -> Oltre 34mila casi: 753 morti, Giù positivi-test, al 14,6%
