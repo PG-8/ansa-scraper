@@ -3315,3 +3315,11 @@
 - 20/11/2020 at 9:15 -> Covid: al via i test di massa, in Alto Adige, per tre giorni
 - 20/11/2020 at 9:30 -> Test di massa in Alto Adige, lunghe code a Bolzano
 - 20/11/2020 at 9:45 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 10:00 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 10:15 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 10:30 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 10:45 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 11:00 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 11:15 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 11:30 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 11:45 -> Test di massa in Alto Adige, lunghe code a Bolzano
