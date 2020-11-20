@@ -3323,3 +3323,11 @@
 - 20/11/2020 at 11:15 -> Test di massa in Alto Adige, lunghe code a Bolzano
 - 20/11/2020 at 11:30 -> Test di massa in Alto Adige, lunghe code a Bolzano
 - 20/11/2020 at 11:45 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 12:00 -> L'ordinanza di Speranza , rinnova misure per 6 regioni
+- 20/11/2020 at 12:15 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 12:30 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 12:45 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 13:00 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 13:15 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 13:30 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
+- 20/11/2020 at 13:45 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
