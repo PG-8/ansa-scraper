@@ -3347,3 +3347,11 @@
 - 20/11/2020 at 17:15 -> Iss, Rt sceso a 1,18 da 1,43, 'Non fare l'errore dell'estate'
 - 20/11/2020 at 17:30 -> Iss, Rt sceso a 1,18 da 1,43, 'Non fare l'errore dell'estate'
 - 20/11/2020 at 17:45 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 18:00 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 18:15 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 18:30 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 18:45 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 19:00 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 19:15 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 19:30 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
+- 20/11/2020 at 19:45 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
