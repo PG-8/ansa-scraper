@@ -3363,3 +3363,11 @@
 - 20/11/2020 at 21:15 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
 - 20/11/2020 at 21:30 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
 - 20/11/2020 at 21:45 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 22:00 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 22:15 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 22:30 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 22:45 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 23:00 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 23:15 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 23:30 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
+- 20/11/2020 at 23:45 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
