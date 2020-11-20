@@ -3339,3 +3339,11 @@
 - 20/11/2020 at 15:15 -> Iss, Rt sceso a 1,18, Galli:'Attenti a terza ondata'
 - 20/11/2020 at 15:30 -> Iss, Rt sceso a 1,18 da 1,4, Ricoveri, rischi in 18 regioni
 - 20/11/2020 at 15:45 -> Iss, Rt sceso a 1,18 da 1,4, Ricoveri, rischi in 18 regioni
+- 20/11/2020 at 16:00 -> Iss, Rt sceso a 1,18 da 1,43, Ricoveri, rischi in 18 regioni
+- 20/11/2020 at 16:15 -> Iss, Rt sceso a 1,18 da 1,43, Ricoveri, rischi in 18 regioni
+- 20/11/2020 at 16:30 -> Iss, Rt sceso a 1,18 da 1,43, Ricoveri, rischi in 18 regioni
+- 20/11/2020 at 16:45 -> Iss, Rt sceso a 1,18 da 1,43, 'L'epidemia è ovunque'
+- 20/11/2020 at 17:00 -> Iss, Rt sceso a 1,18 da 1,43, Curva comincia a appiattirsi
+- 20/11/2020 at 17:15 -> Iss, Rt sceso a 1,18 da 1,43, 'Non fare l'errore dell'estate'
+- 20/11/2020 at 17:30 -> Iss, Rt sceso a 1,18 da 1,43, 'Non fare l'errore dell'estate'
+- 20/11/2020 at 17:45 -> Oltre 37mila casi, 699 morti, Rapporto positivi-test 15,6%
