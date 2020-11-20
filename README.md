@@ -3331,3 +3331,11 @@
 - 20/11/2020 at 13:15 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
 - 20/11/2020 at 13:30 -> Stesse misure in 6 regioni, 'Rt giù grazie a restrizioni'
 - 20/11/2020 at 13:45 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 14:00 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 14:15 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 14:30 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 14:45 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 15:00 -> Biontech e Pfizer chiedono autorizzazione per il vaccino
+- 20/11/2020 at 15:15 -> Iss, Rt sceso a 1,18, Galli:'Attenti a terza ondata'
+- 20/11/2020 at 15:30 -> Iss, Rt sceso a 1,18 da 1,4, Ricoveri, rischi in 18 regioni
+- 20/11/2020 at 15:45 -> Iss, Rt sceso a 1,18 da 1,4, Ricoveri, rischi in 18 regioni
