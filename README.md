@@ -3307,3 +3307,11 @@
 - 20/11/2020 at 7:15 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
 - 20/11/2020 at 7:30 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
 - 20/11/2020 at 7:45 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 20/11/2020 at 8:00 -> Oltre 36mila casi, 653 morti, Arcuri,'nel '21 tutti vaccinati'
+- 20/11/2020 at 8:15 -> Il Cdm slitta a stasera, misure per 1,4 miliardi
+- 20/11/2020 at 8:30 -> Il Cdm slitta a stasera, misure per 1,4 miliardi
+- 20/11/2020 at 8:45 -> Il Cdm slitta a stasera, misure per 1,4 miliardi
+- 20/11/2020 at 9:00 -> Covid: al via test di massa , in Alto Adige, per tre giorni
+- 20/11/2020 at 9:15 -> Covid: al via i test di massa, in Alto Adige, per tre giorni
+- 20/11/2020 at 9:30 -> Test di massa in Alto Adige, lunghe code a Bolzano
+- 20/11/2020 at 9:45 -> Test di massa in Alto Adige, lunghe code a Bolzano
