@@ -3427,3 +3427,11 @@
 - 21/11/2020 at 13:15 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
 - 21/11/2020 at 13:30 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
 - 21/11/2020 at 13:45 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
+- 21/11/2020 at 14:00 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
+- 21/11/2020 at 14:15 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 14:30 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 14:45 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 15:00 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 15:15 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 15:30 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 15:45 -> Emergenza posti letto nei reparti, sature 19 regioni
