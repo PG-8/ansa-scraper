@@ -3419,3 +3419,11 @@
 - 21/11/2020 at 11:15 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
 - 21/11/2020 at 11:30 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
 - 21/11/2020 at 11:45 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 12:00 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 12:15 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 12:30 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 12:45 -> 'Segnali in controtendenza non sufficienti, resistere'
+- 21/11/2020 at 13:00 -> 'Segnali in controtendenza non sufficienti, resistere'
+- 21/11/2020 at 13:15 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
+- 21/11/2020 at 13:30 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
+- 21/11/2020 at 13:45 -> Speranza: 'Si deve resistere.  Segnali non sono sufficienti'
