@@ -3395,3 +3395,11 @@
 - 21/11/2020 at 5:15 -> Ok a decreto Ristori ter e scostamento di bilancio
 - 21/11/2020 at 5:30 -> Ok a decreto Ristori ter e scostamento di bilancio
 - 21/11/2020 at 5:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 6:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 6:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 6:30 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 6:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 7:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 7:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 7:30 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 7:45 -> Ok a decreto Ristori ter e scostamento di bilancio
