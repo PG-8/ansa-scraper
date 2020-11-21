@@ -3411,3 +3411,11 @@
 - 21/11/2020 at 9:15 -> Ok a decreto Ristori ter e scostamento di bilancio
 - 21/11/2020 at 9:30 -> A Pompei il giallo del fuggiasco col mantello
 - 21/11/2020 at 9:45 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 10:00 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 10:15 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 10:30 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 10:45 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 11:00 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 11:15 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 11:30 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
+- 21/11/2020 at 11:45 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
