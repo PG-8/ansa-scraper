@@ -3403,3 +3403,11 @@
 - 21/11/2020 at 7:15 -> Ok a decreto Ristori ter e scostamento di bilancio
 - 21/11/2020 at 7:30 -> Ok a decreto Ristori ter e scostamento di bilancio
 - 21/11/2020 at 7:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 8:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 8:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 8:30 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 8:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 9:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 9:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 9:30 -> A Pompei il giallo del fuggiasco col mantello
+- 21/11/2020 at 9:45 -> Nuova scoperta a Pompei, Ritrovati due corpi intatti
