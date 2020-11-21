@@ -3387,3 +3387,11 @@
 - 21/11/2020 at 3:15 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
 - 21/11/2020 at 3:30 -> L'indice Rt scende a 1,18,  'Non fare errori dell'estate'
 - 21/11/2020 at 3:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 4:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 4:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 4:30 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 4:45 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 5:00 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 5:15 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 5:30 -> Ok a decreto Ristori ter e scostamento di bilancio
+- 21/11/2020 at 5:45 -> Ok a decreto Ristori ter e scostamento di bilancio
