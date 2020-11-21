@@ -3443,3 +3443,11 @@
 - 21/11/2020 at 17:15 -> 'Al via a gennaio grande campagna di vaccinazione'
 - 21/11/2020 at 17:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 21/11/2020 at 17:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 18:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 18:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 18:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 18:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 19:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 19:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 19:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 19:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
