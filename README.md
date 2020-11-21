@@ -3435,3 +3435,11 @@
 - 21/11/2020 at 15:15 -> Emergenza posti letto nei reparti, sature 19 regioni
 - 21/11/2020 at 15:30 -> Emergenza posti letto nei reparti, sature 19 regioni
 - 21/11/2020 at 15:45 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 16:00 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 16:15 -> Emergenza posti letto nei reparti, sature 19 regioni
+- 21/11/2020 at 16:30 -> 'Al via a gennaio grande campagna di vaccinazione'
+- 21/11/2020 at 16:45 -> 'Al via a gennaio grande campagna di vaccinazione'
+- 21/11/2020 at 17:00 -> 'Al via a gennaio grande campagna di vaccinazione'
+- 21/11/2020 at 17:15 -> 'Al via a gennaio grande campagna di vaccinazione'
+- 21/11/2020 at 17:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 21/11/2020 at 17:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
