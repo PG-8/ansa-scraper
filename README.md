@@ -3531,3 +3531,11 @@
 - 22/11/2020 at 15:15 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
 - 22/11/2020 at 15:30 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
 - 22/11/2020 at 15:45 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 16:00 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 16:15 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 16:30 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 16:45 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 17:00 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 17:15 -> Extra cashback da 150 euro, Cts: 'Punire assembramenti'
+- 22/11/2020 at 17:30 -> Covid, 28.337 nuovi casi , 562 vittime nelle 24 ore
+- 22/11/2020 at 17:45 -> Covid, 28.337 nuovi casi , 562 vittime nelle 24 ore
