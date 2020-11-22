@@ -3499,3 +3499,11 @@
 - 22/11/2020 at 7:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 22/11/2020 at 7:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 22/11/2020 at 7:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 8:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 8:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 8:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 8:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 9:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 9:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 9:30 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 9:45 -> Shopping, cenone e parenti, Regole per Natale che verrà
