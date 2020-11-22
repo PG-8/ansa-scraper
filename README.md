@@ -3507,3 +3507,11 @@
 - 22/11/2020 at 9:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 22/11/2020 at 9:30 -> Shopping, cenone e parenti, Regole per Natale che verrà
 - 22/11/2020 at 9:45 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 10:00 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 10:15 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 10:30 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 10:45 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 11:00 -> Shopping, cenone e parenti, Regole per Natale che verrà
+- 22/11/2020 at 11:15 -> Shopping, cenone e parenti, Ecco il Natale che verrà
+- 22/11/2020 at 11:30 -> Shopping, cenone e parenti, Ecco il Natale che verrà
+- 22/11/2020 at 11:45 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
