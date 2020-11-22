@@ -3547,3 +3547,11 @@
 - 22/11/2020 at 19:15 -> Il Black Friday resta il 27  , Salta l'ipotesi di un rinvio
 - 22/11/2020 at 19:30 -> Il Black Friday resta il 27  , Salta l'ipotesi di un rinvio
 - 22/11/2020 at 19:45 -> Il Black Friday resta il 27  , Salta l'ipotesi di un rinvio
+- 22/11/2020 at 20:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 20:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 20:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 20:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 21:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 21:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 21:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 21:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
