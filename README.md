@@ -3515,3 +3515,11 @@
 - 22/11/2020 at 11:15 -> Shopping, cenone e parenti, Ecco il Natale che verrà
 - 22/11/2020 at 11:30 -> Shopping, cenone e parenti, Ecco il Natale che verrà
 - 22/11/2020 at 11:45 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 12:00 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 12:15 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 12:30 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 12:45 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 13:00 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 13:15 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 13:30 -> Crolla ponte nel crotonese, , allerta arancione a Palermo
+- 22/11/2020 at 13:45 -> Zaki resta ancora in carcere, altri 45 giorni di custodia
