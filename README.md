@@ -3555,3 +3555,11 @@
 - 22/11/2020 at 21:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
 - 22/11/2020 at 21:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
 - 22/11/2020 at 21:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 22:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 22:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 22:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 22:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 23:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 23:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 23:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 22/11/2020 at 23:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
