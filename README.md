@@ -3491,3 +3491,11 @@
 - 22/11/2020 at 5:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 22/11/2020 at 5:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
 - 22/11/2020 at 5:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 6:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 6:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 6:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 6:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 7:00 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 7:15 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 7:30 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
+- 22/11/2020 at 7:45 -> Casi in calo 34.767,692 morti, Meno ricoveri in intensiva
