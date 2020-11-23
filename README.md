@@ -3587,3 +3587,11 @@
 - 23/11/2020 at 5:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
 - 23/11/2020 at 5:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
 - 23/11/2020 at 5:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 6:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 6:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 6:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 6:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 7:00 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 7:15 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 7:30 -> A Natale extra cashback , Fino a 150 euro di rimborso
+- 23/11/2020 at 7:45 -> A Natale extra cashback , Fino a 150 euro di rimborso
