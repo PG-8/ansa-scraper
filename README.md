@@ -2,4 +2,4 @@
 
 *The content below is not curated, nor intended to be*
 
-- reset content on 29/11/2020
+- reset content on 05/12/2020
