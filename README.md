@@ -1,5 +1,6 @@
-### The list below is auto-updated every 15 minutes and pushed every 2 hours on the repository's README by a crontab job running on a Virtual Private Server
+### Express server based scraper running on a Raspberry Pi 4
 
-*The content below is not curated, nor intended to be*
+Runs every X minutes to get the latest headlines from an Italian news agency (Ansa.it)
+It's bare and simple, but gets the job done. 
 
-- reset content on 07/01/2020
+This experiment was created to learn more about cronjobs, scraping, shell scripting and to practice SSHing into a remote server via terminal.
